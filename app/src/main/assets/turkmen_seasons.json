@@ -1,0 +1,32 @@
+{
+  "items": [
+    {
+      "original": "Yaz",
+      "translated": "Yaz",
+      "pronunciation": "/Yaz/",
+      "months": "Iýun, Iýul, Awgust (Haziran, Temmuz, Ağustos)",
+      "imageUrl": "https://example.com/images/summer.jpg"
+    },
+    {
+      "original": "Güýz",
+      "translated": "Sonbahar",
+      "pronunciation": "/Güýz/",
+      "months": "Sentýabr, Oktýabr, Noýabr (Eylül, Ekim, Kasım)",
+      "imageUrl": "https://example.com/images/autumn.jpg"
+    },
+    {
+      "original": "Gyş",
+      "translated": "Kış",
+      "pronunciation": "/Gış/",
+      "months": "Dekabr, Ýanwar, Fewral (Aralık, Ocak, Şubat)",
+      "imageUrl": "https://example.com/images/winter.jpg"
+    },
+    {
+      "original": "Bahar",
+      "translated": "İlkbahar",
+      "pronunciation": "/Bahar/",
+      "months": "Mart, Aprel, Maý (Mart, Nisan, Mayıs)",
+      "imageUrl": "https://example.com/images/spring.jpg"
+    }
+  ]
+}

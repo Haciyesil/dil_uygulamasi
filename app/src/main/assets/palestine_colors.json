@@ -1,0 +1,34 @@
+{
+  "items": [
+    {
+      "original": "أحمر",
+      "translated": "Kırmızı",
+      "pronunciation": "/Ahmar/"
+    },
+    {
+      "original": "أزرق",
+      "translated": "Mavi",
+      "pronunciation": "/Azrak/"
+    },
+    {
+      "original": "أخضر",
+      "translated": "Yeşil",
+      "pronunciation": "/Akhdar/"
+    },
+    {
+      "original": "أصفر",
+      "translated": "Sarı",
+      "pronunciation": "/Asfar/"
+    },
+    {
+      "original": "أبيض",
+      "translated": "Beyaz",
+      "pronunciation": "/Abyad/"
+    },
+    {
+      "original": "أسود",
+      "translated": "Siyah",
+      "pronunciation": "/Aswad/"
+    }
+  ]
+}

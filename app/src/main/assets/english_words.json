@@ -1,0 +1,2544 @@
+{
+  "level1": [
+    {
+      "word": "I",
+      "translation": "ben",
+      "options": ["ben", "bana", "benim", "kendim"]
+    },
+    {
+      "word": "you",
+      "translation": "sen",
+      "options": ["sen", "sana", "senin", "siz"]
+    },
+    {
+      "word": "he",
+      "translation": "o (erkek)",
+      "options": ["o (erkek)", "ona", "onun", "kendisi"]
+    },
+    {
+      "word": "she",
+      "translation": "o (kadın)",
+      "options": ["o (kadın)", "ona", "onun", "kendisi"]
+    },
+    {
+      "word": "it",
+      "translation": "o (nesne)",
+      "options": ["o (nesne)", "ona", "onun", "kendisi"]
+    },
+    {
+      "word": "we",
+      "translation": "biz",
+      "options": ["biz", "bize", "bizim", "kendimiz"]
+    },
+    {
+      "word": "they",
+      "translation": "onlar",
+      "options": ["onlar", "onlara", "onların", "kendileri"]
+    },
+    {
+      "word": "to be",
+      "translation": "olmak",
+      "options": ["olmak", "bulunmak", "var olmak", "mevcut olmak"]
+    },
+    {
+      "word": "to have",
+      "translation": "sahip olmak",
+      "options": ["sahip olmak", "var", "malik olmak", "sahiplik"]
+    },
+    {
+      "word": "to do",
+      "translation": "yapmak",
+      "options": ["yapmak", "etmek", "ifa etmek", "gerçekleştirmek"]
+    },
+    {
+      "word": "and",
+      "translation": "ve",
+      "options": ["ve", "ile", "hem", "de"]
+    },
+    {
+      "word": "or",
+      "translation": "veya",
+      "options": ["veya", "ya da", "yahut", "veyahut"]
+    },
+    {
+      "word": "but",
+      "translation": "fakat",
+      "options": ["fakat", "ama", "lakin", "ancak"]
+    },
+    {
+      "word": "because",
+      "translation": "çünkü",
+      "options": ["çünkü", "zira", "sebebiyle", "nedeniyle"]
+    },
+    {
+      "word": "if",
+      "translation": "eğer",
+      "options": ["eğer", "şayet", "-se/-sa", "olursa"]
+    },
+    {
+      "word": "when",
+      "translation": "ne zaman",
+      "options": ["ne zaman", "ne vakit", "-dığı zaman", "sırasında"]
+    },
+    {
+      "word": "where",
+      "translation": "nerede",
+      "options": ["nerede", "nereye", "nereden", "nere"]
+    },
+    {
+      "word": "how",
+      "translation": "nasıl",
+      "options": ["nasıl", "ne şekilde", "ne biçimde", "ne suretle"]
+    },
+    {
+      "word": "what",
+      "translation": "ne",
+      "options": ["ne", "neyi", "nedir", "nasıl"]
+    },
+    {
+      "word": "why",
+      "translation": "neden",
+      "options": ["neden", "niçin", "niye", "ne sebeple"]
+    },
+    {
+      "word": "who",
+      "translation": "kim",
+      "options": ["kim", "kimdir", "kimi", "kimin"]
+    },
+    {
+      "word": "this",
+      "translation": "bu",
+      "options": ["bu", "şu", "bunlar", "bunu"]
+    },
+    {
+      "word": "that",
+      "translation": "o",
+      "options": ["o", "şu", "onlar", "onu"]
+    },
+    {
+      "word": "these",
+      "translation": "bunlar",
+      "options": ["bunlar", "şunlar", "bu şeyler", "bu kişiler"]
+    },
+    {
+      "word": "those",
+      "translation": "şunlar",
+      "options": ["şunlar", "onlar", "o şeyler", "o kişiler"]
+    }
+  ],
+  "level2": [
+    {
+      "word": "one",
+      "translation": "bir",
+      "options": ["bir", "tek", "birinci", "1"]
+    },
+    {
+      "word": "two",
+      "translation": "iki",
+      "options": ["iki", "çift", "ikinci", "2"]
+    },
+    {
+      "word": "three",
+      "translation": "üç",
+      "options": ["üç", "üçlü", "üçüncü", "3"]
+    },
+    {
+      "word": "four",
+      "translation": "dört",
+      "options": ["dört", "dörtlü", "dördüncü", "4"]
+    },
+    {
+      "word": "five",
+      "translation": "beş",
+      "options": ["beş", "beşli", "beşinci", "5"]
+    },
+    {
+      "word": "ten",
+      "translation": "on",
+      "options": ["on", "onlu", "onuncu", "10"]
+    },
+    {
+      "word": "hundred",
+      "translation": "yüz",
+      "options": ["yüz", "yüzlü", "yüzüncü", "100"]
+    },
+    {
+      "word": "thousand",
+      "translation": "bin",
+      "options": ["bin", "binli", "bininci", "1000"]
+    },
+    {
+      "word": "first",
+      "translation": "ilk",
+      "options": ["ilk", "birinci", "önce", "başta"]
+    },
+    {
+      "word": "last",
+      "translation": "son",
+      "options": ["son", "sonuncu", "en son", "nihai"]
+    },
+    {
+      "word": "some",
+      "translation": "bazı",
+      "options": ["bazı", "birkaç", "biraz", "kimi"]
+    },
+    {
+      "word": "any",
+      "translation": "herhangi",
+      "options": ["herhangi", "herhangi bir", "hiç", "hiçbir"]
+    },
+    {
+      "word": "many",
+      "translation": "çok",
+      "options": ["çok", "birçok", "fazla", "pek çok"]
+    },
+    {
+      "word": "few",
+      "translation": "az",
+      "options": ["az", "biraz", "birkaç", "çok az"]
+    },
+    {
+      "word": "all",
+      "translation": "hepsi",
+      "options": ["hepsi", "tüm", "bütün", "hep"]
+    },
+    {
+      "word": "most",
+      "translation": "çoğu",
+      "options": ["çoğu", "en çok", "çoğunlukla", "ekseriyetle"]
+    },
+    {
+      "word": "time",
+      "translation": "zaman",
+      "options": ["zaman", "vakit", "süre", "çağ"]
+    },
+    {
+      "word": "day",
+      "translation": "gün",
+      "options": ["gün", "gündüz", "günlük", "yevmi"]
+    },
+    {
+      "word": "week",
+      "translation": "hafta",
+      "options": ["hafta", "haftalık", "yedi gün", "haftalar"]
+    },
+    {
+      "word": "month",
+      "translation": "ay",
+      "options": ["ay", "aylık", "30 gün", "aylar"]
+    },
+    {
+      "word": "year",
+      "translation": "yıl",
+      "options": ["yıl", "sene", "yıllık", "yıllar"]
+    },
+    {
+      "word": "today",
+      "translation": "bugün",
+      "options": ["bugün", "bu gün", "günümüzde", "şu günlerde"]
+    },
+    {
+      "word": "tomorrow",
+      "translation": "yarın",
+      "options": ["yarın", "ertesi gün", "gelecek", "bir sonraki gün"]
+    },
+    {
+      "word": "yesterday",
+      "translation": "dün",
+      "options": ["dün", "bir gün önce", "evvelsi gün", "bir önceki gün"]
+    },
+    {
+      "word": "now",
+      "translation": "şimdi",
+      "options": ["şimdi", "şu an", "hemen", "derhal"]
+    }
+  ],
+  "level3": [
+    {
+      "word": "morning",
+      "translation": "sabah",
+      "options": ["sabah", "sabahleyin", "sabahları", "kuşluk vakti"]
+    },
+    {
+      "word": "afternoon",
+      "translation": "öğleden sonra",
+      "options": ["öğleden sonra", "ikindi", "öğle sonrası", "akşamüstü"]
+    },
+    {
+      "word": "evening",
+      "translation": "akşam",
+      "options": ["akşam", "akşamleyin", "akşamüstü", "akşamları"]
+    },
+    {
+      "word": "night",
+      "translation": "gece",
+      "options": ["gece", "geceleyin", "geceleri", "gece vakti"]
+    },
+    {
+      "word": "Monday",
+      "translation": "Pazartesi",
+      "options": ["Pazartesi", "Pzt", "haftanın ilk günü", "pazartesi günü"]
+    },
+    {
+      "word": "Tuesday",
+      "translation": "Salı",
+      "options": ["Salı", "Sal", "haftanın ikinci günü", "salı günü"]
+    },
+    {
+      "word": "Wednesday",
+      "translation": "Çarşamba",
+      "options": ["Çarşamba", "Çrş", "haftanın üçüncü günü", "çarşamba günü"]
+    },
+    {
+      "word": "Thursday",
+      "translation": "Perşembe",
+      "options": ["Perşembe", "Prş", "haftanın dördüncü günü", "perşembe günü"]
+    },
+    {
+      "word": "Friday",
+      "translation": "Cuma",
+      "options": ["Cuma", "Cum", "haftanın beşinci günü", "cuma günü"]
+    },
+    {
+      "word": "Saturday",
+      "translation": "Cumartesi",
+      "options": ["Cumartesi", "Cts", "haftanın altıncı günü", "cumartesi günü"]
+    },
+    {
+      "word": "Sunday",
+      "translation": "Pazar",
+      "options": ["Pazar", "Paz", "haftanın yedinci günü", "pazar günü"]
+    },
+    {
+      "word": "January",
+      "translation": "Ocak",
+      "options": ["Ocak", "Oca", "yılın ilk ayı", "ocak ayı"]
+    },
+    {
+      "word": "February",
+      "translation": "Şubat",
+      "options": ["Şubat", "Şub", "yılın ikinci ayı", "şubat ayı"]
+    },
+    {
+      "word": "March",
+      "translation": "Mart",
+      "options": ["Mart", "Mar", "yılın üçüncü ayı", "mart ayı"]
+    },
+    {
+      "word": "April",
+      "translation": "Nisan",
+      "options": ["Nisan", "Nis", "yılın dördüncü ayı", "nisan ayı"]
+    },
+    {
+      "word": "May",
+      "translation": "Mayıs",
+      "options": ["Mayıs", "May", "yılın beşinci ayı", "mayıs ayı"]
+    },
+    {
+      "word": "June",
+      "translation": "Haziran",
+      "options": ["Haziran", "Haz", "yılın altıncı ayı", "haziran ayı"]
+    },
+    {
+      "word": "July",
+      "translation": "Temmuz",
+      "options": ["Temmuz", "Tem", "yılın yedinci ayı", "temmuz ayı"]
+    },
+    {
+      "word": "August",
+      "translation": "Ağustos",
+      "options": ["Ağustos", "Ağu", "yılın sekizinci ayı", "ağustos ayı"]
+    },
+    {
+      "word": "September",
+      "translation": "Eylül",
+      "options": ["Eylül", "Eyl", "yılın dokuzuncu ayı", "eylül ayı"]
+    },
+    {
+      "word": "October",
+      "translation": "Ekim",
+      "options": ["Ekim", "Eki", "yılın onuncu ayı", "ekim ayı"]
+    },
+    {
+      "word": "November",
+      "translation": "Kasım",
+      "options": ["Kasım", "Kas", "yılın on birinci ayı", "kasım ayı"]
+    },
+    {
+      "word": "December",
+      "translation": "Aralık",
+      "options": ["Aralık", "Ara", "yılın on ikinci ayı", "aralık ayı"]
+    },
+    {
+      "word": "season",
+      "translation": "mevsim",
+      "options": ["mevsim", "sezon", "dönem", "devre"]
+    },
+    {
+      "word": "spring",
+      "translation": "ilkbahar",
+      "options": ["ilkbahar", "bahar", "yaz öncesi", "ilkyaz"]
+    }
+  ],
+  "level4": [
+    {
+      "word": "summer",
+      "translation": "yaz",
+      "options": ["yaz", "yazın", "sıcak mevsim", "yaz mevsimi"]
+    },
+    {
+      "word": "autumn",
+      "translation": "sonbahar",
+      "options": ["sonbahar", "güz", "hazan", "sarı mevsim"]
+    },
+    {
+      "word": "winter",
+      "translation": "kış",
+      "options": ["kış", "kara kış", "soğuk mevsim", "kış mevsimi"]
+    },
+    {
+      "word": "weather",
+      "translation": "hava durumu",
+      "options": ["hava durumu", "iklim", "hava şartları", "meteorolojik durum"]
+    },
+    {
+      "word": "sun",
+      "translation": "güneş",
+      "options": ["güneş", "gün", "şems", "mihr"]
+    },
+    {
+      "word": "moon",
+      "translation": "ay",
+      "options": ["ay", "kamer", "mah", "hilal"]
+    },
+    {
+      "word": "star",
+      "translation": "yıldız",
+      "options": ["yıldız", "necm", "sitare", "nur"]
+    },
+    {
+      "word": "sky",
+      "translation": "gökyüzü",
+      "options": ["gökyüzü", "sema", "gök", "asuman"]
+    },
+    {
+      "word": "cloud",
+      "translation": "bulut",
+      "options": ["bulut", "ebr", "sehap", "hava bulutu"]
+    },
+    {
+      "word": "rain",
+      "translation": "yağmur",
+      "options": ["yağmur", "baran", "bârân", "yağış"]
+    },
+    {
+      "word": "snow",
+      "translation": "kar",
+      "options": ["kar", "berf", "kar taneleri", "kar yağışı"]
+    },
+    {
+      "word": "wind",
+      "translation": "rüzgar",
+      "options": ["rüzgar", "yel", "esinti", "bad"]
+    },
+    {
+      "word": "hot",
+      "translation": "sıcak",
+      "options": ["sıcak", "hararet", "kızgın", "yakıcı"]
+    },
+    {
+      "word": "cold",
+      "translation": "soğuk",
+      "options": ["soğuk", "buz gibi", "serin", "soğuk hava"]
+    },
+    {
+      "word": "warm",
+      "translation": "ılık",
+      "options": ["ılık", "sıcacık", "ılımlı", "sıcak değil"]
+    },
+    {
+      "word": "cool",
+      "translation": "serin",
+      "options": ["serin", "ferah", "hafif soğuk", "taze"]
+    },
+    {
+      "word": "color",
+      "translation": "renk",
+      "options": ["renk", "boya", "renklilik", "nüans"]
+    },
+    {
+      "word": "red",
+      "translation": "kırmızı",
+      "options": ["kırmızı", "al", "kızıl", "ahmer"]
+    },
+    {
+      "word": "blue",
+      "translation": "mavi",
+      "options": ["mavi", "gök mavisi", "çivit", "lacivert"]
+    },
+    {
+      "word": "green",
+      "translation": "yeşil",
+      "options": ["yeşil", "yeşil renk", "çimen rengi", "zümrüt yeşili"]
+    },
+    {
+      "word": "yellow",
+      "translation": "sarı",
+      "options": ["sarı", "sarı renk", "limon sarısı", "altın sarısı"]
+    },
+    {
+      "word": "white",
+      "translation": "beyaz",
+      "options": ["beyaz", "ak", "kar beyazı", "süt beyazı"]
+    },
+    {
+      "word": "black",
+      "translation": "siyah",
+      "options": ["siyah", "kara", "siyah renk", "koyu"]
+    },
+    {
+      "word": "gray",
+      "translation": "gri",
+      "options": ["gri", "boz", "kurşuni", "kül rengi"]
+    },
+    {
+      "word": "brown",
+      "translation": "kahverengi",
+      "options": ["kahverengi", "kahve rengi", "esmer", "ela"]
+    }
+  ],
+  "level5": [
+    {
+      "word": "family",
+      "translation": "aile",
+      "options": ["aile", "akraba", "soy", "ev halkı"]
+    },
+    {
+      "word": "father",
+      "translation": "baba",
+      "options": ["baba", "peder", "ata", "ebeveyn"]
+    },
+    {
+      "word": "mother",
+      "translation": "anne",
+      "options": ["anne", "ana", "valide", "ebeveyn"]
+    },
+    {
+      "word": "parent",
+      "translation": "ebeveyn",
+      "options": ["ebeveyn", "anne-baba", "veli", "ana-baba"]
+    },
+    {
+      "word": "brother",
+      "translation": "erkek kardeş",
+      "options": ["erkek kardeş", "kardeş", "birader", "abi"]
+    },
+    {
+      "word": "sister",
+      "translation": "kız kardeş",
+      "options": ["kız kardeş", "kardeş", "hemşire", "abla"]
+    },
+    {
+      "word": "son",
+      "translation": "oğul",
+      "options": ["oğul", "erkek evlat", "erkek çocuk", "oğlan"]
+    },
+    {
+      "word": "daughter",
+      "translation": "kız",
+      "options": ["kız", "kız evlat", "kız çocuk", "kız evladı"]
+    },
+    {
+      "word": "child",
+      "translation": "çocuk",
+      "options": ["çocuk", "evlat", "sabi", "evladı"]
+    },
+    {
+      "word": "baby",
+      "translation": "bebek",
+      "options": ["bebek", "yavru", "küçük çocuk", "tıfıl"]
+    },
+    {
+      "word": "husband",
+      "translation": "koca",
+      "options": ["koca", "eş", "karı-koca", "hayat arkadaşı"]
+    },
+    {
+      "word": "wife",
+      "translation": "eş",
+      "options": ["eş", "karı", "zevce", "hayat arkadaşı"]
+    },
+    {
+      "word": "grandfather",
+      "translation": "büyükbaba",
+      "options": ["büyükbaba", "dede", "ata", "cet"]
+    },
+    {
+      "word": "grandmother",
+      "translation": "büyükanne",
+      "options": ["büyükanne", "nine", "nene", "anane"]
+    },
+    {
+      "word": "uncle",
+      "translation": "amca",
+      "options": ["amca", "dayı", "emmi", "yaşlı akraba"]
+    },
+    {
+      "word": "aunt",
+      "translation": "teyze",
+      "options": ["teyze", "hala", "yenge", "kadın akraba"]
+    },
+    {
+      "word": "cousin",
+      "translation": "kuzen",
+      "options": ["kuzen", "amcaoğlu", "halakızı", "akraba çocuğu"]
+    },
+    {
+      "word": "friend",
+      "translation": "arkadaş",
+      "options": ["arkadaş", "dost", "yaren", "ahbap"]
+    },
+    {
+      "word": "person",
+      "translation": "kişi",
+      "options": ["kişi", "insan", "şahıs", "kimse"]
+    },
+    {
+      "word": "people",
+      "translation": "insanlar",
+      "options": ["insanlar", "halk", "ahali", "kişiler"]
+    },
+    {
+      "word": "man",
+      "translation": "adam",
+      "options": ["adam", "erkek", "er kişi", "bay"]
+    },
+    {
+      "word": "woman",
+      "translation": "kadın",
+      "options": ["kadın", "bayan", "hanım", "hatun"]
+    },
+    {
+      "word": "boy",
+      "translation": "erkek çocuk",
+      "options": ["erkek çocuk", "oğlan", "delikanlı", "oğlan çocuk"]
+    },
+    {
+      "word": "girl",
+      "translation": "kız",
+      "options": ["kız", "kız çocuk", "genç kız", "kız evlat"]
+    },
+    {
+      "word": "name",
+      "translation": "isim",
+      "options": ["isim", "ad", "nam", "lakap"]
+    }
+  ],
+  "level6": [
+    {
+      "word": "house",
+      "translation": "ev",
+      "options": ["ev", "konut", "hane", "mesken"]
+    },
+    {
+      "word": "home",
+      "translation": "yuva",
+      "options": ["yuva", "ev", "aile ocağı", "barınak"]
+    },
+    {
+      "word": "room",
+      "translation": "oda",
+      "options": ["oda", "salon", "mekan", "koğuş"]
+    },
+    {
+      "word": "kitchen",
+      "translation": "mutfak",
+      "options": ["mutfak", "aşevi", "aşhane", "pişirme odası"]
+    },
+    {
+      "word": "bathroom",
+      "translation": "banyo",
+      "options": ["banyo", "banyo odası", "duş", "hamam"]
+    },
+    {
+      "word": "bedroom",
+      "translation": "yatak odası",
+      "options": ["yatak odası", "uyuma odası", "yatakhane", "istirahat odası"]
+    },
+    {
+      "word": "living room",
+      "translation": "oturma odası",
+      "options": ["oturma odası", "salon", "misafir odası", "kabul odası"]
+    },
+    {
+      "word": "garden",
+      "translation": "bahçe",
+      "options": ["bahçe", "bostan", "avlu", "yeşillik"]
+    },
+    {
+      "word": "wall",
+      "translation": "duvar",
+      "options": ["duvar", "cidar", "sur", "hisar"]
+    },
+    {
+      "word": "door",
+      "translation": "kapı",
+      "options": ["kapı", "giriş", "methal", "dergah"]
+    },
+    {
+      "word": "window",
+      "translation": "pencere",
+      "options": ["pencere", "cam", "pencere açıklığı", "pencere kanadı"]
+    },
+    {
+      "word": "floor",
+      "translation": "zemin",
+      "options": ["zemin", "taban", "döşeme", "kat"]
+    },
+    {
+      "word": "ceiling",
+      "translation": "tavan",
+      "options": ["tavan", "dam", "kubbe", "çatı"]
+    },
+    {
+      "word": "roof",
+      "translation": "çatı",
+      "options": ["çatı", "dam", "kubbe", "tavan"]
+    },
+    {
+      "word": "stairs",
+      "translation": "merdiven",
+      "options": ["merdiven", "basamaklar", "çıkma", "çıkıntı"]
+    },
+    {
+      "word": "furniture",
+      "translation": "mobilya",
+      "options": ["mobilya", "eşya", "döşeme", "mefruşat"]
+    },
+    {
+      "word": "table",
+      "translation": "masa",
+      "options": ["masa", "sehpa", "sofra", "tabla"]
+    },
+    {
+      "word": "chair",
+      "translation": "sandalye",
+      "options": ["sandalye", "iskemle", "koltuk", "oturak"]
+    },
+    {
+      "word": "bed",
+      "translation": "yatak",
+      "options": ["yatak", "döşek", "divan", "uyku yeri"]
+    },
+    {
+      "word": "sofa",
+      "translation": "kanepe",
+      "options": ["kanepe", "divan", "sedir", "çekyat"]
+    },
+    {
+      "word": "mirror",
+      "translation": "ayna",
+      "options": ["ayna", "mirat", "gözgü", "aynalık"]
+    },
+    {
+      "word": "picture",
+      "translation": "resim",
+      "options": ["resim", "fotoğraf", "tablo", "görüntü"]
+    },
+    {
+      "word": "lamp",
+      "translation": "lamba",
+      "options": ["lamba", "ışık", "avize", "fener"]
+    },
+    {
+      "word": "clock",
+      "translation": "saat",
+      "options": ["saat", "duvar saati", "çalar saat", "zaman ölçer"]
+    },
+    {
+      "word": "television",
+      "translation": "televizyon",
+      "options": ["televizyon", "TV", "ekran", "görüntü alıcısı"]
+    }
+  ],
+  "level7": [
+    {
+      "word": "food",
+      "translation": "yiyecek",
+      "options": ["yiyecek", "gıda", "yemek", "aş"]
+    },
+    {
+      "word": "meal",
+      "translation": "öğün",
+      "options": ["öğün", "yemek", "yemek vakti", "öğün zamanı"]
+    },
+    {
+      "word": "breakfast",
+      "translation": "kahvaltı",
+      "options": ["kahvaltı", "sabah yemeği", "sabah kahvaltısı", "kuşluk"]
+    },
+    {
+      "word": "lunch",
+      "translation": "öğle yemeği",
+      "options": ["öğle yemeği", "öğlen", "öğle", "nahar"]
+    },
+    {
+      "word": "dinner",
+      "translation": "akşam yemeği",
+      "options": ["akşam yemeği", "akşam", "şam", "akşam öğünü"]
+    },
+    {
+      "word": "fruit",
+      "translation": "meyve",
+      "options": ["meyve", "yemiş", "semere", "bar"]
+    },
+    {
+      "word": "vegetable",
+      "translation": "sebze",
+      "options": ["sebze", "zerzevat", "yeşillik", "bahçe ürünü"]
+    },
+    {
+      "word": "meat",
+      "translation": "et",
+      "options": ["et", "kırmızı et", "hayvan eti", "lâhm"]
+    },
+    {
+      "word": "fish",
+      "translation": "balık",
+      "options": ["balık", "su ürünü", "deniz canlısı", "balık eti"]
+    },
+    {
+      "word": "chicken",
+      "translation": "tavuk",
+      "options": ["tavuk", "piliç", "kümes hayvanı", "tavuk eti"]
+    },
+    {
+      "word": "bread",
+      "translation": "ekmek",
+      "options": ["ekmek", "somun", "francala", "nan"]
+    },
+    {
+      "word": "rice",
+      "translation": "pirinç",
+      "options": ["pirinç", "pilav", "erz", "şehriye"]
+    },
+    {
+      "word": "pasta",
+      "translation": "makarna",
+      "options": ["makarna", "erişte", "noodle", "şehriye"]
+    },
+    {
+      "word": "potato",
+      "translation": "patates",
+      "options": ["patates", "kumpir", "soğanlı", "yer elması"]
+    },
+    {
+      "word": "tomato",
+      "translation": "domates",
+      "options": ["domates", "kırmızı sebze", "pomidor", "kızıl yemiş"]
+    },
+    {
+      "word": "onion",
+      "translation": "soğan",
+      "options": ["soğan", "kuru soğan", "piyaz", "basal"]
+    },
+    {
+      "word": "apple",
+      "translation": "elma",
+      "options": ["elma", "meyve", "kızıl elma", "yeşil elma"]
+    },
+    {
+      "word": "banana",
+      "translation": "muz",
+      "options": ["muz", "sarı meyve", "tropikal meyve", "kıvrık meyve"]
+    },
+    {
+      "word": "orange",
+      "translation": "portakal",
+      "options": ["portakal", "turuncu meyve", "narenciye", "portugal"]
+    },
+    {
+      "word": "water",
+      "translation": "su",
+      "options": ["su", "içme suyu", "ab", "sıvı"]
+    },
+    {
+      "word": "milk",
+      "translation": "süt",
+      "options": ["süt", "beyaz içecek", "sağmal", "süt ürünü"]
+    },
+    {
+      "word": "coffee",
+      "translation": "kahve",
+      "options": ["kahve", "Türk kahvesi", "espresso", "sıcak içecek"]
+    },
+    {
+      "word": "tea",
+      "translation": "çay",
+      "options": ["çay", "demleme", "sıcak içecek", "demli çay"]
+    },
+    {
+      "word": "juice",
+      "translation": "meyve suyu",
+      "options": ["meyve suyu", "su", "içecek", "nektar"]
+    },
+    {
+      "word": "salt",
+      "translation": "tuz",
+      "options": ["tuz", "sofra tuzu", "çeşni", "acı tuz"]
+    }
+  ],
+  "level8": [
+    {
+      "word": "sugar",
+      "translation": "şeker",
+      "options": ["şeker", "tatlı", "glikoz", "sakkaroz"]
+    },
+    {
+      "word": "oil",
+      "translation": "yağ",
+      "options": ["yağ", "zeytinyağı", "sıvıyağ", "ayçiçek yağı"]
+    },
+    {
+      "word": "pepper",
+      "translation": "biber",
+      "options": ["biber", "karabiber", "acı biber", "baharat"]
+    },
+    {
+      "word": "spice",
+      "translation": "baharat",
+      "options": ["baharat", "çeşni", "tat verici", "tadlandırıcı"]
+    },
+    {
+      "word": "hungry",
+      "translation": "aç",
+      "options": ["aç", "açlık çeken", "karnı aç", "aç kalmış"]
+    },
+    {
+      "word": "thirsty",
+      "translation": "susuz",
+      "options": ["susuz", "susamış", "susayan", "su isteyen"]
+    },
+    {
+      "word": "delicious",
+      "translation": "lezzetli",
+      "options": ["lezzetli", "nefis", "ağız tadı", "meze"]
+    },
+    {
+      "word": "cook",
+      "translation": "pişirmek",
+      "options": ["pişirmek", "yapmak", "hazırlamak", "tatlandırmak"]
+    },
+    {
+      "word": "clothes",
+      "translation": "kıyafetler",
+      "options": ["kıyafetler", "elbiseler", "giysi", "libas"]
+    },
+    {
+      "word": "shirt",
+      "translation": "gömlek",
+      "options": ["gömlek", "üst giyim", "bluz", "yakalı giysi"]
+    },
+    {
+      "word": "pants",
+      "translation": "pantolon",
+      "options": ["pantolon", "don", "alt giyim", "alt giysi"]
+    },
+    {
+      "word": "skirt",
+      "translation": "etek",
+      "options": ["etek", "kadın giyimi", "alt giyim", "minili"]
+    },
+    {
+      "word": "dress",
+      "translation": "elbise",
+      "options": ["elbise", "fistan", "entari", "giysi"]
+    },
+    {
+      "word": "shoes",
+      "translation": "ayakkabılar",
+      "options": ["ayakkabılar", "pabuç", "nalın", "çarık"]
+    },
+    {
+      "word": "hat",
+      "translation": "şapka",
+      "options": ["şapka", "kasket", "börk", "külah"]
+    },
+    {
+      "word": "coat",
+      "translation": "mont",
+      "options": ["mont", "palto", "ceket", "gocuk"]
+    },
+    {
+      "word": "sock",
+      "translation": "çorap",
+      "options": ["çorap", "patik", "ayak giysisi", "mest"]
+    },
+    {
+      "word": "glove",
+      "translation": "eldiven",
+      "options": ["eldiven", "el giysisi", "ellik", "el örtüsü"]
+    },
+    {
+      "word": "body",
+      "translation": "vücut",
+      "options": ["vücut", "beden", "gövde", "ten"]
+    },
+    {
+      "word": "head",
+      "translation": "baş",
+      "options": ["baş", "kafa", "ser", "kelle"]
+    },
+    {
+      "word": "face",
+      "translation": "yüz",
+      "options": ["yüz", "çehre", "surat", "sima"]
+    },
+    {
+      "word": "eye",
+      "translation": "göz",
+      "options": ["göz", "görme organı", "gözcük", "gözcağız"]
+    },
+    {
+      "word": "ear",
+      "translation": "kulak",
+      "options": ["kulak", "işitme organı", "kulakçık", "kulakçağız"]
+    },
+    {
+      "word": "nose",
+      "translation": "burun",
+      "options": ["burun", "koklama organı", "burunçuk", "burnaz"]
+    },
+    {
+      "word": "mouth",
+      "translation": "ağız",
+      "options": ["ağız", "dudak", "ağızcık", "diş kovuğu"]
+    }
+  ],
+  "level9": [
+    {
+      "word": "tooth",
+      "translation": "diş",
+      "options": ["diş", "dişçik", "öğütücü", "azı"]
+    },
+    {
+      "word": "hair",
+      "translation": "saç",
+      "options": ["saç", "kıl", "tüy", "zülüf"]
+    },
+    {
+      "word": "hand",
+      "translation": "el",
+      "options": ["el", "pençe", "avuç", "elcik"]
+    },
+    {
+      "word": "arm",
+      "translation": "kol",
+      "options": ["kol", "pazı", "dirsek", "kolcuk"]
+    },
+    {
+      "word": "finger",
+      "translation": "parmak",
+      "options": ["parmak", "parmakçık", "el parmağı", "tutma organı"]
+    },
+    {
+      "word": "leg",
+      "translation": "bacak",
+      "options": ["bacak", "ayak", "baldır", "but"]
+    },
+    {
+      "word": "foot",
+      "translation": "ayak",
+      "options": ["ayak", "taban", "pençe", "yürüme organı"]
+    },
+    {
+      "word": "heart",
+      "translation": "kalp",
+      "options": ["kalp", "yürek", "gönül", "dil"]
+    },
+    {
+      "word": "blood",
+      "translation": "kan",
+      "options": ["kan", "kızıl sıvı", "yaşam sıvısı", "vücut sıvısı"]
+    },
+    {
+      "word": "bone",
+      "translation": "kemik",
+      "options": ["kemik", "kaval kemiği", "iskelet", "kemikçik"]
+    },
+    {
+      "word": "skin",
+      "translation": "deri",
+      "options": ["deri", "cilt", "ten", "meşin"]
+    },
+    {
+      "word": "brain",
+      "translation": "beyin",
+      "options": ["beyin", "dimağ", "kafa", "akıl merkezi"]
+    },
+    {
+      "word": "health",
+      "translation": "sağlık",
+      "options": ["sağlık", "sıhhat", "esenlik", "afiyet"]
+    },
+    {
+      "word": "sick",
+      "translation": "hasta",
+      "options": ["hasta", "rahatsız", "keyifsiz", "dertli"]
+    },
+    {
+      "word": "pain",
+      "translation": "ağrı",
+      "options": ["ağrı", "sızı", "acı", "elem"]
+    },
+    {
+      "word": "doctor",
+      "translation": "doktor",
+      "options": ["doktor", "hekim", "tabip", "sağlıkçı"]
+    },
+    {
+      "word": "hospital",
+      "translation": "hastane",
+      "options": ["hastane", "klinik", "şifahane", "sağlık merkezi"]
+    },
+    {
+      "word": "medicine",
+      "translation": "ilaç",
+      "options": ["ilaç", "deva", "em", "çare"]
+    },
+    {
+      "word": "sport",
+      "translation": "spor",
+      "options": ["spor", "oyun", "egzersiz", "jimnastik"]
+    },
+    {
+      "word": "football",
+      "translation": "futbol",
+      "options": ["futbol", "ayak topu", "top oyunu", "krampon"]
+    },
+    {
+      "word": "basketball",
+      "translation": "basketbol",
+      "options": ["basketbol", "sepet topu", "uzun boy oyunu", "pota oyunu"]
+    },
+    {
+      "word": "tennis",
+      "translation": "tenis",
+      "options": ["tenis", "kort oyunu", "raket oyunu", "servis oyunu"]
+    },
+    {
+      "word": "swimming",
+      "translation": "yüzme",
+      "options": ["yüzme", "su sporu", "dalgıçlık", "kulaç"]
+    },
+    {
+      "word": "running",
+      "translation": "koşma",
+      "options": ["koşma", "koşu", "seğirtme", "sürat"]
+    },
+    {
+      "word": "walk",
+      "translation": "yürümek",
+      "options": ["yürümek", "adım atmak", "gezinmek", "volta atmak"]
+    }
+  ],
+  "level10": [
+    {
+      "word": "dance",
+      "translation": "dans",
+      "options": ["dans", "raks", "oyun", "hora"]
+    },
+    {
+      "word": "sing",
+      "translation": "şarkı söylemek",
+      "options": ["şarkı söylemek", "taganni etmek", "terennüm etmek", "nağme yapmak"]
+    },
+    {
+      "word": "play",
+      "translation": "oynamak",
+      "options": ["oynamak", "oyun oynamak", "eğlenmek", "vakit geçirmek"]
+    },
+    {
+      "word": "win",
+      "translation": "kazanmak",
+      "options": ["kazanmak", "galip gelmek", "yenmek", "üstün gelmek"]
+    },
+    {
+      "word": "lose",
+      "translation": "kaybetmek",
+      "options": ["kaybetmek", "yenilmek", "mağlup olmak", "yitirmek"]
+    },
+    {
+      "word": "travel",
+      "translation": "seyahat etmek",
+      "options": ["seyahat etmek", "yolculuk etmek", "gezmek", "dolaşmak"]
+    },
+    {
+      "word": "city",
+      "translation": "şehir",
+      "options": ["şehir", "kent", "medine", "site"]
+    },
+    {
+      "word": "country",
+      "translation": "ülke",
+      "options": ["ülke", "memleket", "yurt", "diyar"]
+    },
+    {
+      "word": "road",
+      "translation": "yol",
+      "options": ["yol", "cadde", "sokak", "bulvar"]
+    },
+    {
+      "word": "street",
+      "translation": "sokak",
+      "options": ["sokak", "cadde", "yol", "geçit"]
+    },
+    {
+      "word": "building",
+      "translation": "bina",
+      "options": ["bina", "yapı", "apartman", "imaret"]
+    },
+    {
+      "word": "bridge",
+      "translation": "köprü",
+      "options": ["köprü", "geçit", "kemer", "viyadük"]
+    },
+    {
+      "word": "airport",
+      "translation": "havaalanı",
+      "options": ["havaalanı", "havalimanı", "hava meydanı", "uçuş merkezi"]
+    },
+    {
+      "word": "station",
+      "translation": "istasyon",
+      "options": ["istasyon", "durak", "terminal", "gar"]
+    },
+    {
+      "word": "car",
+      "translation": "araba",
+      "options": ["araba", "otomobil", "taşıt", "vasıta"]
+    },
+    {
+      "word": "bus",
+      "translation": "otobüs",
+      "options": ["otobüs", "yolcu taşıtı", "belediye otobüsü", "toplu taşıma"]
+    },
+    {
+      "word": "train",
+      "translation": "tren",
+      "options": ["tren", "demir yolu taşıtı", "katar", "lokomotif"]
+    },
+    {
+      "word": "plane",
+      "translation": "uçak",
+      "options": ["uçak", "hava taşıtı", "jet", "tayyare"]
+    },
+    {
+      "word": "ship",
+      "translation": "gemi",
+      "options": ["gemi", "vapur", "deniz taşıtı", "feribot"]
+    },
+    {
+      "word": "bicycle",
+      "translation": "bisiklet",
+      "options": ["bisiklet", "velespit", "pedallı taşıt", "iki tekerlekli"]
+    },
+    {
+      "word": "school",
+      "translation": "okul",
+      "options": ["okul", "mektep", "medrese", "öğretim kurumu"]
+    },
+    {
+      "word": "student",
+      "translation": "öğrenci",
+      "options": ["öğrenci", "talebe", "mektepli", "okur"]
+    },
+    {
+      "word": "teacher",
+      "translation": "öğretmen",
+      "options": ["öğretmen", "hoca", "muallim", "eğitmen"]
+    },
+    {
+      "word": "book",
+      "translation": "kitap",
+      "options": ["kitap", "eser", "cilt", "telif"]
+    },
+    {
+      "word": "pen",
+      "translation": "kalem",
+      "options": ["kalem", "tükenmez", "yazı aleti", "dolma kalem"]
+    }
+  ],
+  "level11": [
+    {
+      "word": "paper",
+      "translation": "kağıt",
+      "options": ["kağıt", "sayfa", "yaprak", "varaka"]
+    },
+    {
+      "word": "notebook",
+      "translation": "defter",
+      "options": ["defter", "not defteri", "ajanda", "kayıt defteri"]
+    },
+    {
+      "word": "study",
+      "translation": "çalışmak",
+      "options": ["çalışmak", "okumak", "öğrenmek", "ders çalışmak"]
+    },
+    {
+      "word": "learn",
+      "translation": "öğrenmek",
+      "options": ["öğrenmek", "bilgi edinmek", "tahsil etmek", "kavramak"]
+    },
+    {
+      "word": "teach",
+      "translation": "öğretmek",
+      "options": ["öğretmek", "eğitmek", "talim ettirmek", "aktarmak"]
+    },
+    {
+      "word": "read",
+      "translation": "okumak",
+      "options": ["okumak", "kıraat etmek", "mütalaa etmek", "göz gezdirmek"]
+    },
+    {
+      "word": "write",
+      "translation": "yazmak",
+      "options": ["yazmak", "kaydetmek", "kaleme almak", "not almak"]
+    },
+    {
+      "word": "speak",
+      "translation": "konuşmak",
+      "options": ["konuşmak", "söylemek", "sohbet etmek", "dil dökmek"]
+    },
+    {
+      "word": "listen",
+      "translation": "dinlemek",
+      "options": ["dinlemek", "işitmek", "kulak vermek", "duymak"]
+    },
+    {
+      "word": "understand",
+      "translation": "anlamak",
+      "options": ["anlamak", "kavramak", "idrak etmek", "algılamak"]
+    },
+    {
+      "word": "work",
+      "translation": "çalışmak",
+      "options": ["çalışmak", "iş yapmak", "mesai yapmak", "emek vermek"]
+    },
+    {
+      "word": "job",
+      "translation": "iş",
+      "options": ["iş", "meslek", "görev", "vazife"]
+    },
+    {
+      "word": "money",
+      "translation": "para",
+      "options": ["para", "nakit", "akçe", "meblağ"]
+    },
+    {
+      "word": "buy",
+      "translation": "satın almak",
+      "options": ["satın almak", "almak", "edinmek", "para vermek"]
+    },
+    {
+      "word": "sell",
+      "translation": "satmak",
+      "options": ["satmak", "pazarlamak", "elden çıkarmak", "devretmek"]
+    },
+    {
+      "word": "shop",
+      "translation": "alışveriş yapmak",
+      "options": ["alışveriş yapmak", "alışveriş", "alım satım", "çarşı"]
+    },
+    {
+      "word": "store",
+      "translation": "mağaza",
+      "options": ["mağaza", "dükkan", "satış yeri", "market"]
+    },
+    {
+      "word": "pay",
+      "translation": "ödemek",
+      "options": ["ödemek", "para vermek", "bedelini vermek", "taksit ödemek"]
+    },
+    {
+      "word": "cheap",
+      "translation": "ucuz",
+      "options": ["ucuz", "uygun fiyatlı", "ehven", "ekonomik"]
+    },
+    {
+      "word": "expensive",
+      "translation": "pahalı",
+      "options": ["pahalı", "yüksek fiyatlı", "masraflı", "lüks"]
+    },
+    {
+      "word": "save",
+      "translation": "biriktirmek",
+      "options": ["biriktirmek", "tasarruf etmek", "korumak", "kurtarmak"]
+    },
+    {
+      "word": "spend",
+      "translation": "harcamak",
+      "options": ["harcamak", "tüketmek", "sarf etmek", "masraf etmek"]
+    },
+    {
+      "word": "free",
+      "translation": "ücretsiz",
+      "options": ["ücretsiz", "bedava", "parasız", "gratis"]
+    },
+    {
+      "word": "busy",
+      "translation": "meşgul",
+      "options": ["meşgul", "işi olan", "dolu", "zamanı olmayan"]
+    },
+    {
+      "word": "tired",
+      "translation": "yorgun",
+      "options": ["yorgun", "bitkin", "halsiz", "argın"]
+    }
+  ],
+  "level12": [
+    {
+      "word": "happy",
+      "translation": "mutlu",
+      "options": ["mutlu", "mesut", "bahtiyar", "memnun"]
+    },
+    {
+      "word": "sad",
+      "translation": "üzgün",
+      "options": ["üzgün", "kederli", "mahzun", "melûl"]
+    },
+    {
+      "word": "angry",
+      "translation": "kızgın",
+      "options": ["kızgın", "öfkeli", "kızmış", "hiddetli"]
+    },
+    {
+      "word": "afraid",
+      "translation": "korkmuş",
+      "options": ["korkmuş", "ürkmüş", "çekinik", "tedirgin"]
+    },
+    {
+      "word": "excited",
+      "translation": "heyecanlı",
+      "options": ["heyecanlı", "coşkulu", "hevesli", "istekli"]
+    },
+    {
+      "word": "surprised",
+      "translation": "şaşırmış",
+      "options": ["şaşırmış", "hayret etmiş", "afallamış", "gafil avlanmış"]
+    },
+    {
+      "word": "interesting",
+      "translation": "ilginç",
+      "options": ["ilginç", "merak uyandırıcı", "enteresan", "dikkate değer"]
+    },
+    {
+      "word": "boring",
+      "translation": "sıkıcı",
+      "options": ["sıkıcı", "bıktırıcı", "usandırıcı", "monoton"]
+    },
+    {
+      "word": "easy",
+      "translation": "kolay",
+      "options": ["kolay", "basit", "zahmetsiz", "emeksiz"]
+    },
+    {
+      "word": "difficult",
+      "translation": "zor",
+      "options": ["zor", "güç", "çetin", "müşkül"]
+    },
+    {
+      "word": "important",
+      "translation": "önemli",
+      "options": ["önemli", "mühim", "ehemmiyetli", "kayda değer"]
+    },
+    {
+      "word": "big",
+      "translation": "büyük",
+      "options": ["büyük", "iri", "kocaman", "devasa"]
+    },
+    {
+      "word": "small",
+      "translation": "küçük",
+      "options": ["küçük", "ufak", "minik", "ufacık"]
+    },
+    {
+      "word": "tall",
+      "translation": "uzun",
+      "options": ["uzun", "yüksek", "boylu", "mürtefi"]
+    },
+    {
+      "word": "short",
+      "translation": "kısa",
+      "options": ["kısa", "bodur", "basık", "cüce"]
+    },
+    {
+      "word": "fat",
+      "translation": "şişman",
+      "options": ["şişman", "şişko", "tombul", "göbekli"]
+    },
+    {
+      "word": "thin",
+      "translation": "zayıf",
+      "options": ["zayıf", "ince", "sıska", "nahif"]
+    },
+    {
+      "word": "beautiful",
+      "translation": "güzel",
+      "options": ["güzel", "hoş", "latif", "cemil"]
+    },
+    {
+      "word": "ugly",
+      "translation": "çirkin",
+      "options": ["çirkin", "kötü görünümlü", "yüzsüz", "biçimsiz"]
+    },
+    {
+      "word": "young",
+      "translation": "genç",
+      "options": ["genç", "delikanlı", "yavru", "yaşı küçük"]
+    },
+    {
+      "word": "old",
+      "translation": "yaşlı",
+      "options": ["yaşlı", "ihtiyar", "kocamış", "kart"]
+    },
+    {
+      "word": "new",
+      "translation": "yeni",
+      "options": ["yeni", "taze", "modern", "yepyeni"]
+    },
+    {
+      "word": "old",
+      "translation": "eski",
+      "options": ["eski", "köhne", "kullanılmış", "antik"]
+    },
+    {
+      "word": "good",
+      "translation": "iyi",
+      "options": ["iyi", "güzel", "hoş", "kaliteli"]
+    },
+    {
+      "word": "bad",
+      "translation": "kötü",
+      "options": ["kötü", "fena", "berbat", "çirkin"]
+    },
+    {
+      "level13": [
+        {
+          "word": "clean",
+          "translation": "temiz",
+          "options": ["temiz", "pak", "arı", "hijyenik"]
+        },
+        {
+          "word": "dirty",
+          "translation": "kirli",
+          "options": ["kirli", "pis", "lekeli", "pasaklı"]
+        },
+        {
+          "word": "fast",
+          "translation": "hızlı",
+          "options": ["hızlı", "çabuk", "süratli", "tez"]
+        },
+        {
+          "word": "slow",
+          "translation": "yavaş",
+          "options": ["yavaş", "ağır", "aheste", "yavaşça"]
+        },
+        {
+          "word": "strong",
+          "translation": "güçlü",
+          "options": ["güçlü", "kuvvetli", "zorlu", "sağlam"]
+        },
+        {
+          "word": "weak",
+          "translation": "zayıf",
+          "options": ["zayıf", "güçsüz", "cılız", "dermansız"]
+        },
+        {
+          "word": "high",
+          "translation": "yüksek",
+          "options": ["yüksek", "ulu", "mürtefi", "uzak"]
+        },
+        {
+          "word": "low",
+          "translation": "alçak",
+          "options": ["alçak", "basık", "aşağı", "düşük"]
+        },
+        {
+          "word": "right",
+          "translation": "doğru",
+          "options": ["doğru", "haklı", "sağ", "uygun"]
+        },
+        {
+          "word": "wrong",
+          "translation": "yanlış",
+          "options": ["yanlış", "hatalı", "hata", "yalan"]
+        },
+        {
+          "word": "front",
+          "translation": "ön",
+          "options": ["ön", "cephe", "ön taraf", "öndeki"]
+        },
+        {
+          "word": "back",
+          "translation": "arka",
+          "options": ["arka", "geri", "art", "sırt"]
+        },
+        {
+          "word": "up",
+          "translation": "yukarı",
+          "options": ["yukarı", "üst", "yüksek", "üstte"]
+        },
+        {
+          "word": "down",
+          "translation": "aşağı",
+          "options": ["aşağı", "alt", "düşük", "altta"]
+        },
+        {
+          "word": "open",
+          "translation": "açık",
+          "options": ["açık", "serbest", "açılmış", "aleni"]
+        },
+        {
+          "word": "close",
+          "translation": "kapalı",
+          "options": ["kapalı", "yakın", "kapanmış", "yanaşık"]
+        },
+        {
+          "word": "full",
+          "translation": "dolu",
+          "options": ["dolu", "tam", "bütün", "eksiksiz"]
+        },
+        {
+          "word": "empty",
+          "translation": "boş",
+          "options": ["boş", "dolmamış", "ıssız", "içinde bir şey olmayan"]
+        },
+        {
+          "word": "here",
+          "translation": "burada",
+          "options": ["burada", "burası", "bura", "buralarda"]
+        },
+        {
+          "word": "there",
+          "translation": "orada",
+          "options": ["orada", "orası", "ora", "oralarda"]
+        },
+        {
+          "word": "near",
+          "translation": "yakın",
+          "options": ["yakın", "yakında", "yakında olan", "civar"]
+        },
+        {
+          "word": "far",
+          "translation": "uzak",
+          "options": ["uzak", "ırak", "uzakta", "mesafeli"]
+        },
+        {
+          "word": "inside",
+          "translation": "içeride",
+          "options": ["içeride", "içinde", "dahilinde", "iç kısımda"]
+        },
+        {
+          "word": "outside",
+          "translation": "dışarıda",
+          "options": ["dışarıda", "dışında", "haricinde", "dış kısımda"]
+        },
+        {
+          "word": "early",
+          "translation": "erken",
+          "options": ["erken", "erken saatte", "vaktinden önce", "tez"]
+        }
+      ],
+      "level14": [
+        {
+          "word": "late",
+          "translation": "geç",
+          "options": ["geç", "gecikmiş", "vaktinden sonra", "geç kalmış"]
+        },
+        {
+          "word": "first",
+          "translation": "ilk",
+          "options": ["ilk", "birinci", "önce", "başta"]
+        },
+        {
+          "word": "last",
+          "translation": "son",
+          "options": ["son", "sonuncu", "nihai", "en sondaki"]
+        },
+        {
+          "word": "more",
+          "translation": "daha fazla",
+          "options": ["daha fazla", "artık", "çok", "çokça"]
+        },
+        {
+          "word": "less",
+          "translation": "daha az",
+          "options": ["daha az", "azıcık", "eksik", "noksan"]
+        },
+        {
+          "word": "much",
+          "translation": "çok",
+          "options": ["çok", "fazla", "bol", "hayli"]
+        },
+        {
+          "word": "little",
+          "translation": "az",
+          "options": ["az", "küçük", "ufak", "minik"]
+        },
+        {
+          "word": "very",
+          "translation": "çok",
+          "options": ["çok", "pek", "gayet", "oldukça"]
+        },
+        {
+          "word": "too",
+          "translation": "aşırı",
+          "options": ["aşırı", "da/de", "fazla", "çok fazla"]
+        },
+        {
+          "word": "enough",
+          "translation": "yeterli",
+          "options": ["yeterli", "kafi", "yeter", "yeteri kadar"]
+        },
+        {
+          "word": "only",
+          "translation": "sadece",
+          "options": ["sadece", "yalnızca", "tek", "sırf"]
+        },
+        {
+          "word": "also",
+          "translation": "ayrıca",
+          "options": ["ayrıca", "hem de", "da/de", "ek olarak"]
+        },
+        {
+          "word": "almost",
+          "translation": "neredeyse",
+          "options": ["neredeyse", "hemen hemen", "yaklaşık", "az daha"]
+        },
+        {
+          "word": "about",
+          "translation": "hakkında",
+          "options": ["hakkında", "yaklaşık", "civarında", "ilgili"]
+        },
+        {
+          "word": "always",
+          "translation": "her zaman",
+          "options": ["her zaman", "daima", "sürekli", "devamlı"]
+        },
+        {
+          "word": "never",
+          "translation": "asla",
+          "options": ["asla", "hiçbir zaman", "katiyen", "hiç"]
+        },
+        {
+          "word": "sometimes",
+          "translation": "bazen",
+          "options": ["bazen", "ara sıra", "kimi zaman", "zaman zaman"]
+        },
+        {
+          "word": "often",
+          "translation": "sık sık",
+          "options": ["sık sık", "çoğu kez", "ekseriyetle", "sıklıkla"]
+        },
+        {
+          "word": "usually",
+          "translation": "genellikle",
+          "options": ["genellikle", "çoğunlukla", "yaygın olarak", "adeten"]
+        },
+        {
+          "word": "maybe",
+          "translation": "belki",
+          "options": ["belki", "olabilir", "muhtemelen", "ihtimal"]
+        },
+        {
+          "word": "perhaps",
+          "translation": "belki",
+          "options": ["belki", "olasılıkla", "muhtemelen", "umulur ki"]
+        },
+        {
+          "word": "probably",
+          "translation": "muhtemelen",
+          "options": ["muhtemelen", "herhalde", "büyük ihtimalle", "olasılıkla"]
+        },
+        {
+          "word": "certainly",
+          "translation": "kesinlikle",
+          "options": ["kesinlikle", "muhakkak", "şüphesiz", "elbette"]
+        },
+        {
+          "word": "really",
+          "translation": "gerçekten",
+          "options": ["gerçekten", "hakikaten", "sahiden", "cidden"]
+        },
+        {
+          "word": "actually",
+          "translation": "aslında",
+          "options": ["aslında", "gerçekte", "hakikatte", "esasında"]
+        }
+      ],
+      "level15": [
+        {
+          "word": "already",
+          "translation": "çoktan",
+          "options": ["çoktan", "şimdiden", "halihazırda", "zaten"]
+        },
+        {
+          "word": "still",
+          "translation": "hala",
+          "options": ["hala", "yine de", "halen", "henüz"]
+        },
+        {
+          "word": "yet",
+          "translation": "henüz",
+          "options": ["henüz", "daha", "hala", "şimdiye kadar"]
+        },
+        {
+          "word": "soon",
+          "translation": "yakında",
+          "options": ["yakında", "az sonra", "kısa sürede", "çok geçmeden"]
+        },
+        {
+          "word": "ago",
+          "translation": "önce",
+          "options": ["önce", "evvel", "geçmişte", "eskiden"]
+        },
+        {
+          "word": "yesterday",
+          "translation": "dün",
+          "options": ["dün", "dünkü gün", "bir gün önce", "evvelki gün"]
+        },
+        {
+          "word": "today",
+          "translation": "bugün",
+          "options": ["bugün", "bu gün", "şu an", "günümüzde"]
+        },
+        {
+          "word": "tomorrow",
+          "translation": "yarın",
+          "options": ["yarın", "bir gün sonra", "ertesi gün", "gelecek gün"]
+        },
+        {
+          "word": "now",
+          "translation": "şimdi",
+          "options": ["şimdi", "şu an", "hemen", "derhal"]
+        },
+        {
+          "word": "then",
+          "translation": "o zaman",
+          "options": ["o zaman", "sonra", "ondan sonra", "akabinde"]
+        },
+        {
+          "word": "later",
+          "translation": "sonra",
+          "options": ["sonra", "daha sonra", "ileride", "müteakiben"]
+        },
+        {
+          "word": "before",
+          "translation": "önce",
+          "options": ["önce", "evvel", "daha önce", "mukaddem"]
+        },
+        {
+          "word": "after",
+          "translation": "sonra",
+          "options": ["sonra", "ardından", "akabinde", "müteakiben"]
+        },
+        {
+          "word": "during",
+          "translation": "sırasında",
+          "options": ["sırasında", "esnasında", "süresince", "zarfında"]
+        },
+        {
+          "word": "while",
+          "translation": "iken",
+          "options": ["iken", "sırada", "süresince", "-ken"]
+        },
+        {
+          "word": "until",
+          "translation": "-e kadar",
+          "options": ["-e kadar", "dek", "değin", "-e dek"]
+        },
+        {
+          "word": "since",
+          "translation": "-den beri",
+          "options": ["-den beri", "çünkü", "-den itibaren", "zira"]
+        },
+        {
+          "word": "for",
+          "translation": "için",
+          "options": ["için", "amacıyla", "süresince", "uğruna"]
+        },
+        {
+          "word": "from",
+          "translation": "-den",
+          "options": ["-den", "itibaren", "kaynaklı", "kökenli"]
+        },
+        {
+          "word": "to",
+          "translation": "-e",
+          "options": ["-e", "doğru", "için", "amacıyla"]
+        },
+        {
+          "word": "at",
+          "translation": "-de",
+          "options": ["-de", "içinde", "zamanında", "üzerinde"]
+        },
+        {
+          "word": "in",
+          "translation": "içinde",
+          "options": ["içinde", "-de", "dahilinde", "zarfında"]
+        },
+        {
+          "word": "on",
+          "translation": "üzerinde",
+          "options": ["üzerinde", "üstünde", "-de", "hakkında"]
+        },
+        {
+          "word": "under",
+          "translation": "altında",
+          "options": ["altında", "aşağısında", "altında", "dibinde"]
+        },
+        {
+          "word": "above",
+          "translation": "üstünde",
+          "options": ["üstünde", "yukarısında", "üzerinde", "fevkinde"]
+        }
+      ],
+      "level16": [
+        {
+          "word": "below",
+          "translation": "aşağıda",
+          "options": ["aşağıda", "altında", "altta", "alt kısımda"]
+        },
+        {
+          "word": "between",
+          "translation": "arasında",
+          "options": ["arasında", "ortasında", "beyninde", "ikisi arasında"]
+        },
+        {
+          "word": "among",
+          "translation": "arasında",
+          "options": ["arasında", "içinde", "ortasında", "içlerinde"]
+        },
+        {
+          "word": "with",
+          "translation": "ile",
+          "options": ["ile", "beraber", "birlikte", "yanında"]
+        },
+        {
+          "word": "without",
+          "translation": "-siz",
+          "options": ["-siz", "olmadan", "haricinde", "dışında"]
+        },
+        {
+          "word": "by",
+          "translation": "tarafından",
+          "options": ["tarafından", "yanında", "vasıtasıyla", "yakınında"]
+        },
+        {
+          "word": "next to",
+          "translation": "yanında",
+          "options": ["yanında", "bitişiğinde", "komşu", "yakınında"]
+        },
+        {
+          "word": "near",
+          "translation": "yakınında",
+          "options": ["yakınında", "civarında", "yakınlarda", "yanıbaşında"]
+        },
+        {
+          "word": "far from",
+          "translation": "uzağında",
+          "options": ["uzağında", "ırakta", "uzakta", "mesafeli"]
+        },
+        {
+          "word": "across",
+          "translation": "karşısında",
+          "options": ["karşısında", "boyunca", "öbür tarafında", "enlemesine"]
+        },
+        {
+          "word": "through",
+          "translation": "içinden",
+          "options": ["içinden", "vasıtasıyla", "aracılığıyla", "sayesinde"]
+        },
+        {
+          "word": "around",
+          "translation": "etrafında",
+          "options": ["etrafında", "civarında", "çevresinde", "dolaylarında"]
+        },
+        {
+          "word": "against",
+          "translation": "karşı",
+          "options": ["karşı", "aksi", "zıt", "muhalif"]
+        },
+        {
+          "word": "towards",
+          "translation": "doğru",
+          "options": ["doğru", "yönünde", "doğrultusunda", "istikametinde"]
+        },
+        {
+          "word": "behind",
+          "translation": "arkasında",
+          "options": ["arkasında", "gerisinde", "ardında", "ensesinde"]
+        },
+        {
+          "word": "in front of",
+          "translation": "önünde",
+          "options": ["önünde", "karşısında", "mukabilinde", "yüzüne karşı"]
+        },
+        {
+          "word": "beside",
+          "translation": "yanında",
+          "options": ["yanında", "bitişiğinde", "yakınında", "yanıbaşında"]
+        },
+        {
+          "word": "beyond",
+          "translation": "ötesinde",
+          "options": ["ötesinde", "öte", "ilerisinde", "dışında"]
+        },
+        {
+          "word": "along",
+          "translation": "boyunca",
+          "options": ["boyunca", "kenarınca", "uzunluğunca", "doğrultusunca"]
+        },
+        {
+          "word": "over",
+          "translation": "üzerinde",
+          "options": ["üzerinde", "üstünde", "yukarısında", "fazla"]
+        },
+        {
+          "word": "past",
+          "translation": "geçmiş",
+          "options": ["geçmiş", "mazi", "eski", "geçen"]
+        },
+        {
+          "word": "future",
+          "translation": "gelecek",
+          "options": ["gelecek", "istikbal", "ati", "müstakbel"]
+        },
+        {
+          "word": "end",
+          "translation": "son",
+          "options": ["son", "bitiş", "nihayet", "sonuç"]
+        },
+        {
+          "word": "start",
+          "translation": "başlangıç",
+          "options": ["başlangıç", "başla", "başla", "harekete geç"]
+        },
+        {
+          "word": "beginning",
+          "translation": "başlangıç",
+          "options": ["başlangıç", "giriş", "başlama", "önsöz"]
+        }
+      ],
+      "level17": [
+        {
+          "word": "stop",
+          "translation": "dur",
+          "options": ["dur", "durma", "son", "bitir"]
+        },
+        {
+          "word": "continue",
+          "translation": "devam et",
+          "options": ["devam et", "sürdür", "idame et", "kesintisiz sürdür"]
+        },
+        {
+          "word": "wait",
+          "translation": "bekle",
+          "options": ["bekle", "dur", "durma", "intizar"]
+        },
+        {
+          "word": "finish",
+          "translation": "bitir",
+          "options": ["bitir", "tamamla", "son ver", "nihayete erdir"]
+        },
+        {
+          "word": "complete",
+          "translation": "tamamla",
+          "options": ["tamamla", "bitir", "eksiksiz yap", "tam yap"]
+        },
+        {
+          "word": "begin",
+          "translation": "başla",
+          "options": ["başla", "başlat", "giriş", "başlangıç"]
+        },
+        {
+          "word": "need",
+          "translation": "ihtiyaç",
+          "options": ["ihtiyaç", "gereksinim", "lüzum", "muhtaçlık"]
+        },
+        {
+          "word": "want",
+          "translation": "istemek",
+          "options": ["istemek", "arzu etmek", "dilemek", "talep etmek"]
+        },
+        {
+          "word": "like",
+          "translation": "beğenmek",
+          "options": ["beğenmek", "sevmek", "hoşlanmak", "takdir etmek"]
+        },
+        {
+          "word": "love",
+          "translation": "sevmek",
+          "options": ["sevmek", "aşk", "muhabbet", "tutku"]
+        },
+        {
+          "word": "hate",
+          "translation": "nefret etmek",
+          "options": ["nefret etmek", "tiksinmek", "sevmemek", "kin beslemek"]
+        },
+        {
+          "word": "think",
+          "translation": "düşünmek",
+          "options": ["düşünmek", "fikretmek", "sanmak", "zannetmek"]
+        },
+        {
+          "word": "believe",
+          "translation": "inanmak",
+          "options": ["inanmak", "iman etmek", "kanaat getirmek", "güvenmek"]
+        },
+        {
+          "word": "know",
+          "translation": "bilmek",
+          "options": ["bilmek", "tanımak", "malumat sahibi olmak", "haberdar olmak"]
+        },
+        {
+          "word": "feel",
+          "translation": "hissetmek",
+          "options": ["hissetmek", "duymak", "sezmek", "içine doğmak"]
+        },
+        {
+          "word": "see",
+          "translation": "görmek",
+          "options": ["görmek", "bakmak", "müşahade etmek", "müşahede etmek"]
+        },
+        {
+          "word": "look",
+          "translation": "bakmak",
+          "options": ["bakmak", "nazar etmek", "seyretmek", "izlemek"]
+        },
+        {
+          "word": "watch",
+          "translation": "izlemek",
+          "options": ["izlemek", "seyretmek", "gözetmek", "takip etmek"]
+        },
+        {
+          "word": "hear",
+          "translation": "duymak",
+          "options": ["duymak", "işitmek", "kulak vermek", "dinlemek"]
+        },
+        {
+          "word": "listen",
+          "translation": "dinlemek",
+          "options": ["dinlemek", "kulak vermek", "işitmek", "duymak"]
+        },
+        {
+          "word": "touch",
+          "translation": "dokunmak",
+          "options": ["dokunmak", "değmek", "el değdirmek", "temas etmek"]
+        },
+        {
+          "word": "smell",
+          "translation": "koku",
+          "options": ["koku", "rayiha", "koklamak", "duymak"]
+        },
+        {
+          "word": "taste",
+          "translation": "tat",
+          "options": ["tat", "lezzet", "tadına bakmak", "tatmak"]
+        },
+        {
+          "word": "eat",
+          "translation": "yemek",
+          "options": ["yemek", "yemek yemek", "gıda almak", "gıdalanmak"]
+        },
+        {
+          "word": "drink",
+          "translation": "içmek",
+          "options": ["içmek", "içecek almak", "sıvı tüketmek", "kanmak"]
+        }
+      ],
+      "level18": [
+        {
+          "word": "sleep",
+          "translation": "uyumak",
+          "options": ["uyumak", "uyku", "dinlenmek", "gözlerini kapamak"]
+        },
+        {
+          "word": "wake up",
+          "translation": "uyanmak",
+          "options": ["uyanmak", "kalk", "gözünü aç", "uyku sonu"]
+        },
+        {
+          "word": "dream",
+          "translation": "rüya",
+          "options": ["rüya", "düş", "hayal", "görüntü"]
+        },
+        {
+          "word": "sit",
+          "translation": "oturmak",
+          "options": ["oturmak", "oturarak durmak", "yerleşmek", "konaklama"]
+        },
+        {
+          "word": "stand",
+          "translation": "ayakta durmak",
+          "options": ["ayakta durmak", "durmak", "dikilmek", "kalkık durmak"]
+        },
+        {
+          "word": "walk",
+          "translation": "yürümek",
+          "options": ["yürümek", "adım atmak", "aşmak", "gezmek"]
+        },
+        {
+          "word": "run",
+          "translation": "koşmak",
+          "options": ["koşmak", "koşu", "süratli gitmek", "seğirtmek"]
+        },
+        {
+          "word": "jump",
+          "translation": "zıplamak",
+          "options": ["zıplamak", "sıçramak", "atlamak", "hoplamak"]
+        },
+        {
+          "word": "fly",
+          "translation": "uçmak",
+          "options": ["uçmak", "havada süzülmek", "uçuş yapmak", "havalanmak"]
+        },
+        {
+          "word": "swim",
+          "translation": "yüzmek",
+          "options": ["yüzmek", "kulaç atmak", "suda ilerlemek", "dalış yapmak"]
+        },
+        {
+          "word": "climb",
+          "translation": "tırmanmak",
+          "options": ["tırmanmak", "yükselmek", "çıkmak", "aşmak"]
+        },
+        {
+          "word": "fall",
+          "translation": "düşmek",
+          "options": ["düşmek", "inmek", "devrilmek", "yere çapmak"]
+        },
+        {
+          "word": "throw",
+          "translation": "atmak",
+          "options": ["atmak", "fırlatmak", "savurmak", "fırlama"]
+        },
+        {
+          "word": "catch",
+          "translation": "yakalamak",
+          "options": ["yakalamak", "tutmak", "ele geçirmek", "enseleme"]
+        },
+        {
+          "word": "hold",
+          "translation": "tutmak",
+          "options": ["tutmak", "kavramak", "kapsamak", "destek olmak"]
+        },
+        {
+          "word": "give",
+          "translation": "vermek",
+          "options": ["vermek", "ihsan etmek", "bağışlamak", "hediye etmek"]
+        },
+        {
+          "word": "take",
+          "translation": "almak",
+          "options": ["almak", "edinmek", "sahiplenmek", "kabul etmek"]
+        },
+        {
+          "word": "bring",
+          "translation": "getirmek",
+          "options": ["getirmek", "ulaştırmak", "taşımak", "buraya almak"]
+        },
+        {
+          "word": "carry",
+          "translation": "taşımak",
+          "options": ["taşımak", "hamletmek", "yüklenmek", "götürmek"]
+        },
+        {
+          "word": "send",
+          "translation": "göndermek",
+          "options": ["göndermek", "yollamak", "iletmek", "sevk etmek"]
+        },
+        {
+          "word": "receive",
+          "translation": "almak",
+          "options": ["almak", "teslim almak", "kabul etmek", "edinmek"]
+        },
+        {
+          "word": "put",
+          "translation": "koymak",
+          "options": ["koymak", "yerleştirmek", "bırakmak", "vaz etmek"]
+        },
+        {
+          "word": "move",
+          "translation": "hareket etmek",
+          "options": ["hareket etmek", "kımıldamak", "yer değiştirmek", "oynatmak"]
+        },
+        {
+          "word": "turn",
+          "translation": "dönmek",
+          "options": ["dönmek", "çevirmek", "bükmek", "sıra"]
+        },
+        {
+          "word": "push",
+          "translation": "itmek",
+          "options": ["itmek", "dürtmek", "kakalamak", "ileri sürmek"]
+        }
+      ],
+      "level19": [
+        {
+          "word": "pull",
+          "translation": "çekmek",
+          "options": ["çekmek", "kendine doğru çekmek", "asılmak", "üstüne almak"]
+        },
+        {
+          "word": "open",
+          "translation": "açmak",
+          "options": ["açmak", "aralamak", "erişimini sağlamak", "başlatmak"]
+        },
+        {
+          "word": "close",
+          "translation": "kapatmak",
+          "options": ["kapatmak", "örtmek", "kilitlemek", "erişimi engellemek"]
+        },
+        {
+          "word": "cut",
+          "translation": "kesmek",
+          "options": ["kesmek", "doğramak", "parçalamak", "biçmek"]
+        },
+        {
+          "word": "break",
+          "translation": "kırmak",
+          "options": ["kırmak", "parçalamak", "bozmak", "yarmak"]
+        },
+        {
+          "word": "fix",
+          "translation": "tamir etmek",
+          "options": ["tamir etmek", "onarmak", "düzeltmek", "sabitlemek"]
+        },
+        {
+          "word": "build",
+          "translation": "inşa etmek",
+          "options": ["inşa etmek", "yapmak", "kurmak", "inşaat"]
+        },
+        {
+          "word": "make",
+          "translation": "yapmak",
+          "options": ["yapmak", "imal etmek", "üretmek", "meydana getirmek"]
+        },
+        {
+          "word": "create",
+          "translation": "yaratmak",
+          "options": ["yaratmak", "oluşturmak", "icat etmek", "vücuda getirmek"]
+        },
+        {
+          "word": "destroy",
+          "translation": "yok etmek",
+          "options": ["yok etmek", "tahrip etmek", "mahvetmek", "batırmak"]
+        },
+        {
+          "word": "change",
+          "translation": "değiştirmek",
+          "options": ["değiştirmek", "dönüşmek", "farklılaşmak", "evrilmek"]
+        },
+        {
+          "word": "grow",
+          "translation": "büyümek",
+          "options": ["büyümek", "gelişmek", "yetişmek", "serpilmek"]
+        },
+        {
+          "word": "die",
+          "translation": "ölmek",
+          "options": ["ölmek", "vefat etmek", "can vermek", "hakka yürümek"]
+        },
+        {
+          "word": "kill",
+          "translation": "öldürmek",
+          "options": ["öldürmek", "katletmek", "infaz etmek", "canına kıymak"]
+        },
+        {
+          "word": "live",
+          "translation": "yaşamak",
+          "options": ["yaşamak", "ikamet etmek", "oturmak", "var olmak"]
+        },
+        {
+          "word": "life",
+          "translation": "hayat",
+          "options": ["hayat", "yaşam", "ömür", "varlık"]
+        },
+        {
+          "word": "death",
+          "translation": "ölüm",
+          "options": ["ölüm", "vefat", "ecel", "mevt"]
+        },
+        {
+          "word": "birth",
+          "translation": "doğum",
+          "options": ["doğum", "dünyaya geliş", "tevellüt", "velâdet"]
+        },
+        {
+          "word": "health",
+          "translation": "sağlık",
+          "options": ["sağlık", "sıhhat", "esenlik", "afiyet"]
+        },
+        {
+          "word": "disease",
+          "translation": "hastalık",
+          "options": ["hastalık", "maraz", "illet", "dert"]
+        },
+        {
+          "word": "medicine",
+          "translation": "ilaç",
+          "options": ["ilaç", "deva", "derman", "şifa"]
+        },
+        {
+          "word": "doctor",
+          "translation": "doktor",
+          "options": ["doktor", "hekim", "tabip", "tıp adamı"]
+        },
+        {
+          "word": "hospital",
+          "translation": "hastane",
+          "options": ["hastane", "şifahane", "klinik", "sağlık merkezi"]
+        },
+        {
+          "word": "nurse",
+          "translation": "hemşire",
+          "options": ["hemşire", "hasta bakıcı", "şifacı", "bakıcı"]
+        },
+        {
+          "word": "patient",
+          "translation": "hasta",
+          "options": ["hasta", "rahatsız", "sakat", "tedavi gören"]
+        }
+      ],
+      "level20": [
+        {
+          "word": "emergency",
+          "translation": "acil durum",
+          "options": ["acil durum", "aciliyet", "kriz", "tehlike anı"]
+        },
+        {
+          "word": "accident",
+          "translation": "kaza",
+          "options": ["kaza", "hadise", "olay", "vaka"]
+        },
+        {
+          "word": "fire",
+          "translation": "ateş",
+          "options": ["ateş", "yangın", "alev", "hararet"]
+        },
+        {
+          "word": "water",
+          "translation": "su",
+          "options": ["su", "içecek", "sıvı", "deniz"]
+        },
+        {
+          "word": "air",
+          "translation": "hava",
+          "options": ["hava", "atmosfer", "nefes", "esen"]
+        },
+        {
+          "word": "earth",
+          "translation": "dünya",
+          "options": ["dünya", "yer küre", "toprak", "arz"]
+        },
+        {
+          "word": "wind",
+          "translation": "rüzgar",
+          "options": ["rüzgar", "yel", "fırtına", "esinti"]
+        },
+        {
+          "word": "nature",
+          "translation": "doğa",
+          "options": ["doğa", "tabiat", "fıtrat", "huy"]
+        },
+        {
+          "word": "mountain",
+          "translation": "dağ",
+          "options": ["dağ", "büyük tepe", "kaf dağı", "muazzam yükselti"]
+        },
+        {
+          "word": "hill",
+          "translation": "tepe",
+          "options": ["tepe", "yüksekçe yer", "belen", "tümsek"]
+        },
+        {
+          "word": "valley",
+          "translation": "vadi",
+          "options": ["vadi", "dere", "koyak", "sel yolu"]
+        },
+        {
+          "word": "river",
+          "translation": "nehir",
+          "options": ["nehir", "ırmak", "çay", "akarsu"]
+        },
+        {
+          "word": "lake",
+          "translation": "göl",
+          "options": ["göl", "nehrin genişlemiş kısmı", "durgun su", "baraj gölü"]
+        },
+        {
+          "word": "sea",
+          "translation": "deniz",
+          "options": ["deniz", "engin", "derya", "umman"]
+        },
+        {
+          "word": "ocean",
+          "translation": "okyanus",
+          "options": ["okyanus", "büyük deniz", "engin deniz", "umman"]
+        },
+        {
+          "word": "beach",
+          "translation": "plaj",
+          "options": ["plaj", "sahil", "kumsalı", "deniz kenarı"]
+        },
+        {
+          "word": "forest",
+          "translation": "orman",
+          "options": ["orman", "çalılık", "ağaçlık", "meşelik"]
+        },
+        {
+          "word": "jungle",
+          "translation": "orman",
+          "options": ["orman", "vahşi doğa", "ilkel orman", "balta girmemiş"]
+        },
+        {
+          "word": "desert",
+          "translation": "çöl",
+          "options": ["çöl", "sahra", "kumsal", "kurak"]
+        },
+        {
+          "word": "island",
+          "translation": "ada",
+          "options": ["ada", "cezire", "kara parçası", "deniz ortası"]
+        },
+        {
+          "word": "weather",
+          "translation": "hava durumu",
+          "options": ["hava durumu", "meteoroloji", "iklim", "atmosfer şartları"]
+        },
+        {
+          "word": "rain",
+          "translation": "yağmur",
+          "options": ["yağmur", "bârân", "su damlası", "rahmeti rahman"]
+        },
+        {
+          "word": "snow",
+          "translation": "kar",
+          "options": ["kar", "beyaz örtü", "don", "tipi"]
+        },
+        {
+          "word": "storm",
+          "translation": "fırtına",
+          "options": ["fırtına", "kasırga", "afet", "tayfun"]
+        },
+        {
+          "word": "thunder",
+          "translation": "gök gürültüsü",
+          "options": ["gök gürültüsü", "ra'd", "patlama", "gökyüzü sesi"]
+        }
+      ]
+    }
+  ]
+}

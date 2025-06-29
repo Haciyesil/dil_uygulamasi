@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Existing colors -->
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <!-- Modern colors -->
+    <color name="background_color">#FFF5F7FA</color>
+    <color name="header_background">#FF667EEA</color>
+    <color name="card_background">#FFFFFFFF</color>
+    <color name="primary_text">#FF2D3748</color>
+    <color name="secondary_text">#FF4A5568</color>
+    <color name="pronunciation_text">#FF805AD5</color>
+    <color name="accent_color">#FF38B2AC</color>
+    <color name="yellow">#FFFFEB3B</color>
+    <!-- Kilitli seviyeler için yeni renkler -->
+    <color name="locked_level_circle">#7986CB</color>
+    <!-- Turkmenistan bayrak renkleri -->
+    <color name="turkmen_green">#FF00A650</color>
+    <color name="turkmen_red">#FFE21836</color>
+    <!-- Level kartları için gradient renkler -->
+    <color name="level_gradient_start">#FF6EE2F5</color>
+    <color name="level_gradient_end">#FF6454F0</color>
+    <color name="completed_gradient_start">#FF56CCF2</color>
+    <color name="completed_gradient_end">#FF2F80ED</color>
+    <color name="locked_gradient_start">#FFBCBCBC</color>
+    <color name="locked_gradient_end">#FF7D7D7D</color>
+</resources>

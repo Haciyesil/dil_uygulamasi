@@ -1,0 +1,116 @@
+{
+  "items": [
+    {
+      "original": "Gyzyl",
+      "translated": "Kırmızı",
+      "pronunciation": "Gızıl",
+      "red": 255,
+      "green": 0,
+      "blue": 0
+    },
+    {
+      "original": "Gök",
+      "translated": "Mavi",
+      "pronunciation": "Gök",
+      "red": 0,
+      "green": 0,
+      "blue": 255
+    },
+    {
+      "original": "Ýaşyl",
+      "translated": "Yeşil",
+      "pronunciation": "Yaşıl",
+      "red": 0,
+      "green": 255,
+      "blue": 0
+    },
+    {
+      "original": "Sary",
+      "translated": "Sarı",
+      "pronunciation": "Sarı",
+      "red": 255,
+      "green": 255,
+      "blue": 0
+    },
+    {
+      "original": "Mele",
+      "translated": "Kahverengi",
+      "pronunciation": "Mele",
+      "red": 165,
+      "green": 42,
+      "blue": 42
+    },
+    {
+      "original": "Ak",
+      "translated": "Beyaz",
+      "pronunciation": "Ak",
+      "red": 255,
+      "green": 255,
+      "blue": 255
+    },
+    {
+      "original": "Gara",
+      "translated": "Siyah",
+      "pronunciation": "Gara",
+      "red": 0,
+      "green": 0,
+      "blue": 0
+    },
+    {
+      "original": "Mämişi",
+      "translated": "Turuncu",
+      "pronunciation": "Mämişi",
+      "red": 255,
+      "green": 165,
+      "blue": 0
+    },
+    {
+      "original": "Benewşe",
+      "translated": "Mor",
+      "pronunciation": "Benewşe",
+      "red": 128,
+      "green": 0,
+      "blue": 128
+    },
+    {
+      "original": "Açyk gök",
+      "translated": "Açık Mavi",
+      "pronunciation": "Açık gök",
+      "red": 135,
+      "green": 206,
+      "blue": 250
+    },
+    {
+      "original": "Goýy gök",
+      "translated": "Koyu Mavi",
+      "pronunciation": "Goyı gök",
+      "red": 0,
+      "green": 0,
+      "blue": 139
+    },
+    {
+      "original": "Çal",
+      "translated": "Gri",
+      "pronunciation": "Çal",
+      "red": 128,
+      "green": 128,
+      "blue": 128
+    },
+    {
+      "original": "Pembe",
+      "translated": "Pembe",
+      "pronunciation": "Pembe",
+      "red": 255,
+      "green": 192,
+      "blue": 203
+    },
+    {
+      "original": "Ýagtylyk",
+      "translated": "Altın Sarısı",
+      "pronunciation": "Yagtılık",
+      "red": 255,
+      "green": 215,
+      "blue": 0
+    }
+  ]
+}

@@ -1,0 +1,2036 @@
+{
+  "level1": [
+    {
+      "word": "أنا",
+      "translation": "ben",
+      "options": ["ben", "bana", "benim", "kendim"]
+    },
+    {
+      "word": "أنت",
+      "translation": "sen",
+      "options": ["sen", "sana", "senin", "kendin"]
+    },
+    {
+      "word": "هو",
+      "translation": "o (erkek)",
+      "options": ["o (erkek)", "ona", "onun", "kendisi"]
+    },
+    {
+      "word": "هي",
+      "translation": "o (kadın)",
+      "options": ["o (kadın)", "ona", "onun", "kendisi"]
+    },
+    {
+      "word": "نحن",
+      "translation": "biz",
+      "options": ["biz", "bize", "bizim", "kendimiz"]
+    },
+    {
+      "word": "أنتم",
+      "translation": "siz",
+      "options": ["siz", "size", "sizin", "kendiniz"]
+    },
+    {
+      "word": "هم",
+      "translation": "onlar",
+      "options": ["onlar", "onlara", "onların", "kendileri"]
+    },
+    {
+      "word": "ماء",
+      "translation": "su",
+      "options": ["su", "sıvı", "içecek", "deniz"]
+    },
+    {
+      "word": "خبز",
+      "translation": "ekmek",
+      "options": ["ekmek", "yiyecek", "yemek", "gıda"]
+    },
+    {
+      "word": "طعام",
+      "translation": "yemek",
+      "options": ["yemek", "gıda", "beslenme", "öğün"]
+    },
+    {
+      "word": "بيت",
+      "translation": "ev",
+      "options": ["ev", "konut", "mesken", "hane"]
+    },
+    {
+      "word": "مدرسة",
+      "translation": "okul",
+      "options": ["okul", "eğitim", "sınıf", "öğrenim"]
+    },
+    {
+      "word": "عمل",
+      "translation": "iş",
+      "options": ["iş", "çalışma", "meslek", "görev"]
+    },
+    {
+      "word": "كتاب",
+      "translation": "kitap",
+      "options": ["kitap", "eser", "yayın", "okuma"]
+    },
+    {
+      "word": "قلم",
+      "translation": "kalem",
+      "options": ["kalem", "yazı aleti", "yazma aracı", "stilo"]
+    },
+    {
+      "word": "ورقة",
+      "translation": "kağıt",
+      "options": ["kağıt", "sayfa", "yaprak", "belge"]
+    },
+    {
+      "word": "سيارة",
+      "translation": "araba",
+      "options": ["araba", "otomobil", "araç", "taşıt"]
+    },
+    {
+      "word": "طائرة",
+      "translation": "uçak",
+      "options": ["uçak", "hava aracı", "uçuş", "havayolu"]
+    },
+    {
+      "word": "قطار",
+      "translation": "tren",
+      "options": ["tren", "demiryolu", "vagon", "lokomotif"]
+    },
+    {
+      "word": "حافلة",
+      "translation": "otobüs",
+      "options": ["otobüs", "yolcu taşıtı", "toplu taşıma", "araç"]
+    },
+    {
+      "word": "شمس",
+      "translation": "güneş",
+      "options": ["güneş", "gündüz", "aydınlık", "ısı"]
+    },
+    {
+      "word": "قمر",
+      "translation": "ay",
+      "options": ["ay", "uydu", "gece", "gökyüzü"]
+    },
+    {
+      "word": "نجم",
+      "translation": "yıldız",
+      "options": ["yıldız", "gök cismi", "ışık", "uzay"]
+    },
+    {
+      "word": "سماء",
+      "translation": "gökyüzü",
+      "options": ["gökyüzü", "gök", "hava", "atmosfer"]
+    },
+    {
+      "word": "أرض",
+      "translation": "yer",
+      "options": ["yer", "toprak", "dünya", "zemin"]
+    }
+  ],
+  "level2": [
+    {
+      "word": "تاجر",
+      "translation": "tüccar",
+      "options": ["tüccar", "satıcı", "esnaf", "ticaret"]
+    },
+    {
+      "word": "شرطي",
+      "translation": "polis",
+      "options": ["polis", "memur", "güvenlik", "asayiş"]
+    },
+    {
+      "word": "جندي",
+      "translation": "asker",
+      "options": ["asker", "er", "ordu", "savunma"]
+    },
+    {
+      "word": "فلاح",
+      "translation": "çiftçi",
+      "options": ["çiftçi", "tarım", "ekim", "yetiştirici"]
+    },
+    {
+      "word": "صباح",
+      "translation": "sabah",
+      "options": ["sabah", "günaydın", "erken", "doğuş"]
+    },
+    {
+      "word": "ظهر",
+      "translation": "öğle",
+      "options": ["öğle", "gün ortası", "öğlen", "öğle vakti"]
+    },
+    {
+      "word": "مساء",
+      "translation": "akşam",
+      "options": ["akşam", "gece", "günbatımı", "akşam vakti"]
+    },
+    {
+      "word": "ليل",
+      "translation": "gece",
+      "options": ["gece", "karanlık", "yatsı", "gece vakti"]
+    },
+    {
+      "word": "يوم",
+      "translation": "gün",
+      "options": ["gün", "24 saat", "günlük", "zaman"]
+    },
+    {
+      "word": "أسبوع",
+      "translation": "hafta",
+      "options": ["hafta", "yedi gün", "zaman", "süre"]
+    },
+    {
+      "word": "شهر",
+      "translation": "ay",
+      "options": ["ay", "30 gün", "zaman", "süre"]
+    },
+    {
+      "word": "سنة",
+      "translation": "yıl",
+      "options": ["yıl", "sene", "12 ay", "zaman"]
+    },
+    {
+      "word": "ساعة",
+      "translation": "saat",
+      "options": ["saat", "zaman", "vakit", "60 dakika"]
+    },
+    {
+      "word": "دقيقة",
+      "translation": "dakika",
+      "options": ["dakika", "60 saniye", "zaman", "süre"]
+    },
+    {
+      "word": "ثانية",
+      "translation": "saniye",
+      "options": ["saniye", "zaman", "süre", "an"]
+    },
+    {
+      "word": "اليوم",
+      "translation": "bugün",
+      "options": ["bugün", "şimdi", "şu an", "günümüz"]
+    },
+    {
+      "word": "غدا",
+      "translation": "yarın",
+      "options": ["yarın", "sonraki gün", "gelecek", "ertesi gün"]
+    },
+    {
+      "word": "أمس",
+      "translation": "dün",
+      "options": ["dün", "geçmiş gün", "önceki gün", "bir gün önce"]
+    },
+    {
+      "word": "الآن",
+      "translation": "şimdi",
+      "options": ["şimdi", "şu an", "hemen", "derhal"]
+    },
+    {
+      "word": "قديم",
+      "translation": "eski",
+      "options": ["eski", "kadim", "antik", "yıpranmış"]
+    },
+    {
+      "word": "جديد",
+      "translation": "yeni",
+      "options": ["yeni", "taze", "modern", "güncel"]
+    },
+    {
+      "word": "كبير",
+      "translation": "büyük",
+      "options": ["büyük", "geniş", "iri", "hacimli"]
+    },
+    {
+      "word": "صغير",
+      "translation": "küçük",
+      "options": ["küçük", "ufak", "minik", "minyatür"]
+    },
+    {
+      "word": "طويل",
+      "translation": "uzun",
+      "options": ["uzun", "yüksek", "boylu", "geniş"]
+    },
+    {
+      "word": "قصير",
+      "translation": "kısa",
+      "options": ["kısa", "bodur", "alçak", "dar"]
+    }
+  ],
+  "level3": [
+    {
+      "word": "يأكل",
+      "translation": "yemek yiyor",
+      "options": ["yemek yiyor", "beslenme", "tüketiyor", "atıştırıyor"]
+    },
+    {
+      "word": "يشرب",
+      "translation": "içiyor",
+      "options": ["içiyor", "yudumlama", "içme", "tüketiyor"]
+    },
+    {
+      "word": "ينام",
+      "translation": "uyuyor",
+      "options": ["uyuyor", "dinleniyor", "kestiriyor", "şekerleme yapıyor"]
+    },
+    {
+      "word": "يستيقظ",
+      "translation": "uyanıyor",
+      "options": ["uyanıyor", "kalkıyor", "ayılıyor", "kendine geliyor"]
+    },
+    {
+      "word": "يتكلم",
+      "translation": "konuşuyor",
+      "options": ["konuşuyor", "söylüyor", "anlatıyor", "ifade ediyor"]
+    },
+    {
+      "word": "يسمع",
+      "translation": "duyuyor",
+      "options": ["duyuyor", "işitiyor", "dinliyor", "algılıyor"]
+    },
+    {
+      "word": "يرى",
+      "translation": "görüyor",
+      "options": ["görüyor", "bakıyor", "izliyor", "seyrediyor"]
+    },
+    {
+      "word": "يلمس",
+      "translation": "dokunuyor",
+      "options": ["dokunuyor", "hissediyor", "değiyor", "elliyecek"]
+    },
+    {
+      "word": "يشم",
+      "translation": "kokuyor",
+      "options": ["kokuyor", "koklama", "hissediyor", "algılıyor"]
+    },
+    {
+      "word": "يذوق",
+      "translation": "tadıyor",
+      "options": ["tadıyor", "deniyor", "test ediyor", "deneyimliyor"]
+    },
+    {
+      "word": "يمشي",
+      "translation": "yürüyor",
+      "options": ["yürüyor", "adımlıyor", "gidiyor", "ilerliyor"]
+    },
+    {
+      "word": "يركض",
+      "translation": "koşuyor",
+      "options": ["koşuyor", "hızlı gidiyor", "atıyor", "fırlıyor"]
+    },
+    {
+      "word": "يقفز",
+      "translation": "zıplıyor",
+      "options": ["zıplıyor", "atlıyor", "sıçrıyor", "hopluyor"]
+    },
+    {
+      "word": "يسبح",
+      "translation": "yüzüyor",
+      "options": ["yüzüyor", "kulaç atıyor", "suda hareket ediyor", "dalıyor"]
+    },
+    {
+      "word": "يطير",
+      "translation": "uçuyor",
+      "options": ["uçuyor", "havada süzülüyor", "havalanıyor", "kanat çırpıyor"]
+    },
+    {
+      "word": "يقود",
+      "translation": "sürüyor",
+      "options": ["sürüyor", "yönetiyor", "kontrol ediyor", "kullanıyor"]
+    },
+    {
+      "word": "يركب",
+      "translation": "biniyor",
+      "options": ["biniyor", "üzerine çıkıyor", "kullanıyor", "oturuyor"]
+    },
+    {
+      "word": "يفتح",
+      "translation": "açıyor",
+      "options": ["açıyor", "başlatıyor", "kaldırıyor", "çözüyor"]
+    },
+    {
+      "word": "يغلق",
+      "translation": "kapatıyor",
+      "options": ["kapatıyor", "örtüyor", "kilitliyor", "sonlandırıyor"]
+    },
+    {
+      "word": "يعطي",
+      "translation": "veriyor",
+      "options": ["veriyor", "sunuyor", "hediye ediyor", "teslim ediyor"]
+    },
+    {
+      "word": "يأخذ",
+      "translation": "alıyor",
+      "options": ["alıyor", "kabul ediyor", "elde ediyor", "sahipleniyor"]
+    },
+    {
+      "word": "يضع",
+      "translation": "koyuyor",
+      "options": ["koyuyor", "yerleştiriyor", "bırakıyor", "konumlandırıyor"]
+    },
+    {
+      "word": "يرفع",
+      "translation": "kaldırıyor",
+      "options": ["kaldırıyor", "yükseltiyor", "yukarı çıkarıyor", "yükseltme"]
+    },
+    {
+      "word": "يدفع",
+      "translation": "itiyor",
+      "options": ["itiyor", "dürtüyor", "ittiriyor", "uzaklaştırıyor"]
+    },
+    {
+      "word": "يسحب",
+      "translation": "çekiyor",
+      "options": ["çekiyor", "sürüklüyor", "kendine doğru çekiyor", "hareket ettiriyor"]
+    }
+  ],
+  "level4": [
+    {
+      "word": "إلى",
+      "translation": "-e, -a",
+      "options": ["-e", "-a", "doğru", "yönünde"]
+    },
+    {
+      "word": "من",
+      "translation": "-den, -dan",
+      "options": ["-den", "-dan", "itibaren", "kaynaklı"]
+    },
+    {
+      "word": "في",
+      "translation": "-de, -da",
+      "options": ["-de", "-da", "içinde", "içerisinde"]
+    },
+    {
+      "word": "على",
+      "translation": "üzerinde",
+      "options": ["üzerinde", "üstünde", "-in üzerinde", "tepesinde"]
+    },
+    {
+      "word": "تحت",
+      "translation": "altında",
+      "options": ["altında", "aşağısında", "-in altında", "dibinde"]
+    },
+    {
+      "word": "فوق",
+      "translation": "üstünde",
+      "options": ["üstünde", "yukarısında", "tepesinde", "üzerinde"]
+    },
+    {
+      "word": "أمام",
+      "translation": "önünde",
+      "options": ["önünde", "karşısında", "ilerisinde", "cephesinde"]
+    },
+    {
+      "word": "خلف",
+      "translation": "arkasında",
+      "options": ["arkasında", "gerisinde", "ardında", "peşinde"]
+    },
+    {
+      "word": "بين",
+      "translation": "arasında",
+      "options": ["arasında", "ortasında", "iki şey arasında", "arada"]
+    },
+    {
+      "word": "بجانب",
+      "translation": "yanında",
+      "options": ["yanında", "kenarında", "bitişiğinde", "yakınında"]
+    },
+    {
+      "word": "داخل",
+      "translation": "içinde",
+      "options": ["içinde", "içerisinde", "dâhilinde", "merkez"]
+    },
+    {
+      "word": "خارج",
+      "translation": "dışında",
+      "options": ["dışında", "haricinde", "dışarısında", "dış"]
+    },
+    {
+      "word": "قرب",
+      "translation": "yakınında",
+      "options": ["yakınında", "civarında", "etrafında", "yanında"]
+    },
+    {
+      "word": "بعيد",
+      "translation": "uzakta",
+      "options": ["uzakta", "mesafeli", "ırak", "ayrı"]
+    },
+    {
+      "word": "مع",
+      "translation": "ile",
+      "options": ["ile", "beraber", "birlikte", "yanında"]
+    },
+    {
+      "word": "بدون",
+      "translation": "-siz, -sız",
+      "options": ["-siz", "-sız", "olmadan", "haricinde"]
+    },
+    {
+      "word": "عن",
+      "translation": "hakkında",
+      "options": ["hakkında", "konusunda", "üzerine", "ilgili"]
+    },
+    {
+      "word": "حول",
+      "translation": "etrafında",
+      "options": ["etrafında", "çevresinde", "yakınlarında", "dolanarak"]
+    },
+    {
+      "word": "عبر",
+      "translation": "boyunca",
+      "options": ["boyunca", "üzerinden", "geçerek", "süresince"]
+    },
+    {
+      "word": "منذ",
+      "translation": "-den beri",
+      "options": ["-den beri", "itibaren", "başlayarak", "başından"]
+    },
+    {
+      "word": "حتى",
+      "translation": "-e kadar",
+      "options": ["-e kadar", "dek", "değin", "sonuna kadar"]
+    },
+    {
+      "word": "لـ",
+      "translation": "için",
+      "options": ["için", "amacıyla", "niyetiyle", "maksadıyla"]
+    },
+    {
+      "word": "بسبب",
+      "translation": "yüzünden",
+      "options": ["yüzünden", "nedeniyle", "sebebiyle", "dolayı"]
+    },
+    {
+      "word": "ضد",
+      "translation": "karşı",
+      "options": ["karşı", "tersine", "zıt", "muhalif"]
+    },
+    {
+      "word": "رغم",
+      "translation": "rağmen",
+      "options": ["rağmen", "karşın", "aksine", "tersine"]
+    }
+  ],
+  "level5": [
+    {
+      "word": "من فضلك",
+      "translation": "lütfen",
+      "options": ["lütfen", "rica ederim", "zahmet olmazsa", "inayetinizle"]
+    },
+    {
+      "word": "آسف",
+      "translation": "özür dilerim",
+      "options": ["özür dilerim", "affedersiniz", "pardon", "kusura bakmayın"]
+    },
+    {
+      "word": "مبروك",
+      "translation": "tebrikler",
+      "options": ["tebrikler", "kutlu olsun", "hayırlı olsun", "kutlarım"]
+    },
+    {
+      "word": "نعم",
+      "translation": "evet",
+      "options": ["evet", "olur", "tamam", "doğru"]
+    },
+    {
+      "word": "لا",
+      "translation": "hayır",
+      "options": ["hayır", "yok", "olmaz", "değil"]
+    },
+    {
+      "word": "ربما",
+      "translation": "belki",
+      "options": ["belki", "olabilir", "muhtemelen", "ihtimal"]
+    },
+    {
+      "word": "ممكن",
+      "translation": "mümkün",
+      "options": ["mümkün", "olabilir", "olasılık", "imkân dâhilinde"]
+    },
+    {
+      "word": "مستحيل",
+      "translation": "imkânsız",
+      "options": ["imkânsız", "olanaksız", "olmaz", "mümkün değil"]
+    },
+    {
+      "word": "بالتأكيد",
+      "translation": "kesinlikle",
+      "options": ["kesinlikle", "elbette", "muhakkak", "şüphesiz"]
+    },
+    {
+      "word": "أبدا",
+      "translation": "asla",
+      "options": ["asla", "hiçbir zaman", "katiyen", "zinhar"]
+    },
+    {
+      "word": "دائما",
+      "translation": "daima",
+      "options": ["daima", "her zaman", "sürekli", "devamlı"]
+    },
+    {
+      "word": "أحيانا",
+      "translation": "bazen",
+      "options": ["bazen", "ara sıra", "kimi zaman", "zaman zaman"]
+    },
+    {
+      "word": "غالبا",
+      "translation": "genellikle",
+      "options": ["genellikle", "çoğunlukla", "ekseriyetle", "sıklıkla"]
+    },
+    {
+      "word": "نادرا",
+      "translation": "nadiren",
+      "options": ["nadiren", "ender olarak", "seyrek", "az sıklıkla"]
+    },
+    {
+      "word": "كل",
+      "translation": "her",
+      "options": ["her", "bütün", "tüm", "hepsi"]
+    },
+    {
+      "word": "بعض",
+      "translation": "bazı",
+      "options": ["bazı", "bir kısım", "bir miktar", "biraz"]
+    },
+    {
+      "word": "كثير",
+      "translation": "çok",
+      "options": ["çok", "fazla", "bol", "pek çok"]
+    },
+    {
+      "word": "قليل",
+      "translation": "az",
+      "options": ["az", "biraz", "kısıtlı", "ufak"]
+    },
+    {
+      "word": "أكثر",
+      "translation": "daha çok",
+      "options": ["daha çok", "daha fazla", "çoğunlukla", "ziyadesiyle"]
+    },
+    {
+      "word": "أقل",
+      "translation": "daha az",
+      "options": ["daha az", "daha düşük", "daha aşağı", "daha eksik"]
+    },
+    {
+      "word": "جدا",
+      "translation": "çok",
+      "options": ["çok", "oldukça", "hayli", "gayet"]
+    },
+    {
+      "word": "تماما",
+      "translation": "tamamen",
+      "options": ["tamamen", "bütünüyle", "tümüyle", "eksiksiz"]
+    },
+    {
+      "word": "تقريبا",
+      "translation": "yaklaşık",
+      "options": ["yaklaşık", "takriben", "aşağı yukarı", "hemen hemen"]
+    },
+    {
+      "word": "فقط",
+      "translation": "sadece",
+      "options": ["sadece", "yalnızca", "salt", "tek"]
+    },
+    {
+      "word": "حتى",
+      "translation": "bile",
+      "options": ["bile", "dahi", "hatta", "de/da"]
+    }
+  ],
+  "level6": [
+    {
+      "word": "استيقاظ",
+      "translation": "uyanma",
+      "options": ["uyanma", "kalkma", "uykudan kalkış", "uyanık olma"]
+    },
+    {
+      "word": "كلام",
+      "translation": "konuşma",
+      "options": ["konuşma", "söz", "konuşma eylemi", "sohbet"]
+    },
+    {
+      "word": "سمع",
+      "translation": "duyma",
+      "options": ["duyma", "işitme", "ses algılama", "duyuş"]
+    },
+    {
+      "word": "رؤية",
+      "translation": "görme",
+      "options": ["görme", "bakma", "görüş", "algılama"]
+    },
+    {
+      "word": "لمس",
+      "translation": "dokunma",
+      "options": ["dokunma", "temas", "his", "dokunuş"]
+    },
+    {
+      "word": "شم",
+      "translation": "koklama",
+      "options": ["koklama", "koku alma", "burun", "koku duyusu"]
+    },
+    {
+      "word": "ذوق",
+      "translation": "tatma",
+      "options": ["tatma", "tad alma", "tat duyusu", "tadına bakma"]
+    },
+    {
+      "word": "مشي",
+      "translation": "yürüme",
+      "options": ["yürüme", "yürüyüş", "adımlama", "ilerleme"]
+    },
+    {
+      "word": "ركض",
+      "translation": "koşma",
+      "options": ["koşma", "koşu", "hızlı hareket", "sürat"]
+    },
+    {
+      "word": "قفز",
+      "translation": "zıplama",
+      "options": ["zıplama", "atlama", "sıçrama", "hoplama"]
+    },
+    {
+      "word": "سباحة",
+      "translation": "yüzme",
+      "options": ["yüzme", "suda hareket", "kulaç atma", "yüzüş"]
+    },
+    {
+      "word": "طيران",
+      "translation": "uçma",
+      "options": ["uçma", "havada süzülme", "uçuş", "havalanma"]
+    },
+    {
+      "word": "قيادة",
+      "translation": "sürme",
+      "options": ["sürme", "kontrol etme", "idare etme", "kullanma"]
+    },
+    {
+      "word": "ركوب",
+      "translation": "binme",
+      "options": ["binme", "üzerine çıkma", "sürme", "biniş"]
+    },
+    {
+      "word": "فتح",
+      "translation": "açma",
+      "options": ["açma", "açılış", "açıklık", "açmak"]
+    },
+    {
+      "word": "إغلاق",
+      "translation": "kapatma",
+      "options": ["kapatma", "kapanış", "örtme", "kapama"]
+    },
+    {
+      "word": "إعطاء",
+      "translation": "verme",
+      "options": ["verme", "hediye etme", "sunum", "veriş"]
+    },
+    {
+      "word": "أخذ",
+      "translation": "alma",
+      "options": ["alma", "kabul etme", "elde etme", "alış"]
+    },
+    {
+      "word": "وضع",
+      "translation": "koyma",
+      "options": ["koyma", "yerleştirme", "konumlandırma", "bırakma"]
+    },
+    {
+      "word": "رفع",
+      "translation": "kaldırma",
+      "options": ["kaldırma", "yükseltme", "yukarı çıkarma", "kaldırış"]
+    },
+    {
+      "word": "دفع",
+      "translation": "itme",
+      "options": ["itme", "dürtme", "ittirme", "uzaklaştırma"]
+    },
+    {
+      "word": "سحب",
+      "translation": "çekme",
+      "options": ["çekme", "sürükleme", "kendine doğru çekme", "çekiş"]
+    },
+    {
+      "word": "لعب",
+      "translation": "oynama",
+      "options": ["oynama", "eğlenme", "oyun", "oynanış"]
+    },
+    {
+      "word": "رقص",
+      "translation": "dans",
+      "options": ["dans", "dans etme", "raks", "dans ediş"]
+    },
+    {
+      "word": "غناء",
+      "translation": "şarkı söyleme",
+      "options": ["şarkı söyleme", "şarkı", "söyleme", "şarkı söyleyiş"]
+    },
+    {
+      "level7": [
+        {
+          "word": "جبل",
+          "translation": "dağ",
+          "options": ["dağ", "tepe", "yükseklik", "doruk"]
+        },
+        {
+          "word": "بحر",
+          "translation": "deniz",
+          "options": ["deniz", "okyanus", "su", "dalga"]
+        },
+        {
+          "word": "نهر",
+          "translation": "nehir",
+          "options": ["nehir", "ırmak", "akarsu", "dere"]
+        },
+        {
+          "word": "شجرة",
+          "translation": "ağaç",
+          "options": ["ağaç", "bitki", "orman", "odun"]
+        },
+        {
+          "word": "زهرة",
+          "translation": "çiçek",
+          "options": ["çiçek", "bitki", "güzellik", "koku"]
+        },
+        {
+          "word": "حيوان",
+          "translation": "hayvan",
+          "options": ["hayvan", "canlı", "yaratık", "memeli"]
+        },
+        {
+          "word": "كلب",
+          "translation": "köpek",
+          "options": ["köpek", "evcil hayvan", "sadık", "havlamak"]
+        },
+        {
+          "word": "قطة",
+          "translation": "kedi",
+          "options": ["kedi", "evcil hayvan", "miyavlamak", "tüylü"]
+        },
+        {
+          "word": "طير",
+          "translation": "kuş",
+          "options": ["kuş", "uçan", "kanat", "gökyüzü"]
+        },
+        {
+          "word": "سمك",
+          "translation": "balık",
+          "options": ["balık", "deniz", "yüzmek", "solungaç"]
+        },
+        {
+          "word": "أب",
+          "translation": "baba",
+          "options": ["baba", "ebeveyn", "aile", "erkek"]
+        },
+        {
+          "word": "أم",
+          "translation": "anne",
+          "options": ["anne", "ebeveyn", "aile", "kadın"]
+        },
+        {
+          "word": "أخ",
+          "translation": "erkek kardeş",
+          "options": ["erkek kardeş", "abi", "aile", "akraba"]
+        },
+        {
+          "word": "أخت",
+          "translation": "kız kardeş",
+          "options": ["kız kardeş", "abla", "aile", "akraba"]
+        },
+        {
+          "word": "جد",
+          "translation": "dede",
+          "options": ["dede", "büyükbaba", "yaşlı", "bilge"]
+        },
+        {
+          "word": "جدة",
+          "translation": "nine",
+          "options": ["nine", "büyükanne", "yaşlı", "bilge"]
+        },
+        {
+          "word": "ابن",
+          "translation": "oğul",
+          "options": ["oğul", "erkek çocuk", "evlat", "nesil"]
+        },
+        {
+          "word": "بنت",
+          "translation": "kız",
+          "options": ["kız", "kız çocuk", "evlat", "nesil"]
+        },
+        {
+          "word": "عائلة",
+          "translation": "aile",
+          "options": ["aile", "akraba", "soy", "ev halkı"]
+        },
+        {
+          "word": "صديق",
+          "translation": "arkadaş",
+          "options": ["arkadaş", "dost", "yoldaş", "ahbap"]
+        },
+        {
+          "word": "معلم",
+          "translation": "öğretmen",
+          "options": ["öğretmen", "eğitimci", "hoca", "eğitmen"]
+        },
+        {
+          "word": "طالب",
+          "translation": "öğrenci",
+          "options": ["öğrenci", "talebe", "okuyan", "eğitim alan"]
+        },
+        {
+          "word": "طبيب",
+          "translation": "doktor",
+          "options": ["doktor", "hekim", "tıp", "sağlık"]
+        },
+        {
+          "word": "ممرضة",
+          "translation": "hemşire",
+          "options": ["hemşire", "sağlık çalışanı", "bakım", "tedavi"]
+        },
+        {
+          "word": "مهندس",
+          "translation": "mühendis",
+          "options": ["mühendis", "teknik uzman", "tasarımcı", "yapı"]
+        }
+      ],
+      "level8": [
+        {
+          "word": "سمين",
+          "translation": "şişman",
+          "options": ["şişman", "kilolu", "iri", "tombul"]
+        },
+        {
+          "word": "نحيف",
+          "translation": "zayıf",
+          "options": ["zayıf", "ince", "sıska", "cılız"]
+        },
+        {
+          "word": "جميل",
+          "translation": "güzel",
+          "options": ["güzel", "hoş", "çekici", "alımlı"]
+        },
+        {
+          "word": "قبيح",
+          "translation": "çirkin",
+          "options": ["çirkin", "kötü", "sevimsiz", "itici"]
+        },
+        {
+          "word": "سريع",
+          "translation": "hızlı",
+          "options": ["hızlı", "çabuk", "süratli", "tez"]
+        },
+        {
+          "word": "بطيء",
+          "translation": "yavaş",
+          "options": ["yavaş", "ağır", "aheste", "yavaşça"]
+        },
+        {
+          "word": "قوي",
+          "translation": "güçlü",
+          "options": ["güçlü", "kuvvetli", "sağlam", "dayanıklı"]
+        },
+        {
+          "word": "ضعيف",
+          "translation": "zayıf",
+          "options": ["zayıf", "güçsüz", "cılız", "çelimsiz"]
+        },
+        {
+          "word": "ذكي",
+          "translation": "zeki",
+          "options": ["zeki", "akıllı", "bilgili", "uyanık"]
+        },
+        {
+          "word": "غبي",
+          "translation": "aptal",
+          "options": ["aptal", "salak", "budala", "ahmak"]
+        },
+        {
+          "word": "سعيد",
+          "translation": "mutlu",
+          "options": ["mutlu", "sevinçli", "neşeli", "memnun"]
+        },
+        {
+          "word": "حزين",
+          "translation": "üzgün",
+          "options": ["üzgün", "kederli", "mutsuz", "mahzun"]
+        },
+        {
+          "word": "غاضب",
+          "translation": "kızgın",
+          "options": ["kızgın", "öfkeli", "sinirli", "hiddetli"]
+        },
+        {
+          "word": "خائف",
+          "translation": "korkmuş",
+          "options": ["korkmuş", "ürkmüş", "tedirgin", "endişeli"]
+        },
+        {
+          "word": "مريض",
+          "translation": "hasta",
+          "options": ["hasta", "rahatsız", "sağlıksız", "keyifsiz"]
+        },
+        {
+          "word": "صحي",
+          "translation": "sağlıklı",
+          "options": ["sağlıklı", "dinç", "zinde", "iyi"]
+        },
+        {
+          "word": "جائع",
+          "translation": "aç",
+          "options": ["aç", "açlık çeken", "yemek isteyen", "tok olmayan"]
+        },
+        {
+          "word": "عطشان",
+          "translation": "susamış",
+          "options": ["susamış", "susuz", "su isteyen", "susayan"]
+        },
+        {
+          "word": "نعسان",
+          "translation": "uykulu",
+          "options": ["uykulu", "yorgun", "uyku isteyen", "uykulamak"]
+        },
+        {
+          "word": "مستيقظ",
+          "translation": "uyanık",
+          "options": ["uyanık", "ayık", "dinç", "tetikte"]
+        },
+        {
+          "word": "غني",
+          "translation": "zengin",
+          "options": ["zengin", "varlıklı", "paralı", "servetli"]
+        },
+        {
+          "word": "فقير",
+          "translation": "fakir",
+          "options": ["fakir", "yoksul", "parasız", "muhtaç"]
+        },
+        {
+          "word": "حار",
+          "translation": "sıcak",
+          "options": ["sıcak", "yakıcı", "ateşli", "kızgın"]
+        },
+        {
+          "word": "بارد",
+          "translation": "soğuk",
+          "options": ["soğuk", "serin", "buz gibi", "üşütücü"]
+        },
+        {
+          "word": "رطب",
+          "translation": "ıslak",
+          "options": ["ıslak", "nemli", "yaş", "sulanmış"]
+        }
+      ],
+      "level9": [
+        {
+          "word": "يلعب",
+          "translation": "oynuyor",
+          "options": ["oynuyor", "eğleniyor", "vakit geçiriyor", "oyun yapıyor"]
+        },
+        {
+          "word": "يرقص",
+          "translation": "dans ediyor",
+          "options": ["dans ediyor", "kıvırıyor", "sallanıyor", "hareket ediyor"]
+        },
+        {
+          "word": "يغني",
+          "translation": "şarkı söylüyor",
+          "options": ["şarkı söylüyor", "okuyor", "seslendiriyor", "mırıldanıyor"]
+        },
+        {
+          "word": "يكتب",
+          "translation": "yazıyor",
+          "options": ["yazıyor", "kaydediyor", "not alıyor", "kayda geçiriyor"]
+        },
+        {
+          "word": "يقرأ",
+          "translation": "okuyor",
+          "options": ["okuyor", "mütalaa ediyor", "gözden geçiriyor", "inceliyor"]
+        },
+        {
+          "word": "يدرس",
+          "translation": "ders çalışıyor",
+          "options": ["ders çalışıyor", "öğreniyor", "inceliyor", "analiz ediyor"]
+        },
+        {
+          "word": "يعلم",
+          "translation": "öğretiyor",
+          "options": ["öğretiyor", "eğitiyor", "bilgi veriyor", "aktarıyor"]
+        },
+        {
+          "word": "يفهم",
+          "translation": "anlıyor",
+          "options": ["anlıyor", "kavrama", "algılıyor", "idrak ediyor"]
+        },
+        {
+          "word": "يفكر",
+          "translation": "düşünüyor",
+          "options": ["düşünüyor", "akıl yürütüyor", "fikir üretiyor", "kafa yoruyor"]
+        },
+        {
+          "word": "يتذكر",
+          "translation": "hatırlıyor",
+          "options": ["hatırlıyor", "anımsıyor", "aklına geliyor", "zihninde canlandırıyor"]
+        },
+        {
+          "word": "ينسى",
+          "translation": "unutuyor",
+          "options": ["unutuyor", "aklından çıkarıyor", "anımsamıyor", "bellek kaybı"]
+        },
+        {
+          "word": "يحب",
+          "translation": "seviyor",
+          "options": ["seviyor", "aşık", "tutkulu", "sevgi duyuyor"]
+        },
+        {
+          "word": "يكره",
+          "translation": "nefret ediyor",
+          "options": ["nefret ediyor", "hoşlanmıyor", "tiksiniyor", "sevmiyor"]
+        },
+        {
+          "word": "يبكي",
+          "translation": "ağlıyor",
+          "options": ["ağlıyor", "gözyaşı döküyor", "hıçkırıyor", "sızlanıyor"]
+        },
+        {
+          "word": "يضحك",
+          "translation": "gülüyor",
+          "options": ["gülüyor", "kahkaha atıyor", "eğleniyor", "neşeleniyor"]
+        },
+        {
+          "word": "يبتسم",
+          "translation": "gülümsüyor",
+          "options": ["gülümsüyor", "tebessüm ediyor", "hafif gülüyor", "yüzü güllüyor"]
+        },
+        {
+          "word": "يقول",
+          "translation": "söylüyor",
+          "options": ["söylüyor", "konuşuyor", "ifade ediyor", "dile getiriyor"]
+        },
+        {
+          "word": "يسأل",
+          "translation": "soruyor",
+          "options": ["soruyor", "sual ediyor", "sorgulama", "merak ediyor"]
+        },
+        {
+          "word": "يجيب",
+          "translation": "cevaplıyor",
+          "options": ["cevaplıyor", "yanıtlıyor", "karşılık veriyor", "açıklıyor"]
+        },
+        {
+          "word": "يبدأ",
+          "translation": "başlıyor",
+          "options": ["başlıyor", "başlatıyor", "ilk adımı atıyor", "giriş yapıyor"]
+        },
+        {
+          "word": "ينتهي",
+          "translation": "bitiyor",
+          "options": ["bitiyor", "sonlanıyor", "tamamlanıyor", "sona eriyor"]
+        },
+        {
+          "word": "يستمر",
+          "translation": "devam ediyor",
+          "options": ["devam ediyor", "sürdürüyor", "süreklilik", "süregelen"]
+        },
+        {
+          "word": "يتوقف",
+          "translation": "duruyor",
+          "options": ["duruyor", "duraklatıyor", "mola veriyor", "ara veriyor"]
+        },
+        {
+          "word": "يذهب",
+          "translation": "gidiyor",
+          "options": ["gidiyor", "hareket ediyor", "yola çıkıyor", "uzaklaşıyor"]
+        },
+        {
+          "word": "يأتي",
+          "translation": "geliyor",
+          "options": ["geliyor", "yaklaşıyor", "varıyor", "ulaşıyor"]
+        }
+      ],
+      "level10": [
+        {
+          "word": "و",
+          "translation": "ve",
+          "options": ["ve", "ile", "ayrıca", "hem de"]
+        },
+        {
+          "word": "أو",
+          "translation": "veya",
+          "options": ["veya", "ya da", "yahut", "veyahut"]
+        },
+        {
+          "word": "لكن",
+          "translation": "fakat",
+          "options": ["fakat", "ama", "lakin", "ancak"]
+        },
+        {
+          "word": "إذا",
+          "translation": "eğer",
+          "options": ["eğer", "şayet", "-se/-sa", "olursa"]
+        },
+        {
+          "word": "لأن",
+          "translation": "çünkü",
+          "options": ["çünkü", "zira", "şundan dolayı", "sebebiyle"]
+        },
+        {
+          "word": "واحد",
+          "translation": "bir",
+          "options": ["bir", "tek", "yalnız", "birinci"]
+        },
+        {
+          "word": "اثنان",
+          "translation": "iki",
+          "options": ["iki", "çift", "ikili", "ikinci"]
+        },
+        {
+          "word": "ثلاثة",
+          "translation": "üç",
+          "options": ["üç", "üçlü", "üçüncü", "trío"]
+        },
+        {
+          "word": "أربعة",
+          "translation": "dört",
+          "options": ["dört", "dörtlü", "dördüncü", "kuartet"]
+        },
+        {
+          "word": "خمسة",
+          "translation": "beş",
+          "options": ["beş", "beşli", "beşinci", "kentet"]
+        },
+        {
+          "word": "ستة",
+          "translation": "altı",
+          "options": ["altı", "altılı", "altıncı", "sekstet"]
+        },
+        {
+          "word": "سبعة",
+          "translation": "yedi",
+          "options": ["yedi", "yedili", "yedinci", "septet"]
+        },
+        {
+          "word": "ثمانية",
+          "translation": "sekiz",
+          "options": ["sekiz", "sekizli", "sekizinci", "oktet"]
+        },
+        {
+          "word": "تسعة",
+          "translation": "dokuz",
+          "options": ["dokuz", "dokuzlu", "dokuzuncu", "nonet"]
+        },
+        {
+          "word": "عشرة",
+          "translation": "on",
+          "options": ["on", "onlu", "onuncu", "dekat"]
+        },
+        {
+          "word": "الاثنين",
+          "translation": "pazartesi",
+          "options": ["pazartesi", "haftanın ilk günü", "ilk iş günü", "hafta başı"]
+        },
+        {
+          "word": "الثلاثاء",
+          "translation": "salı",
+          "options": ["salı", "haftanın ikinci günü", "pazartesiden sonra", "salı günü"]
+        },
+        {
+          "word": "الأربعاء",
+          "translation": "çarşamba",
+          "options": ["çarşamba", "haftanın üçüncü günü", "hafta ortası", "çarşamba günü"]
+        },
+        {
+          "word": "الخميس",
+          "translation": "perşembe",
+          "options": ["perşembe", "haftanın dördüncü günü", "cuma arifesi", "perşembe günü"]
+        },
+        {
+          "word": "الجمعة",
+          "translation": "cuma",
+          "options": ["cuma", "haftanın beşinci günü", "kutsal gün", "cuma günü"]
+        },
+        {
+          "word": "السبت",
+          "translation": "cumartesi",
+          "options": ["cumartesi", "haftanın altıncı günü", "hafta sonu", "cumartesi günü"]
+        },
+        {
+          "word": "الأحد",
+          "translation": "pazar",
+          "options": ["pazar", "haftanın yedinci günü", "tatil günü", "pazar günü"]
+        },
+        {
+          "word": "يناير",
+          "translation": "ocak",
+          "options": ["ocak", "yılın ilk ayı", "kış ayı", "ocak ayı"]
+        },
+        {
+          "word": "فبراير",
+          "translation": "şubat",
+          "options": ["şubat", "yılın ikinci ayı", "kış ayı", "şubat ayı"]
+        },
+        {
+          "word": "مارس",
+          "translation": "mart",
+          "options": ["mart", "yılın üçüncü ayı", "ilkbahar ayı", "mart ayı"]
+        }
+      ],
+      "level11": [
+        {
+          "word": "أيضا",
+          "translation": "de/da",
+          "options": ["de/da", "ayrıca", "dahil", "yanı sıra"]
+        },
+        {
+          "word": "فورا",
+          "translation": "hemen",
+          "options": ["hemen", "derhal", "anında", "çabucak"]
+        },
+        {
+          "word": "قريبا",
+          "translation": "yakında",
+          "options": ["yakında", "pek yakında", "kısa sürede", "çok geçmeden"]
+        },
+        {
+          "word": "أخيرا",
+          "translation": "sonunda",
+          "options": ["sonunda", "nihayet", "en sonunda", "nihayetinde"]
+        },
+        {
+          "word": "مجددا",
+          "translation": "tekrar",
+          "options": ["tekrar", "yeniden", "bir daha", "bir kez daha"]
+        },
+        {
+          "word": "هنا",
+          "translation": "burada",
+          "options": ["burada", "bu yerde", "bu noktada", "şurada"]
+        },
+        {
+          "word": "هناك",
+          "translation": "orada",
+          "options": ["orada", "o yerde", "o noktada", "şu tarafta"]
+        },
+        {
+          "word": "فوق",
+          "translation": "yukarıda",
+          "options": ["yukarıda", "üstte", "tepe", "yüksekte"]
+        },
+        {
+          "word": "تحت",
+          "translation": "aşağıda",
+          "options": ["aşağıda", "altta", "dip", "düşük seviyede"]
+        },
+        {
+          "word": "هذا",
+          "translation": "bu",
+          "options": ["bu", "şu", "işaret edilen", "bahsedilen"]
+        },
+        {
+          "word": "ذلك",
+          "translation": "o",
+          "options": ["o", "şu", "diğeri", "öbürü"]
+        },
+        {
+          "word": "هؤلاء",
+          "translation": "bunlar",
+          "options": ["bunlar", "şunlar", "bu kişiler", "bu nesneler"]
+        },
+        {
+          "word": "أولئك",
+          "translation": "onlar",
+          "options": ["onlar", "şunlar", "o kişiler", "o nesneler"]
+        },
+        {
+          "word": "الذي",
+          "translation": "ki",
+          "options": ["ki", "hangi", "şu ki", "öyle ki"]
+        },
+        {
+          "word": "كم",
+          "translation": "ne kadar",
+          "options": ["ne kadar", "kaç", "kaç tane", "ne miktar"]
+        },
+        {
+          "word": "متى",
+          "translation": "ne zaman",
+          "options": ["ne zaman", "hangi vakit", "ne vakit", "vaktinde"]
+        },
+        {
+          "word": "أين",
+          "translation": "nerede",
+          "options": ["nerede", "hangi yerde", "nereye", "hangi noktada"]
+        },
+        {
+          "word": "كيف",
+          "translation": "nasıl",
+          "options": ["nasıl", "ne şekilde", "hangi yolla", "ne biçimde"]
+        },
+        {
+          "word": "لماذا",
+          "translation": "neden",
+          "options": ["neden", "niçin", "niye", "hangi sebeple"]
+        },
+        {
+          "word": "ماذا",
+          "translation": "ne",
+          "options": ["ne", "neyi", "hangi şeyi", "hangi konuyu"]
+        },
+        {
+          "word": "من",
+          "translation": "kim",
+          "options": ["kim", "hangi kişi", "kimi", "kimin"]
+        },
+        {
+          "word": "هل",
+          "translation": "mı/mi",
+          "options": ["mı/mi", "acaba", "soru eki", "değil mi"]
+        },
+        {
+          "word": "أكل",
+          "translation": "yemek",
+          "options": ["yemek", "beslenme", "gıda tüketimi", "yeme eylemi"]
+        },
+        {
+          "word": "شرب",
+          "translation": "içmek",
+          "options": ["içmek", "sıvı tüketimi", "yudumlamak", "sıvı almak"]
+        },
+        {
+          "word": "نوم",
+          "translation": "uyku",
+          "options": ["uyku", "dinlenme", "uyuma hali", "dinlenme zamanı"]
+        }
+      ],
+      "level12": [
+        {
+          "word": "كتابة",
+          "translation": "yazma",
+          "options": ["yazma", "kaydetme", "not alma", "yazış"]
+        },
+        {
+          "word": "قراءة",
+          "translation": "okuma",
+          "options": ["okuma", "mütalaa", "gözden geçirme", "okuyuş"]
+        },
+        {
+          "word": "دراسة",
+          "translation": "ders çalışma",
+          "options": ["ders çalışma", "öğrenme", "inceleme", "analiz"]
+        },
+        {
+          "word": "تعليم",
+          "translation": "öğretme",
+          "options": ["öğretme", "eğitme", "bilgi verme", "öğretiş"]
+        },
+        {
+          "word": "فهم",
+          "translation": "anlama",
+          "options": ["anlama", "kavrama", "algılama", "idrak"]
+        },
+        {
+          "word": "تفكير",
+          "translation": "düşünme",
+          "options": ["düşünme", "akıl yürütme", "fikir üretme", "düşünüş"]
+        },
+        {
+          "word": "تذكر",
+          "translation": "hatırlama",
+          "options": ["hatırlama", "anımsama", "akla getirme", "hatırlayış"]
+        },
+        {
+          "word": "نسيان",
+          "translation": "unutma",
+          "options": ["unutma", "akıldan çıkarma", "anımsamama", "unutuş"]
+        },
+        {
+          "word": "حب",
+          "translation": "sevme",
+          "options": ["sevme", "aşık olma", "tutku", "sevgi"]
+        },
+        {
+          "word": "كره",
+          "translation": "nefret etme",
+          "options": ["nefret etme", "hoşlanmama", "tiksinme", "nefret"]
+        },
+        {
+          "word": "بكاء",
+          "translation": "ağlama",
+          "options": ["ağlama", "gözyaşı dökme", "hıçkırma", "ağlayış"]
+        },
+        {
+          "word": "ضحك",
+          "translation": "gülme",
+          "options": ["gülme", "kahkaha atma", "neşelenme", "gülüş"]
+        },
+        {
+          "word": "ابتسامة",
+          "translation": "gülümseme",
+          "options": ["gülümseme", "tebessüm", "hafif gülme", "gülümseyiş"]
+        },
+        {
+          "word": "قول",
+          "translation": "söyleme",
+          "options": ["söyleme", "konuşma", "ifade etme", "söyleyiş"]
+        },
+        {
+          "word": "سؤال",
+          "translation": "soru",
+          "options": ["soru", "sual", "sorgulama", "merak"]
+        },
+        {
+          "word": "جواب",
+          "translation": "cevap",
+          "options": ["cevap", "yanıt", "karşılık", "açıklama"]
+        },
+        {
+          "word": "بداية",
+          "translation": "başlangıç",
+          "options": ["başlangıç", "başlama", "ilk adım", "giriş"]
+        },
+        {
+          "word": "نهاية",
+          "translation": "bitiş",
+          "options": ["bitiş", "son", "tamamlanma", "sonuç"]
+        },
+        {
+          "word": "استمرار",
+          "translation": "devam",
+          "options": ["devam", "sürdürme", "süreklilik", "süreğenlik"]
+        },
+        {
+          "word": "توقف",
+          "translation": "durma",
+          "options": ["durma", "duraklatma", "mola", "ara"]
+        },
+        {
+          "word": "ذهاب",
+          "translation": "gitme",
+          "options": ["gitme", "hareket etme", "yola çıkma", "gidiş"]
+        },
+        {
+          "word": "مجيء",
+          "translation": "gelme",
+          "options": ["gelme", "yaklaşma", "varma", "geliş"]
+        },
+        {
+          "word": "دخول",
+          "translation": "girme",
+          "options": ["girme", "içeri girme", "dahil olma", "giriş"]
+        },
+        {
+          "word": "خروج",
+          "translation": "çıkma",
+          "options": ["çıkma", "dışarı çıkma", "ayrılma", "çıkış"]
+        },
+        {
+          "word": "صعود",
+          "translation": "çıkış",
+          "options": ["çıkış", "yükselme", "tırmanma", "yukarı gitme"]
+        }
+      ],
+      "level13": [
+        {
+          "word": "جاف",
+          "translation": "kuru",
+          "options": ["kuru", "nemli olmayan", "kurumuş", "susuz"]
+        },
+        {
+          "word": "نظيف",
+          "translation": "temiz",
+          "options": ["temiz", "pak", "arınmış", "lekesiz"]
+        },
+        {
+          "word": "وسخ",
+          "translation": "kirli",
+          "options": ["kirli", "pis", "lekeli", "pasaklı"]
+        },
+        {
+          "word": "مفتوح",
+          "translation": "açık",
+          "options": ["açık", "aralık", "kapalı olmayan", "serbest"]
+        },
+        {
+          "word": "مغلق",
+          "translation": "kapalı",
+          "options": ["kapalı", "örtülü", "kilitli", "kapanmış"]
+        },
+        {
+          "word": "واقف",
+          "translation": "ayakta",
+          "options": ["ayakta", "dikilen", "duran", "dik"]
+        },
+        {
+          "word": "جالس",
+          "translation": "oturan",
+          "options": ["oturan", "oturmuş", "bağdaş kurmuş", "yerleşmiş"]
+        },
+        {
+          "word": "نائم",
+          "translation": "uyuyan",
+          "options": ["uyuyan", "uykuda", "dinlenen", "horluyor"]
+        },
+        {
+          "word": "ماشي",
+          "translation": "yürüyen",
+          "options": ["yürüyen", "adımlayan", "ilerleyen", "giden"]
+        },
+        {
+          "word": "راكض",
+          "translation": "koşan",
+          "options": ["koşan", "hızlı giden", "atak", "hızlanan"]
+        },
+        {
+          "word": "أبريل",
+          "translation": "nisan",
+          "options": ["nisan", "yılın dördüncü ayı", "ilkbahar ayı", "nisan ayı"]
+        },
+        {
+          "word": "مايو",
+          "translation": "mayıs",
+          "options": ["mayıs", "yılın beşinci ayı", "ilkbahar ayı", "mayıs ayı"]
+        },
+        {
+          "word": "يونيو",
+          "translation": "haziran",
+          "options": ["haziran", "yılın altıncı ayı", "yaz ayı", "haziran ayı"]
+        },
+        {
+          "word": "يوليو",
+          "translation": "temmuz",
+          "options": ["temmuz", "yılın yedinci ayı", "yaz ayı", "temmuz ayı"]
+        },
+        {
+          "word": "أغسطس",
+          "translation": "ağustos",
+          "options": ["ağustos", "yılın sekizinci ayı", "yaz ayı", "ağustos ayı"]
+        },
+        {
+          "word": "سبتمبر",
+          "translation": "eylül",
+          "options": ["eylül", "yılın dokuzuncu ayı", "sonbahar ayı", "eylül ayı"]
+        },
+        {
+          "word": "أكتوبر",
+          "translation": "ekim",
+          "options": ["ekim", "yılın onuncu ayı", "sonbahar ayı", "ekim ayı"]
+        },
+        {
+          "word": "نوفمبر",
+          "translation": "kasım",
+          "options": ["kasım", "yılın on birinci ayı", "sonbahar ayı", "kasım ayı"]
+        },
+        {
+          "word": "ديسمبر",
+          "translation": "aralık",
+          "options": ["aralık", "yılın on ikinci ayı", "kış ayı", "aralık ayı"]
+        },
+        {
+          "word": "شتاء",
+          "translation": "kış",
+          "options": ["kış", "soğuk mevsim", "kar mevsimi", "soğuk dönem"]
+        },
+        {
+          "word": "ربيع",
+          "translation": "ilkbahar",
+          "options": ["ilkbahar", "bahar", "çiçeklenme mevsimi", "ılık mevsim"]
+        },
+        {
+          "word": "صيف",
+          "translation": "yaz",
+          "options": ["yaz", "sıcak mevsim", "tatil mevsimi", "güneşli günler"]
+        },
+        {
+          "word": "خريف",
+          "translation": "sonbahar",
+          "options": ["sonbahar", "güz", "yaprak dökümü", "sararan yapraklar"]
+        },
+        {
+          "word": "صباح الخير",
+          "translation": "günaydın",
+          "options": ["günaydın", "hayırlı sabahlar", "iyi sabahlar", "sabah selamı"]
+        },
+        {
+          "word": "مساء الخير",
+          "translation": "iyi akşamlar",
+          "options": ["iyi akşamlar", "hayırlı akşamlar", "akşam selamı", "tünaydın"]
+        }
+      ],
+      "level14": [
+        {
+          "word": "نزول",
+          "translation": "iniş",
+          "options": ["iniş", "alçalma", "düşme", "aşağı gitme"]
+        },
+        {
+          "word": "وقوع",
+          "translation": "düşme",
+          "options": ["düşme", "yere düşme", "yıkılma", "devrilme"]
+        },
+        {
+          "word": "وقوف",
+          "translation": "durma",
+          "options": ["durma", "ayakta durma", "bekleme", "duruş"]
+        },
+        {
+          "word": "جلوس",
+          "translation": "oturma",
+          "options": ["oturma", "mola verme", "yerleşme", "oturuş"]
+        },
+        {
+          "word": "استلقاء",
+          "translation": "uzanma",
+          "options": ["uzanma", "yatma", "dinlenme", "yaslanma"]
+        },
+        {
+          "word": "عيش",
+          "translation": "yaşama",
+          "options": ["yaşama", "hayat", "varlık sürdürme", "yaşayış"]
+        },
+        {
+          "word": "موت",
+          "translation": "ölüm",
+          "options": ["ölüm", "hayatın sonu", "vefat", "can verme"]
+        },
+        {
+          "word": "ولادة",
+          "translation": "doğum",
+          "options": ["doğum", "dünyaya gelme", "hayata başlama", "yaşam başlangıcı"]
+        },
+        {
+          "word": "نمو",
+          "translation": "büyüme",
+          "options": ["büyüme", "gelişme", "yetişkinlik", "olgunlaşma"]
+        },
+        {
+          "word": "زواج",
+          "translation": "evlilik",
+          "options": ["evlilik", "nikah", "hayat birleştirme", "dünya evi"]
+        },
+        {
+          "word": "طبخ",
+          "translation": "pişirme",
+          "options": ["pişirme", "hazırlama", "yemek yapma", "mutfak işi"]
+        },
+        {
+          "word": "غسل",
+          "translation": "yıkama",
+          "options": ["yıkama", "temizleme", "arındırma", "durulama"]
+        },
+        {
+          "word": "تنظيف",
+          "translation": "temizleme",
+          "options": ["temizleme", "arındırma", "paklaştırma", "parlatma"]
+        },
+        {
+          "word": "ترتيب",
+          "translation": "düzenleme",
+          "options": ["düzenleme", "organize etme", "sıralama", "tertipleme"]
+        },
+        {
+          "word": "لبس",
+          "translation": "giyim",
+          "options": ["giyim", "kuşanma", "üzerine geçirme", "giyiniş"]
+        },
+        {
+          "word": "خلع",
+          "translation": "çıkarma",
+          "options": ["çıkarma", "soyunma", "üzerinden alma", "kıyafet çıkarma"]
+        },
+        {
+          "word": "عمل",
+          "translation": "çalışma",
+          "options": ["çalışma", "iş", "mesai", "uğraş"]
+        },
+        {
+          "word": "راحة",
+          "translation": "dinlenme",
+          "options": ["dinlenme", "istirahat", "mola", "relaksasyon"]
+        },
+        {
+          "word": "نجاح",
+          "translation": "başarı",
+          "options": ["başarı", "zafer", "üstünlük", "muvaffakiyet"]
+        },
+        {
+          "word": "فشل",
+          "translation": "başarısızlık",
+          "options": ["başarısızlık", "hüsran", "hezimet", "fiyasko"]
+        },
+        {
+          "word": "سعادة",
+          "translation": "mutluluk",
+          "options": ["mutluluk", "sevinç", "neşe", "memnuniyet"]
+        },
+        {
+          "word": "حزن",
+          "translation": "üzüntü",
+          "options": ["üzüntü", "keder", "hüzün", "melankoli"]
+        },
+        {
+          "word": "غضب",
+          "translation": "öfke",
+          "options": ["öfke", "kızgınlık", "sinir", "hiddet"]
+        },
+        {
+          "word": "خوف",
+          "translation": "korku",
+          "options": ["korku", "ürkme", "tedirginlik", "endişe"]
+        },
+        {
+          "word": "مرض",
+          "translation": "hastalık",
+          "options": ["hastalık", "rahatsızlık", "sağlıksızlık", "keyifsizlik"]
+        }
+      ],
+      "level15": [
+        {
+          "word": "تصبح على خير",
+          "translation": "iyi geceler",
+          "options": ["iyi geceler", "hayırlı geceler", "tatlı rüyalar", "gece selamı"]
+        },
+        {
+          "word": "مرحبا",
+          "translation": "merhaba",
+          "options": ["merhaba", "selam", "hoş bulduk", "selamünaleyküm"]
+        },
+        {
+          "word": "وداعا",
+          "translation": "hoşça kal",
+          "options": ["hoşça kal", "güle güle", "elveda", "bay bay"]
+        },
+        {
+          "word": "شكرا",
+          "translation": "teşekkür ederim",
+          "options": ["teşekkür ederim", "sağ ol", "teşekkürler", "mersi"]
+        },
+        {
+          "word": "عفوا",
+          "translation": "bir şey değil",
+          "options": ["bir şey değil", "rica ederim", "estağfurullah", "önemli değil"]
+        },
+        {
+          "word": "صحة",
+          "translation": "sağlık",
+          "options": ["sağlık", "sıhhat", "afiyet", "esenlik"]
+        },
+        {
+          "word": "جوع",
+          "translation": "açlık",
+          "options": ["açlık", "acıkma", "yemek isteği", "beslenme ihtiyacı"]
+        },
+        {
+          "word": "عطش",
+          "translation": "susuzluk",
+          "options": ["susuzluk", "su ihtiyacı", "su arzusu", "susama"]
+        },
+        {
+          "word": "نعاس",
+          "translation": "uyku hali",
+          "options": ["uyku hali", "uykululuk", "yorgunluk", "uyuklama"]
+        },
+        {
+          "word": "يقظة",
+          "translation": "uyanıklık",
+          "options": ["uyanıklık", "ayıklık", "dinçlik", "tetikte olma"]
+        },
+        {
+          "word": "غنى",
+          "translation": "zenginlik",
+          "options": ["zenginlik", "varlık", "para", "servet"]
+        },
+        {
+          "word": "فقر",
+          "translation": "fakirlik",
+          "options": ["fakirlik", "yoksulluk", "parasızlık", "muhtaçlık"]
+        },
+        {
+          "word": "حرارة",
+          "translation": "sıcaklık",
+          "options": ["sıcaklık", "ısı", "hararet", "yakıcılık"]
+        },
+        {
+          "word": "برودة",
+          "translation": "soğukluk",
+          "options": ["soğukluk", "soğuk", "serin", "üşüme"]
+        },
+        {
+          "word": "رطوبة",
+          "translation": "nem",
+          "options": ["nem", "ıslaklık", "yaşlık", "rutubet"]
+        },
+        {
+          "word": "جفاف",
+          "translation": "kuruluk",
+          "options": ["kuruluk", "kuru olma", "susuzluk", "kurak olma"]
+        },
+        {
+          "word": "نظافة",
+          "translation": "temizlik",
+          "options": ["temizlik", "paklık", "arınmışlık", "lekesizlik"]
+        },
+        {
+          "word": "وساخة",
+          "translation": "kirlilik",
+          "options": ["kirlilik", "pislik", "leke", "pasaklı olma"]
+        },
+        {
+          "word": "انفتاح",
+          "translation": "açıklık",
+          "options": ["açıklık", "açık olma", "aralık olma", "serbest olma"]
+        },
+        {
+          "word": "انغلاق",
+          "translation": "kapalılık",
+          "options": ["kapalılık", "kapalı olma", "örtülü olma", "kilitli olma"]
+        },
+        {
+          "word": "تعب",
+          "translation": "yorgunluk",
+          "options": ["yorgunluk", "bitkinlik", "halsizlik", "tükenmişlik"]
+        },
+        {
+          "word": "نشاط",
+          "translation": "enerji",
+          "options": ["enerji", "canlılık", "hareketlilik", "dinamizm"]
+        },
+        {
+          "word": "هدوء",
+          "translation": "sakinlik",
+          "options": ["sakinlik", "sükunet", "dinginlik", "huzur"]
+        },
+        {
+          "word": "ضجيج",
+          "translation": "gürültü",
+          "options": ["gürültü", "patırtı", "ses", "şamata"]
+        },
+        {
+          "word": "سرعة",
+          "translation": "hız",
+          "options": ["hız", "sürat", "çabukluk", "tempo"]
+        }
+      ],
+      "level16": [
+        {
+          "word": "يدخل",
+          "translation": "giriyor",
+          "options": ["giriyor", "içeri giriyor", "dâhil oluyor", "katılıyor"]
+        },
+        {
+          "word": "يخرج",
+          "translation": "çıkıyor",
+          "options": ["çıkıyor", "dışarı çıkıyor", "ayrılıyor", "terk ediyor"]
+        },
+        {
+          "word": "يصعد",
+          "translation": "çıkıyor",
+          "options": ["çıkıyor", "yükseliyor", "tırmanıyor", "yukarı gidiyor"]
+        },
+        {
+          "word": "ينزل",
+          "translation": "iniyor",
+          "options": ["iniyor", "alçalıyor", "düşüyor", "aşağı gidiyor"]
+        },
+        {
+          "word": "يقع",
+          "translation": "düşüyor",
+          "options": ["düşüyor", "yere düşüyor", "yıkılıyor", "devrilme"]
+        },
+        {
+          "word": "يقف",
+          "translation": "duruyor",
+          "options": ["duruyor", "ayakta duruyor", "bekliyor", "sabit kalıyor"]
+        },
+        {
+          "word": "يجلس",
+          "translation": "oturuyor",
+          "options": ["oturuyor", "mola veriyor", "yerleşiyor", "konaklıyor"]
+        },
+        {
+          "word": "يستلقي",
+          "translation": "uzanıyor",
+          "options": ["uzanıyor", "yatıyor", "dinleniyor", "yaslanıyor"]
+        },
+        {
+          "word": "يعيش",
+          "translation": "yaşıyor",
+          "options": ["yaşıyor", "hayatta", "varlığını sürdürüyor", "ikamet ediyor"]
+        },
+        {
+          "word": "يموت",
+          "translation": "ölüyor",
+          "options": ["ölüyor", "hayatını kaybediyor", "vefat ediyor", "can veriyor"]
+        },
+        {
+          "word": "يولد",
+          "translation": "doğuyor",
+          "options": ["doğuyor", "dünyaya geliyor", "hayata başlıyor", "yaşama merhaba diyor"]
+        },
+        {
+          "word": "ينمو",
+          "translation": "büyüyor",
+          "options": ["büyüyor", "gelişiyor", "yetişkin oluyor", "olgunlaşıyor"]
+        },
+        {
+          "word": "يتزوج",
+          "translation": "evleniyor",
+          "options": ["evleniyor", "nikahlanıyor", "hayatını birleştiriyor", "dünya evine giriyor"]
+        },
+        {
+          "word": "يطبخ",
+          "translation": "pişiriyor",
+          "options": ["pişiriyor", "hazırlıyor", "yemek yapıyor", "mutfakta çalışıyor"]
+        },
+        {
+          "word": "يغسل",
+          "translation": "yıkıyor",
+          "options": ["yıkıyor", "temizliyor", "arındırıyor", "duruluyor"]
+        },
+        {
+          "word": "ينظف",
+          "translation": "temizliyor",
+          "options": ["temizliyor", "arındırıyor", "paklaştırıyor", "parlatıyor"]
+        },
+        {
+          "word": "يرتب",
+          "translation": "düzenliyor",
+          "options": ["düzenliyor", "organize ediyor", "sıralıyor", "tertipliyor"]
+        },
+        {
+          "word": "يلبس",
+          "translation": "giyiyor",
+          "options": ["giyiyor", "kuşanıyor", "üzerine geçiriyor", "giyiniyor"]
+        },
+        {
+          "word": "يخلع",
+          "translation": "çıkarıyor",
+          "options": ["çıkarıyor", "soyunuyor", "üzerinden alıyor", "kıyafetini çıkarıyor"]
+        },
+        {
+          "word": "يعمل",
+          "translation": "çalışıyor",
+          "options": ["çalışıyor", "iş yapıyor", "mesai yapıyor", "uğraşıyor"]
+        },
+        {
+          "word": "بطء",
+          "translation": "yavaşlık",
+          "options": ["yavaşlık", "ağırlık", "temkinlilik", "aheste olma"]
+        },
+        {
+          "word": "قوة",
+          "translation": "güç",
+          "options": ["güç", "kuvvet", "sağlamlık", "dayanıklılık"]
+        },
+        {
+          "word": "ضعف",
+          "translation": "zayıflık",
+          "options": ["zayıflık", "güçsüzlük", "cılızlık", "çelimsizlik"]
+        },
+        {
+          "word": "ذكاء",
+          "translation": "zeka",
+          "options": ["zeka", "akıl", "bilgelik", "uyanıklık"]
+        },
+        {
+          "word": "غباء",
+          "translation": "aptallık",
+          "options": ["aptallık", "salaklık", "ahmaklık", "budalalık"]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "items": [
+    {
+      "original": "واحد",
+      "translated": "Bir",
+      "pronunciation": "/Wahid/"
+    },
+    {
+      "original": "اثنان",
+      "translated": "İki",
+      "pronunciation": "/Ithnan/"
+    },
+    {
+      "original": "ثلاثة",
+      "translated": "Üç",
+      "pronunciation": "/Thalatha/"
+    },
+    {
+      "original": "أربعة",
+      "translated": "Dört",
+      "pronunciation": "/Arba'a/"
+    },
+    {
+      "original": "خمسة",
+      "translated": "Beş",
+      "pronunciation": "/Khamsa/"
+    },
+    {
+      "original": "ستة",
+      "translated": "Altı",
+      "pronunciation": "/Sitta/"
+    },
+    {
+      "original": "سبعة",
+      "translated": "Yedi",
+      "pronunciation": "/Sab'a/"
+    },
+    {
+      "original": "ثمانية",
+      "translated": "Sekiz",
+      "pronunciation": "/Thamaniya/"
+    },
+    {
+      "original": "تسعة",
+      "translated": "Dokuz",
+      "pronunciation": "/Tis'a/"
+    },
+    {
+      "original": "عشرة",
+      "translated": "On",
+      "pronunciation": "/Ashara/"
+    }
+  ]
+}

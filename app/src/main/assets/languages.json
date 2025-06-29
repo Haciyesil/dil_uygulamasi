@@ -1,0 +1,67 @@
+{
+  "languages": [
+    {
+      "id": 1,
+      "name": "Türkmence",
+      "code": "tm",
+      "isUnlocked": true,
+      "flagName": "flag_turkmenistan"
+    },
+    {
+      "id": 2,
+      "name": "Filistince",
+      "code": "ps",
+      "isUnlocked": true,
+      "flagName": "flag_palestine"
+    },
+    {
+      "id": 3,
+      "name": "İngilizce",
+      "code": "en",
+      "isUnlocked": true,
+      "flagName": "flag_english"
+    },
+    {
+      "id": 4,
+      "name": "Almanca",
+      "code": "de",
+      "isUnlocked": true,
+      "flagName": "flag_germany"
+    },
+    {
+      "id": 5,
+      "name": "Fransızca",
+      "code": "fr",
+      "isUnlocked": true,
+      "flagName": "flag_france"
+    },
+    {
+      "id": 6,
+      "name": "İspanyolca",
+      "code": "es",
+      "isUnlocked": true,
+      "flagName": "flag_spain"
+    },
+    {
+      "id": 7,
+      "name": "İtalyanca",
+      "code": "it",
+      "isUnlocked": true,
+      "flagName": "flag_italy"
+    },
+    {
+      "id": 8,
+      "name": "Rusça",
+      "code": "ru",
+      "isUnlocked": true,
+      "flagName": "flag_russia"
+    },
+    {
+      "id": 9,
+      "name": "Japonca",
+      "code": "ja",
+      "isUnlocked": true,
+      "flagName": "flag_japan"
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "items": [
+    {
+      "original": "الصيف",
+      "translated": "Yaz",
+      "pronunciation": "/Al-Sayf/",
+      "months": "حزيران، تموز، آب (Haziran, Temmuz, Ağustos)",
+      "imageUrl": "https://example.com/images/summer.jpg"
+    },
+    {
+      "original": "الخريف",
+      "translated": "Sonbahar",
+      "pronunciation": "/Al-Khareef/",
+      "months": "أيلول، تشرين الأول، تشرين الثاني (Eylül, Ekim, Kasım)",
+      "imageUrl": "https://example.com/images/autumn.jpg"
+    },
+    {
+      "original": "الشتاء",
+      "translated": "Kış",
+      "pronunciation": "/Al-Shita/",
+      "months": "كانون الأول، كانون الثاني، شباط (Aralık, Ocak, Şubat)",
+      "imageUrl": "https://example.com/images/winter.jpg"
+    },
+    {
+      "original": "الربيع",
+      "translated": "İlkbahar",
+      "pronunciation": "/Al-Rabee/",
+      "months": "آذار، نيسان، أيار (Mart, Nisan, Mayıs)",
+      "imageUrl": "https://example.com/images/spring.jpg"
+    }
+  ]
+}

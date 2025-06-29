@@ -1,0 +1,2527 @@
+{
+  "level1": [
+    {
+      "word": "私",
+      "translation": "ben",
+      "options": ["sen", "ben", "o", "biz"]
+    },
+    {
+      "word": "あなた",
+      "translation": "sen",
+      "options": ["ben", "o", "sen", "onlar"]
+    },
+    {
+      "word": "彼",
+      "translation": "o (erkek)",
+      "options": ["ben", "sen", "o (kadın)", "o (erkek)"]
+    },
+    {
+      "word": "彼女",
+      "translation": "o (kadın)",
+      "options": ["o (kadın)", "o (erkek)", "ben", "onlar"]
+    },
+    {
+      "word": "私たち",
+      "translation": "biz",
+      "options": ["siz", "ben", "biz", "onlar"]
+    },
+    {
+      "word": "あなたたち",
+      "translation": "siz",
+      "options": ["biz", "siz", "onlar", "sen"]
+    },
+    {
+      "word": "彼ら",
+      "translation": "onlar",
+      "options": ["biz", "onlar", "siz", "sen"]
+    },
+    {
+      "word": "です",
+      "translation": "olmak",
+      "options": ["yapmak", "gitmek", "olmak", "gelmek"]
+    },
+    {
+      "word": "ある",
+      "translation": "bulunmak",
+      "options": ["olmak", "bulunmak", "yapmak", "vermek"]
+    },
+    {
+      "word": "持つ",
+      "translation": "sahip olmak",
+      "options": ["olmak", "sahip olmak", "yapmak", "vermek"]
+    },
+    {
+      "word": "する",
+      "translation": "yapmak",
+      "options": ["olmak", "gitmek", "almak", "yapmak"]
+    },
+    {
+      "word": "行く",
+      "translation": "gitmek",
+      "options": ["gelmek", "yapmak", "gitmek", "olmak"]
+    },
+    {
+      "word": "来る",
+      "translation": "gelmek",
+      "options": ["gitmek", "yapmak", "vermek", "gelmek"]
+    },
+    {
+      "word": "言う",
+      "translation": "söylemek",
+      "options": ["yapmak", "söylemek", "görmek", "duymak"]
+    },
+    {
+      "word": "見る",
+      "translation": "görmek",
+      "options": ["duymak", "söylemek", "görmek", "bilmek"]
+    },
+    {
+      "word": "知る",
+      "translation": "bilmek",
+      "options": ["görmek", "duymak", "söylemek", "bilmek"]
+    },
+    {
+      "word": "できる",
+      "translation": "yapabilmek",
+      "options": ["bilmek", "yapabilmek", "görmek", "söylemek"]
+    },
+    {
+      "word": "欲しい",
+      "translation": "istemek",
+      "options": ["yapabilmek", "bilmek", "istemek", "görmek"]
+    },
+    {
+      "word": "必要",
+      "translation": "zorunda olmak",
+      "options": ["istemek", "yapabilmek", "bilmek", "zorunda olmak"]
+    },
+    {
+      "word": "取る",
+      "translation": "almak",
+      "options": ["vermek", "almak", "yapmak", "görmek"]
+    },
+    {
+      "word": "与える",
+      "translation": "vermek",
+      "options": ["almak", "yapmak", "gelmek", "vermek"]
+    },
+    {
+      "word": "置く",
+      "translation": "koymak",
+      "options": ["koymak", "almak", "vermek", "yapmak"]
+    },
+    {
+      "word": "通る",
+      "translation": "geçmek",
+      "options": ["gelmek", "gitmek", "geçmek", "kalmak"]
+    },
+    {
+      "word": "出る",
+      "translation": "çıkmak",
+      "options": ["gelmek", "kalmak", "çıkmak", "geçmek"]
+    },
+    {
+      "word": "残る",
+      "translation": "kalmak",
+      "options": ["gitmek", "gelmek", "ayrılmak", "kalmak"]
+    }
+  ],
+  "level2": [
+    {
+      "word": "一",
+      "translation": "bir",
+      "options": ["iki", "üç", "bir", "dört"]
+    },
+    {
+      "word": "二",
+      "translation": "iki",
+      "options": ["bir", "üç", "iki", "dört"]
+    },
+    {
+      "word": "三",
+      "translation": "üç",
+      "options": ["iki", "üç", "dört", "beş"]
+    },
+    {
+      "word": "四",
+      "translation": "dört",
+      "options": ["üç", "beş", "altı", "dört"]
+    },
+    {
+      "word": "五",
+      "translation": "beş",
+      "options": ["dört", "altı", "beş", "yedi"]
+    },
+    {
+      "word": "六",
+      "translation": "altı",
+      "options": ["beş", "yedi", "sekiz", "altı"]
+    },
+    {
+      "word": "七",
+      "translation": "yedi",
+      "options": ["altı", "yedi", "sekiz", "dokuz"]
+    },
+    {
+      "word": "八",
+      "translation": "sekiz",
+      "options": ["yedi", "dokuz", "on", "sekiz"]
+    },
+    {
+      "word": "九",
+      "translation": "dokuz",
+      "options": ["sekiz", "on", "yedi", "dokuz"]
+    },
+    {
+      "word": "十",
+      "translation": "on",
+      "options": ["dokuz", "sekiz", "on", "yedi"]
+    },
+    {
+      "word": "二十",
+      "translation": "yirmi",
+      "options": ["on", "yirmi", "otuz", "kırk"]
+    },
+    {
+      "word": "三十",
+      "translation": "otuz",
+      "options": ["yirmi", "kırk", "elli", "otuz"]
+    },
+    {
+      "word": "百",
+      "translation": "yüz",
+      "options": ["bin", "on", "yüz", "elli"]
+    },
+    {
+      "word": "千",
+      "translation": "bin",
+      "options": ["yüz", "bin", "on bin", "milyon"]
+    },
+    {
+      "word": "最初",
+      "translation": "birinci",
+      "options": ["ikinci", "birinci", "üçüncü", "sonuncu"]
+    },
+    {
+      "word": "最後",
+      "translation": "sonuncu",
+      "options": ["birinci", "ikinci", "sonuncu", "üçüncü"]
+    },
+    {
+      "word": "時間",
+      "translation": "zaman",
+      "options": ["saat", "gün", "zaman", "yıl"]
+    },
+    {
+      "word": "日",
+      "translation": "gün",
+      "options": ["gece", "saat", "gün", "hafta"]
+    },
+    {
+      "word": "夜",
+      "translation": "gece",
+      "options": ["gün", "sabah", "gece", "akşam"]
+    },
+    {
+      "word": "朝",
+      "translation": "sabah",
+      "options": ["akşam", "öğle", "gece", "sabah"]
+    },
+    {
+      "word": "夕方",
+      "translation": "akşam",
+      "options": ["sabah", "öğle", "akşam", "gece"]
+    },
+    {
+      "word": "時",
+      "translation": "saat",
+      "options": ["dakika", "saat", "saniye", "zaman"]
+    },
+    {
+      "word": "年",
+      "translation": "yıl",
+      "options": ["ay", "hafta", "gün", "yıl"]
+    },
+    {
+      "word": "月",
+      "translation": "ay",
+      "options": ["yıl", "ay", "hafta", "gün"]
+    },
+    {
+      "word": "週",
+      "translation": "hafta",
+      "options": ["ay", "yıl", "hafta", "gün"]
+    }
+  ],
+  "level3": [
+    {
+      "word": "月曜日",
+      "translation": "pazartesi",
+      "options": ["salı", "çarşamba", "pazartesi", "perşembe"]
+    },
+    {
+      "word": "火曜日",
+      "translation": "salı",
+      "options": ["pazartesi", "çarşamba", "cuma", "salı"]
+    },
+    {
+      "word": "水曜日",
+      "translation": "çarşamba",
+      "options": ["salı", "çarşamba", "perşembe", "cumartesi"]
+    },
+    {
+      "word": "木曜日",
+      "translation": "perşembe",
+      "options": ["çarşamba", "cuma", "pazar", "perşembe"]
+    },
+    {
+      "word": "金曜日",
+      "translation": "cuma",
+      "options": ["perşembe", "cumartesi", "cuma", "pazartesi"]
+    },
+    {
+      "word": "土曜日",
+      "translation": "cumartesi",
+      "options": ["cuma", "pazar", "cumartesi", "salı"]
+    },
+    {
+      "word": "日曜日",
+      "translation": "pazar",
+      "options": ["cumartesi", "pazartesi", "çarşamba", "pazar"]
+    },
+    {
+      "word": "一月",
+      "translation": "ocak",
+      "options": ["şubat", "mart", "ocak", "nisan"]
+    },
+    {
+      "word": "二月",
+      "translation": "şubat",
+      "options": ["ocak", "şubat", "mart", "mayıs"]
+    },
+    {
+      "word": "三月",
+      "translation": "mart",
+      "options": ["şubat", "nisan", "mart", "haziran"]
+    },
+    {
+      "word": "四月",
+      "translation": "nisan",
+      "options": ["mart", "mayıs", "temmuz", "nisan"]
+    },
+    {
+      "word": "五月",
+      "translation": "mayıs",
+      "options": ["nisan", "haziran", "mayıs", "ağustos"]
+    },
+    {
+      "word": "六月",
+      "translation": "haziran",
+      "options": ["mayıs", "temmuz", "eylül", "haziran"]
+    },
+    {
+      "word": "七月",
+      "translation": "temmuz",
+      "options": ["haziran", "ağustos", "temmuz", "ekim"]
+    },
+    {
+      "word": "八月",
+      "translation": "ağustos",
+      "options": ["temmuz", "eylül", "kasım", "ağustos"]
+    },
+    {
+      "word": "九月",
+      "translation": "eylül",
+      "options": ["ağustos", "ekim", "eylül", "aralık"]
+    },
+    {
+      "word": "十月",
+      "translation": "ekim",
+      "options": ["eylül", "kasım", "ocak", "ekim"]
+    },
+    {
+      "word": "十一月",
+      "translation": "kasım",
+      "options": ["ekim", "aralık", "kasım", "şubat"]
+    },
+    {
+      "word": "十二月",
+      "translation": "aralık",
+      "options": ["kasım", "ocak", "mart", "aralık"]
+    },
+    {
+      "word": "春",
+      "translation": "ilkbahar",
+      "options": ["yaz", "sonbahar", "ilkbahar", "kış"]
+    },
+    {
+      "word": "夏",
+      "translation": "yaz",
+      "options": ["ilkbahar", "yaz", "sonbahar", "kış"]
+    },
+    {
+      "word": "秋",
+      "translation": "sonbahar",
+      "options": ["yaz", "kış", "sonbahar", "ilkbahar"]
+    },
+    {
+      "word": "冬",
+      "translation": "kış",
+      "options": ["sonbahar", "ilkbahar", "yaz", "kış"]
+    },
+    {
+      "word": "今日",
+      "translation": "bugün",
+      "options": ["dün", "yarın", "şimdi", "bugün"]
+    },
+    {
+      "word": "昨日",
+      "translation": "dün",
+      "options": ["bugün", "dün", "yarın", "geçen hafta"]
+    }
+  ],
+  "level4": [
+    {
+      "word": "明日",
+      "translation": "yarın",
+      "options": ["bugün", "dün", "yarın", "gelecek hafta"]
+    },
+    {
+      "word": "今",
+      "translation": "şimdi",
+      "options": ["sonra", "önce", "şimdi", "daha sonra"]
+    },
+    {
+      "word": "もうすぐ",
+      "translation": "yakında",
+      "options": ["şimdi", "geç", "erken", "yakında"]
+    },
+    {
+      "word": "早い",
+      "translation": "erken",
+      "options": ["geç", "şimdi", "erken", "sonra"]
+    },
+    {
+      "word": "遅い",
+      "translation": "geç",
+      "options": ["erken", "şimdi", "yakında", "geç"]
+    },
+    {
+      "word": "太陽",
+      "translation": "güneş",
+      "options": ["ay", "yıldız", "güneş", "gökyüzü"]
+    },
+    {
+      "word": "月",
+      "translation": "ay",
+      "options": ["güneş", "yıldız", "bulut", "ay"]
+    },
+    {
+      "word": "星",
+      "translation": "yıldız",
+      "options": ["güneş", "ay", "yıldız", "gökyüzü"]
+    },
+    {
+      "word": "空",
+      "translation": "gökyüzü",
+      "options": ["güneş", "bulut", "gökyüzü", "yağmur"]
+    },
+    {
+      "word": "雲",
+      "translation": "bulut",
+      "options": ["gökyüzü", "yağmur", "kar", "bulut"]
+    },
+    {
+      "word": "雨",
+      "translation": "yağmur",
+      "options": ["kar", "güneş", "yağmur", "bulut"]
+    },
+    {
+      "word": "雪",
+      "translation": "kar",
+      "options": ["yağmur", "güneş", "rüzgar", "kar"]
+    },
+    {
+      "word": "風",
+      "translation": "rüzgar",
+      "options": ["kar", "yağmur", "rüzgar", "güneş"]
+    },
+    {
+      "word": "暑い",
+      "translation": "sıcak",
+      "options": ["soğuk", "ılık", "sıcak", "serin"]
+    },
+    {
+      "word": "寒い",
+      "translation": "soğuk",
+      "options": ["sıcak", "ılık", "serin", "soğuk"]
+    },
+    {
+      "word": "赤",
+      "translation": "kırmızı",
+      "options": ["mavi", "yeşil", "kırmızı", "sarı"]
+    },
+    {
+      "word": "青",
+      "translation": "mavi",
+      "options": ["kırmızı", "yeşil", "siyah", "mavi"]
+    },
+    {
+      "word": "緑",
+      "translation": "yeşil",
+      "options": ["mavi", "sarı", "yeşil", "beyaz"]
+    },
+    {
+      "word": "黄色",
+      "translation": "sarı",
+      "options": ["yeşil", "kırmızı", "mor", "sarı"]
+    },
+    {
+      "word": "白",
+      "translation": "beyaz",
+      "options": ["siyah", "gri", "beyaz", "mavi"]
+    },
+    {
+      "word": "黒",
+      "translation": "siyah",
+      "options": ["beyaz", "gri", "siyah", "kahverengi"]
+    },
+    {
+      "word": "灰色",
+      "translation": "gri",
+      "options": ["siyah", "beyaz", "gri", "mavi"]
+    },
+    {
+      "word": "茶色",
+      "translation": "kahverengi",
+      "options": ["siyah", "gri", "yeşil", "kahverengi"]
+    },
+    {
+      "word": "ピンク",
+      "translation": "pembe",
+      "options": ["kırmızı", "pembe", "mor", "beyaz"]
+    },
+    {
+      "word": "紫",
+      "translation": "mor",
+      "options": ["pembe", "mavi", "mor", "kırmızı"]
+    }
+  ],
+  "level5": [
+    {
+      "word": "家族",
+      "translation": "aile",
+      "options": ["arkadaş", "komşu", "aile", "misafir"]
+    },
+    {
+      "word": "父",
+      "translation": "baba",
+      "options": ["anne", "kardeş", "baba", "dede"]
+    },
+    {
+      "word": "母",
+      "translation": "anne",
+      "options": ["baba", "teyze", "nine", "anne"]
+    },
+    {
+      "word": "両親",
+      "translation": "ebeveynler",
+      "options": ["kardeşler", "çocuklar", "ebeveynler", "akrabalar"]
+    },
+    {
+      "word": "息子",
+      "translation": "oğul",
+      "options": ["kız", "oğul", "kardeş", "kuzen"]
+    },
+    {
+      "word": "娘",
+      "translation": "kız",
+      "options": ["oğul", "anne", "kız", "kardeş"]
+    },
+    {
+      "word": "子供",
+      "translation": "çocuk",
+      "options": ["yetişkin", "bebek", "genç", "çocuk"]
+    },
+    {
+      "word": "赤ちゃん",
+      "translation": "bebek",
+      "options": ["çocuk", "yetişkin", "bebek", "genç"]
+    },
+    {
+      "word": "兄弟",
+      "translation": "erkek kardeş",
+      "options": ["kız kardeş", "kuzen", "erkek kardeş", "amca"]
+    },
+    {
+      "word": "姉妹",
+      "translation": "kız kardeş",
+      "options": ["erkek kardeş", "teyze", "kuzen", "kız kardeş"]
+    },
+    {
+      "word": "夫",
+      "translation": "koca",
+      "options": ["eş", "koca", "erkek arkadaş", "nişanlı"]
+    },
+    {
+      "word": "妻",
+      "translation": "eş (kadın)",
+      "options": ["koca", "kız arkadaş", "eş (kadın)", "nişanlı"]
+    },
+    {
+      "word": "祖父",
+      "translation": "büyükbaba",
+      "options": ["büyükanne", "amca", "büyükbaba", "dayı"]
+    },
+    {
+      "word": "祖母",
+      "translation": "büyükanne",
+      "options": ["büyükbaba", "teyze", "hala", "büyükanne"]
+    },
+    {
+      "word": "おじ",
+      "translation": "amca",
+      "options": ["dayı", "teyze", "amca", "hala"]
+    },
+    {
+      "word": "おば",
+      "translation": "teyze",
+      "options": ["hala", "amca", "dayı", "teyze"]
+    },
+    {
+      "word": "いとこ",
+      "translation": "kuzen",
+      "options": ["kardeş", "arkadaş", "kuzen", "komşu"]
+    },
+    {
+      "word": "友達",
+      "translation": "arkadaş",
+      "options": ["düşman", "komşu", "yabancı", "arkadaş"]
+    },
+    {
+      "word": "人",
+      "translation": "kişi",
+      "options": ["hayvan", "kişi", "nesne", "bitki"]
+    },
+    {
+      "word": "男",
+      "translation": "adam",
+      "options": ["kadın", "çocuk", "adam", "yaşlı"]
+    },
+    {
+      "word": "女",
+      "translation": "kadın",
+      "options": ["adam", "kız", "yaşlı", "kadın"]
+    },
+    {
+      "word": "男の子",
+      "translation": "erkek çocuk",
+      "options": ["kız çocuk", "adam", "erkek çocuk", "yaşlı"]
+    },
+    {
+      "word": "女の子",
+      "translation": "kız çocuk",
+      "options": ["erkek çocuk", "kadın", "kız çocuk", "yaşlı"]
+    },
+    {
+      "word": "名前",
+      "translation": "isim",
+      "options": ["soyisim", "lakap", "isim", "unvan"]
+    },
+    {
+      "word": "年齢",
+      "translation": "yaş",
+      "options": ["boy", "kilo", "yaş", "isim"]
+    }
+  ],
+  "level6": [
+    {
+      "word": "家",
+      "translation": "ev",
+      "options": ["okul", "hastane", "ev", "market"]
+    },
+    {
+      "word": "部屋",
+      "translation": "oda",
+      "options": ["salon", "mutfak", "banyo", "oda"]
+    },
+    {
+      "word": "台所",
+      "translation": "mutfak",
+      "options": ["salon", "yatak odası", "mutfak", "banyo"]
+    },
+    {
+      "word": "居間",
+      "translation": "salon",
+      "options": ["mutfak", "yatak odası", "salon", "banyo"]
+    },
+    {
+      "word": "風呂",
+      "translation": "banyo",
+      "options": ["mutfak", "salon", "yatak odası", "banyo"]
+    },
+    {
+      "word": "庭",
+      "translation": "bahçe",
+      "options": ["park", "orman", "bahçe", "tarla"]
+    },
+    {
+      "word": "ドア",
+      "translation": "kapı",
+      "options": ["pencere", "duvar", "kapı", "çatı"]
+    },
+    {
+      "word": "窓",
+      "translation": "pencere",
+      "options": ["kapı", "duvar", "çatı", "pencere"]
+    },
+    {
+      "word": "壁",
+      "translation": "duvar",
+      "options": ["kapı", "pencere", "duvar", "çatı"]
+    },
+    {
+      "word": "屋根",
+      "translation": "çatı",
+      "options": ["duvar", "kapı", "çatı", "pencere"]
+    },
+    {
+      "word": "テーブル",
+      "translation": "masa",
+      "options": ["sandalye", "yatak", "masa", "dolap"]
+    },
+    {
+      "word": "椅子",
+      "translation": "sandalye",
+      "options": ["masa", "yatak", "sandalye", "dolap"]
+    },
+    {
+      "word": "ベッド",
+      "translation": "yatak",
+      "options": ["sandalye", "masa", "dolap", "yatak"]
+    },
+    {
+      "word": "クローゼット",
+      "translation": "dolap",
+      "options": ["yatak", "masa", "dolap", "sandalye"]
+    },
+    {
+      "word": "鏡",
+      "translation": "ayna",
+      "options": ["resim", "lamba", "ayna", "saat"]
+    },
+    {
+      "word": "絵",
+      "translation": "resim",
+      "options": ["ayna", "lamba", "resim", "saat"]
+    },
+    {
+      "word": "ランプ",
+      "translation": "lamba",
+      "options": ["resim", "ayna", "saat", "lamba"]
+    },
+    {
+      "word": "時計",
+      "translation": "saat",
+      "options": ["lamba", "resim", "saat", "ayna"]
+    },
+    {
+      "word": "テレビ",
+      "translation": "televizyon",
+      "options": ["radyo", "bilgisayar", "televizyon", "telefon"]
+    },
+    {
+      "word": "コンピューター",
+      "translation": "bilgisayar",
+      "options": ["televizyon", "radyo", "telefon", "bilgisayar"]
+    },
+    {
+      "word": "電話",
+      "translation": "telefon",
+      "options": ["bilgisayar", "televizyon", "telefon", "radyo"]
+    },
+    {
+      "word": "本",
+      "translation": "kitap",
+      "options": ["gazete", "dergi", "kitap", "mektup"]
+    },
+    {
+      "word": "新聞",
+      "translation": "gazete",
+      "options": ["kitap", "dergi", "gazete", "mektup"]
+    },
+    {
+      "word": "手紙",
+      "translation": "mektup",
+      "options": ["gazete", "kitap", "mektup", "dergi"]
+    },
+    {
+      "word": "鍵",
+      "translation": "anahtar",
+      "options": ["kilit", "kapı", "anahtar", "pencere"]
+    }
+  ],
+  "level7": [
+    {
+      "word": "食べ物",
+      "translation": "yiyecek",
+      "options": ["içecek", "su", "yiyecek", "ekmek"]
+    },
+    {
+      "word": "水",
+      "translation": "su",
+      "options": ["süt", "çay", "su", "kahve"]
+    },
+    {
+      "word": "パン",
+      "translation": "ekmek",
+      "options": ["peynir", "et", "ekmek", "balık"]
+    },
+    {
+      "word": "牛乳",
+      "translation": "süt",
+      "options": ["su", "çay", "süt", "kahve"]
+    },
+    {
+      "word": "コーヒー",
+      "translation": "kahve",
+      "options": ["çay", "süt", "kahve", "su"]
+    },
+    {
+      "word": "お茶",
+      "translation": "çay",
+      "options": ["kahve", "süt", "su", "çay"]
+    },
+    {
+      "word": "肉",
+      "translation": "et",
+      "options": ["balık", "tavuk", "et", "peynir"]
+    },
+    {
+      "word": "魚",
+      "translation": "balık",
+      "options": ["et", "tavuk", "balık", "peynir"]
+    },
+    {
+      "word": "鶏肉",
+      "translation": "tavuk",
+      "options": ["balık", "et", "peynir", "tavuk"]
+    },
+    {
+      "word": "チーズ",
+      "translation": "peynir",
+      "options": ["tavuk", "et", "peynir", "balık"]
+    },
+    {
+      "word": "卵",
+      "translation": "yumurta",
+      "options": ["peynir", "tereyağı", "yumurta", "yogurt"]
+    },
+    {
+      "word": "バター",
+      "translation": "tereyağı",
+      "options": ["yumurta", "peynir", "tereyağı", "yogurt"]
+    },
+    {
+      "word": "砂糖",
+      "translation": "şeker",
+      "options": ["tuz", "baharat", "şeker", "sirke"]
+    },
+    {
+      "word": "塩",
+      "translation": "tuz",
+      "options": ["şeker", "baharat", "tuz", "sirke"]
+    },
+    {
+      "word": "米",
+      "translation": "pirinç",
+      "options": ["makarna", "patates", "pirinç", "soğan"]
+    },
+    {
+      "word": "じゃがいも",
+      "translation": "patates",
+      "options": ["pirinç", "makarna", "patates", "soğan"]
+    },
+    {
+      "word": "玉ねぎ",
+      "translation": "soğan",
+      "options": ["patates", "pirinç", "soğan", "makarna"]
+    },
+    {
+      "word": "トマト",
+      "translation": "domates",
+      "options": ["soğan", "havuç", "domates", "salatalık"]
+    },
+    {
+      "word": "人参",
+      "translation": "havuç",
+      "options": ["domates", "soğan", "havuç", "salatalık"]
+    },
+    {
+      "word": "サラダ",
+      "translation": "salata",
+      "options": ["havuç", "domates", "salatalık", "salata"]
+    },
+    {
+      "word": "りんご",
+      "translation": "elma",
+      "options": ["armut", "muz", "elma", "üzüm"]
+    },
+    {
+      "word": "バナナ",
+      "translation": "muz",
+      "options": ["elma", "armut", "muz", "üzüm"]
+    },
+    {
+      "word": "オレンジ",
+      "translation": "portakal",
+      "options": ["muz", "elma", "üzüm", "portakal"]
+    },
+    {
+      "word": "ぶどう",
+      "translation": "üzüm",
+      "options": ["portakal", "elma", "üzüm", "muz"]
+    },
+    {
+      "word": "レストラン",
+      "translation": "restoran",
+      "options": ["kafe", "bar", "restoran", "otel"]
+    }
+  ],
+  "level8": [
+    {
+      "word": "服",
+      "translation": "kıyafet",
+      "options": ["ayakkabı", "şapka", "kıyafet", "çanta"]
+    },
+    {
+      "word": "シャツ",
+      "translation": "gömlek",
+      "options": ["pantolon", "etek", "gömlek", "ceket"]
+    },
+    {
+      "word": "ズボン",
+      "translation": "pantolon",
+      "options": ["gömlek", "etek", "pantolon", "ceket"]
+    },
+    {
+      "word": "ドレス",
+      "translation": "elbise",
+      "options": ["pantolon", "gömlek", "ceket", "elbise"]
+    },
+    {
+      "word": "スカート",
+      "translation": "etek",
+      "options": ["elbise", "pantolon", "etek", "gömlek"]
+    },
+    {
+      "word": "ジャケット",
+      "translation": "ceket",
+      "options": ["etek", "gömlek", "ceket", "pantolon"]
+    },
+    {
+      "word": "コート",
+      "translation": "palto",
+      "options": ["ceket", "şapka", "palto", "eldiven"]
+    },
+    {
+      "word": "帽子",
+      "translation": "şapka",
+      "options": ["palto", "eldiven", "şapka", "ayakkabı"]
+    },
+    {
+      "word": "靴",
+      "translation": "ayakkabı",
+      "options": ["şapka", "çorap", "ayakkabı", "eldiven"]
+    },
+    {
+      "word": "靴下",
+      "translation": "çorap",
+      "options": ["ayakkabı", "şapka", "çorap", "eldiven"]
+    },
+    {
+      "word": "手袋",
+      "translation": "eldiven",
+      "options": ["çorap", "şapka", "eldiven", "ayakkabı"]
+    },
+    {
+      "word": "体",
+      "translation": "vücut",
+      "options": ["baş", "el", "vücut", "ayak"]
+    },
+    {
+      "word": "頭",
+      "translation": "baş",
+      "options": ["vücut", "el", "baş", "ayak"]
+    },
+    {
+      "word": "顔",
+      "translation": "yüz",
+      "options": ["baş", "göz", "yüz", "kulak"]
+    },
+    {
+      "word": "目",
+      "translation": "göz",
+      "options": ["yüz", "kulak", "göz", "burun"]
+    },
+    {
+      "word": "耳",
+      "translation": "kulak",
+      "options": ["göz", "burun", "ağız", "kulak"]
+    },
+    {
+      "word": "鼻",
+      "translation": "burun",
+      "options": ["kulak", "göz", "burun", "ağız"]
+    },
+    {
+      "word": "口",
+      "translation": "ağız",
+      "options": ["burun", "kulak", "ağız", "göz"]
+    },
+    {
+      "word": "歯",
+      "translation": "diş",
+      "options": ["ağız", "dil", "diş", "dudak"]
+    },
+    {
+      "word": "髪",
+      "translation": "saç",
+      "options": ["diş", "dil", "saç", "dudak"]
+    },
+    {
+      "word": "手",
+      "translation": "el",
+      "options": ["saç", "kol", "el", "parmak"]
+    },
+    {
+      "word": "腕",
+      "translation": "kol",
+      "options": ["el", "parmak", "kol", "bacak"]
+    },
+    {
+      "word": "指",
+      "translation": "parmak",
+      "options": ["kol", "el", "parmak", "bacak"]
+    },
+    {
+      "word": "足",
+      "translation": "bacak",
+      "options": ["parmak", "el", "bacak", "ayak"]
+    },
+    {
+      "word": "足",
+      "translation": "ayak",
+      "options": ["bacak", "parmak", "ayak", "kol"]
+    }
+  ],
+  "level9": [
+    {
+      "word": "心臓",
+      "translation": "kalp",
+      "options": ["akciğer", "karaciğer", "kalp", "böbrek"]
+    },
+    {
+      "word": "血",
+      "translation": "kan",
+      "options": ["kalp", "nefes", "kan", "kemik"]
+    },
+    {
+      "word": "骨",
+      "translation": "kemik",
+      "options": ["kan", "kalp", "kemik", "deri"]
+    },
+    {
+      "word": "皮膚",
+      "translation": "deri",
+      "options": ["kemik", "kan", "deri", "kas"]
+    },
+    {
+      "word": "健康",
+      "translation": "sağlık",
+      "options": ["hastalık", "doktor", "sağlık", "hastane"]
+    },
+    {
+      "word": "病気",
+      "translation": "hastalık",
+      "options": ["sağlık", "doktor", "hastalık", "ilaç"]
+    },
+    {
+      "word": "医者",
+      "translation": "doktor",
+      "options": ["hemşire", "hasta", "doktor", "ilaç"]
+    },
+    {
+      "word": "病院",
+      "translation": "hastane",
+      "options": ["doktor", "eczane", "hastane", "klinik"]
+    },
+    {
+      "word": "薬",
+      "translation": "ilaç",
+      "options": ["hastane", "doktor", "ilaç", "hasta"]
+    },
+    {
+      "word": "スポーツ",
+      "translation": "spor",
+      "options": ["oyun", "müzik", "spor", "film"]
+    },
+    {
+      "word": "サッカー",
+      "translation": "futbol",
+      "options": ["basketbol", "voleybol", "futbol", "tenis"]
+    },
+    {
+      "word": "バスケットボール",
+      "translation": "basketbol",
+      "options": ["futbol", "voleybol", "basketbol", "tenis"]
+    },
+    {
+      "word": "テニス",
+      "translation": "tenis",
+      "options": ["basketbol", "futbol", "tenis", "voleybol"]
+    },
+    {
+      "word": "水泳",
+      "translation": "yüzme",
+      "options": ["koşma", "yürüme", "yüzme", "bisiklet"]
+    },
+    {
+      "word": "走る",
+      "translation": "koşma",
+      "options": ["yüzme", "yürüme", "koşma", "bisiklet"]
+    },
+    {
+      "word": "歩く",
+      "translation": "yürüme",
+      "options": ["koşma", "yüzme", "yürüme", "bisiklet"]
+    },
+    {
+      "word": "踊り",
+      "translation": "dans",
+      "options": ["müzik", "şarkı", "dans", "oyun"]
+    },
+    {
+      "word": "音楽",
+      "translation": "müzik",
+      "options": ["dans", "şarkı", "müzik", "oyun"]
+    },
+    {
+      "word": "歌",
+      "translation": "şarkı",
+      "options": ["müzik", "dans", "şarkı", "oyun"]
+    },
+    {
+      "word": "ゲーム",
+      "translation": "oyun",
+      "options": ["şarkı", "müzik", "oyun", "dans"]
+    },
+    {
+      "word": "勝つ",
+      "translation": "kazanmak",
+      "options": ["kaybetmek", "oynamak", "kazanmak", "yarışmak"]
+    },
+    {
+      "word": "負ける",
+      "translation": "kaybetmek",
+      "options": ["kazanmak", "oynamak", "kaybetmek", "yarışmak"]
+    },
+    {
+      "word": "旅行",
+      "translation": "seyahat",
+      "options": ["tatil", "iş", "seyahat", "okul"]
+    },
+    {
+      "word": "休暇",
+      "translation": "tatil",
+      "options": ["seyahat", "iş", "tatil", "okul"]
+    },
+    {
+      "word": "仕事",
+      "translation": "iş",
+      "options": ["tatil", "seyahat", "iş", "okul"]
+    }
+  ],
+  "level10": [
+    {
+      "word": "都市",
+      "translation": "şehir",
+      "options": ["köy", "ülke", "şehir", "bölge"]
+    },
+    {
+      "word": "国",
+      "translation": "ülke",
+      "options": ["şehir", "köy", "ülke", "bölge"]
+    },
+    {
+      "word": "村",
+      "translation": "köy",
+      "options": ["ülke", "şehir", "köy", "bölge"]
+    },
+    {
+      "word": "道",
+      "translation": "sokak",
+      "options": ["cadde", "yol", "sokak", "meydan"]
+    },
+    {
+      "word": "道路",
+      "translation": "yol",
+      "options": ["sokak", "cadde", "yol", "meydan"]
+    },
+    {
+      "word": "大通り",
+      "translation": "cadde",
+      "options": ["yol", "sokak", "cadde", "meydan"]
+    },
+    {
+      "word": "広場",
+      "translation": "meydan",
+      "options": ["cadde", "sokak", "meydan", "yol"]
+    },
+    {
+      "word": "橋",
+      "translation": "köprü",
+      "options": ["tünel", "bina", "köprü", "park"]
+    },
+    {
+      "word": "公園",
+      "translation": "park",
+      "options": ["köprü", "bina", "park", "bahçe"]
+    },
+    {
+      "word": "建物",
+      "translation": "bina",
+      "options": ["park", "köprü", "bina", "ev"]
+    },
+    {
+      "word": "学校",
+      "translation": "okul",
+      "options": ["hastane", "müze", "okul", "kütüphane"]
+    },
+    {
+      "word": "大学",
+      "translation": "üniversite",
+      "options": ["okul", "hastane", "üniversite", "müze"]
+    },
+    {
+      "word": "図書館",
+      "translation": "kütüphane",
+      "options": ["üniversite", "okul", "kütüphane", "müze"]
+    },
+    {
+      "word": "博物館",
+      "translation": "müze",
+      "options": ["kütüphane", "üniversite", "müze", "tiyatro"]
+    },
+    {
+      "word": "劇場",
+      "translation": "tiyatro",
+      "options": ["müze", "sinema", "tiyatro", "konser"]
+    },
+    {
+      "word": "映画館",
+      "translation": "sinema",
+      "options": ["tiyatro", "müze", "sinema", "konser"]
+    },
+    {
+      "word": "店",
+      "translation": "mağaza",
+      "options": ["market", "eczane", "mağaza", "bank"]
+    },
+    {
+      "word": "市場",
+      "translation": "pazar",
+      "options": ["mağaza", "market", "pazar", "eczane"]
+    },
+    {
+      "word": "銀行",
+      "translation": "banka",
+      "options": ["pazar", "mağaza", "banka", "postane"]
+    },
+    {
+      "word": "郵便局",
+      "translation": "postane",
+      "options": ["banka", "pazar", "postane", "eczane"]
+    },
+    {
+      "word": "薬局",
+      "translation": "eczane",
+      "options": ["postane", "banka", "eczane", "market"]
+    },
+    {
+      "word": "車",
+      "translation": "araba",
+      "options": ["otobüs", "tren", "araba", "uçak"]
+    },
+    {
+      "word": "バス",
+      "translation": "otobüs",
+      "options": ["araba", "tren", "otobüs", "uçak"]
+    },
+    {
+      "word": "電車",
+      "translation": "tren",
+      "options": ["otobüs", "araba", "tren", "uçak"]
+    },
+    {
+      "word": "飛行機",
+      "translation": "uçak",
+      "options": ["tren", "araba", "uçak", "gemi"]
+    }
+  ],
+  "level11": [
+    {
+      "word": "船",
+      "translation": "gemi",
+      "options": ["uçak", "tren", "gemi", "bisiklet"]
+    },
+    {
+      "word": "自転車",
+      "translation": "bisiklet",
+      "options": ["gemi", "uçak", "bisiklet", "motosiklet"]
+    },
+    {
+      "word": "バイク",
+      "translation": "motosiklet",
+      "options": ["bisiklet", "gemi", "motosiklet", "araba"]
+    },
+    {
+      "word": "学生",
+      "translation": "öğrenci",
+      "options": ["öğretmen", "doktor", "öğrenci", "mühendis"]
+    },
+    {
+      "word": "先生",
+      "translation": "öğretmen",
+      "options": ["öğrenci", "doktor", "öğretmen", "mühendis"]
+    },
+    {
+      "word": "エンジニア",
+      "translation": "mühendis",
+      "options": ["öğretmen", "öğrenci", "mühendis", "doktor"]
+    },
+    {
+      "word": "弁護士",
+      "translation": "avukat",
+      "options": ["mühendis", "doktor", "avukat", "hemşire"]
+    },
+    {
+      "word": "看護師",
+      "translation": "hemşire",
+      "options": ["avukat", "mühendis", "hemşire", "öğretmen"]
+    },
+    {
+      "word": "警察",
+      "translation": "polis",
+      "options": ["hemşire", "avukat", "polis", "itfaiyeci"]
+    },
+    {
+      "word": "消防士",
+      "translation": "itfaiyeci",
+      "options": ["polis", "hemşire", "itfaiyeci", "şoför"]
+    },
+    {
+      "word": "運転手",
+      "translation": "şoför",
+      "options": ["itfaiyeci", "polis", "şoför", "aşçı"]
+    },
+    {
+      "word": "料理人",
+      "translation": "aşçı",
+      "options": ["şoför", "itfaiyeci", "aşçı", "garson"]
+    },
+    {
+      "word": "ウェイター",
+      "translation": "garson",
+      "options": ["aşçı", "şoför", "garson", "satıcı"]
+    },
+    {
+      "word": "店員",
+      "translation": "satıcı",
+      "options": ["garson", "aşçı", "satıcı", "müdür"]
+    },
+    {
+      "word": "管理者",
+      "translation": "müdür",
+      "options": ["satıcı", "garson", "müdür", "sekreter"]
+    },
+    {
+      "word": "秘書",
+      "translation": "sekreter",
+      "options": ["müdür", "satıcı", "sekreter", "muhasebeci"]
+    },
+    {
+      "word": "お金",
+      "translation": "para",
+      "options": ["altın", "gümüş", "para", "bakır"]
+    },
+    {
+      "word": "値段",
+      "translation": "fiyat",
+      "options": ["para", "ücret", "fiyat", "maaş"]
+    },
+    {
+      "word": "買う",
+      "translation": "satın almak",
+      "options": ["satmak", "vermek", "satın almak", "kiralamak"]
+    },
+    {
+      "word": "売る",
+      "translation": "satmak",
+      "options": ["satın almak", "vermek", "satmak", "kiralamak"]
+    },
+    {
+      "word": "払う",
+      "translation": "ödemek",
+      "options": ["satmak", "almak", "ödemek", "borçlanmak"]
+    },
+    {
+      "word": "費用",
+      "translation": "mal olmak",
+      "options": ["ödemek", "almak", "mal olmak", "satmak"]
+    },
+    {
+      "word": "高い",
+      "translation": "pahalı",
+      "options": ["ucuz", "bedava", "pahalı", "değerli"]
+    },
+    {
+      "word": "安い",
+      "translation": "ucuz",
+      "options": ["pahalı", "bedava", "ucuz", "değerli"]
+    },
+    {
+      "word": "無料",
+      "translation": "ücretsiz",
+      "options": ["ucuz", "pahalı", "ücretsiz", "değerli"]
+    }
+  ],
+  "level12": [
+    {
+      "word": "幸せ",
+      "translation": "mutlu",
+      "options": ["üzgün", "kızgın", "mutlu", "korkmuş"]
+    },
+    {
+      "word": "悲しい",
+      "translation": "üzgün",
+      "options": ["mutlu", "kızgın", "üzgün", "korkmuş"]
+    },
+    {
+      "word": "怒り",
+      "translation": "kızgın",
+      "options": ["üzgün", "mutlu", "kızgın", "korkmuş"]
+    },
+    {
+      "word": "恐怖",
+      "translation": "korku",
+      "options": ["kızgın", "mutlu", "korku", "üzgün"]
+    },
+    {
+      "word": "驚き",
+      "translation": "şaşırmış",
+      "options": ["korku", "mutlu", "şaşırmış", "yorgun"]
+    },
+    {
+      "word": "疲れた",
+      "translation": "yorgun",
+      "options": ["şaşırmış", "korku", "yorgun", "açık"]
+    },
+    {
+      "word": "お腹が空いた",
+      "translation": "aç",
+      "options": ["yorgun", "şaşırmış", "aç", "susuz"]
+    },
+    {
+      "word": "のどが渇いた",
+      "translation": "susuzluk",
+      "options": ["aç", "yorgun", "susuzluk", "şaşırmış"]
+    },
+    {
+      "word": "大きい",
+      "translation": "büyük",
+      "options": ["küçük", "orta", "büyük", "dev"]
+    },
+    {
+      "word": "小さい",
+      "translation": "küçük",
+      "options": ["büyük", "orta", "küçük", "minik"]
+    },
+    {
+      "word": "太い",
+      "translation": "şişman",
+      "options": ["küçük", "büyük", "şişman", "zayıf"]
+    },
+    {
+      "word": "細い",
+      "translation": "ince",
+      "options": ["şişman", "kalın", "ince", "geniş"]
+    },
+    {
+      "word": "長い",
+      "translation": "uzun",
+      "options": ["kısa", "geniş", "uzun", "dar"]
+    },
+    {
+      "word": "短い",
+      "translation": "kısa",
+      "options": ["uzun", "geniş", "kısa", "dar"]
+    },
+    {
+      "word": "高い",
+      "translation": "yüksek",
+      "options": ["kısa", "uzun", "yüksek", "alçak"]
+    },
+    {
+      "word": "低い",
+      "translation": "alçak",
+      "options": ["yüksek", "kısa", "alçak", "uzun"]
+    },
+    {
+      "word": "速い",
+      "translation": "hızlı",
+      "options": ["yavaş", "orta", "hızlı", "durgun"]
+    },
+    {
+      "word": "遅い",
+      "translation": "yavaş",
+      "options": ["hızlı", "orta", "yavaş", "durgun"]
+    },
+    {
+      "word": "簡単",
+      "translation": "kolay",
+      "options": ["zor", "orta", "kolay", "karmaşık"]
+    },
+    {
+      "word": "難しい",
+      "translation": "zor",
+      "options": ["kolay", "orta", "zor", "basit"]
+    },
+    {
+      "word": "良い",
+      "translation": "iyi",
+      "options": ["kötü", "orta", "iyi", "berbat"]
+    },
+    {
+      "word": "悪い",
+      "translation": "kötü",
+      "options": ["iyi", "orta", "kötü", "mükemmel"]
+    },
+    {
+      "word": "美しい",
+      "translation": "güzel",
+      "options": ["çirkin", "orta", "güzel", "korkunç"]
+    },
+    {
+      "word": "醜い",
+      "translation": "çirkin",
+      "options": ["güzel", "orta", "çirkin", "harika"]
+    },
+    {
+      "word": "若い",
+      "translation": "genç",
+      "options": ["yaşlı", "orta yaş", "genç", "bebek"]
+    }
+  ],
+  "level13": [
+    {
+      "word": "古い",
+      "translation": "yaşlı",
+      "options": ["genç", "orta yaş", "yaşlı", "bebek"]
+    },
+    {
+      "word": "新しい",
+      "translation": "yeni",
+      "options": ["eski", "orta", "yeni", "antika"]
+    },
+    {
+      "word": "古い",
+      "translation": "eski",
+      "options": ["yeni", "orta", "eski", "modern"]
+    },
+    {
+      "word": "きれい",
+      "translation": "temiz",
+      "options": ["kirli", "orta", "temiz", "pis"]
+    },
+    {
+      "word": "汚い",
+      "translation": "kirli",
+      "options": ["temiz", "orta", "kirli", "parlak"]
+    },
+    {
+      "word": "満杯",
+      "translation": "dolu",
+      "options": ["boş", "yarı", "dolu", "eksik"]
+    },
+    {
+      "word": "空",
+      "translation": "boş",
+      "options": ["dolu", "yarı", "boş", "tam"]
+    },
+    {
+      "word": "開いた",
+      "translation": "açık",
+      "options": ["kapalı", "yarı açık", "açık", "kilitli"]
+    },
+    {
+      "word": "閉じた",
+      "translation": "kapalı",
+      "options": ["açık", "yarı açık", "kapalı", "aralık"]
+    },
+    {
+      "word": "前",
+      "translation": "önünde",
+      "options": ["arkasında", "yanında", "önünde", "altında"]
+    },
+    {
+      "word": "後ろ",
+      "translation": "arkasında",
+      "options": ["önünde", "yanında", "arkasında", "üstünde"]
+    },
+    {
+      "word": "隣",
+      "translation": "yanında",
+      "options": ["arkasında", "önünde", "yanında", "uzakta"]
+    },
+    {
+      "word": "近い",
+      "translation": "yakın",
+      "options": ["uzak", "orta", "yakın", "çok uzak"]
+    },
+    {
+      "word": "遠い",
+      "translation": "uzak",
+      "options": ["yakın", "orta", "uzak", "çok yakın"]
+    },
+    {
+      "word": "ここ",
+      "translation": "burada",
+      "options": ["orada", "şurada", "burada", "hiçbir yerde"]
+    },
+    {
+      "word": "そこ",
+      "translation": "orada",
+      "options": ["burada", "şurada", "orada", "her yerde"]
+    },
+    {
+      "word": "どこでも",
+      "translation": "her yerde",
+      "options": ["hiçbir yerde", "burada", "her yerde", "orada"]
+    },
+    {
+      "word": "どこにも",
+      "translation": "hiçbir yerde",
+      "options": ["her yerde", "burada", "hiçbir yerde", "orada"]
+    },
+    {
+      "word": "外",
+      "translation": "dışarıda",
+      "options": ["içeride", "arada", "dışarıda", "üstte"]
+    },
+    {
+      "word": "中",
+      "translation": "içeride",
+      "options": ["dışarıda", "arada", "içeride", "altta"]
+    },
+    {
+      "word": "上",
+      "translation": "üstünde",
+      "options": ["altında", "arada", "üstünde", "içeride"]
+    },
+    {
+      "word": "下",
+      "translation": "altında",
+      "options": ["üstünde", "arada", "altında", "dışarıda"]
+    },
+    {
+      "word": "左",
+      "translation": "sol",
+      "options": ["sağ", "orta", "sol", "arka"]
+    },
+    {
+      "word": "右",
+      "translation": "sağ",
+      "options": ["sol", "orta", "sağ", "ön"]
+    },
+    {
+      "word": "真ん中",
+      "translation": "orta",
+      "options": ["sağ", "sol", "orta", "kenar"]
+    }
+  ],
+  "level14": [
+    {
+      "word": "いつも",
+      "translation": "her zaman",
+      "options": ["hiçbir zaman", "bazen", "her zaman", "nadiren"]
+    },
+    {
+      "word": "決して",
+      "translation": "hiçbir zaman",
+      "options": ["her zaman", "bazen", "hiçbir zaman", "sık sık"]
+    },
+    {
+      "word": "よく",
+      "translation": "sık sık",
+      "options": ["hiçbir zaman", "nadiren", "sık sık", "bazen"]
+    },
+    {
+      "word": "時々",
+      "translation": "bazen",
+      "options": ["her zaman", "hiçbir zaman", "bazen", "sık sık"]
+    },
+    {
+      "word": "めったに",
+      "translation": "nadiren",
+      "options": ["sık sık", "her zaman", "nadiren", "bazen"]
+    },
+    {
+      "word": "もう",
+      "translation": "zaten",
+      "options": ["henüz", "artık", "zaten", "şimdi"]
+    },
+    {
+      "word": "まだ",
+      "translation": "hala",
+      "options": ["artık", "zaten", "hala", "henüz"]
+    },
+    {
+      "word": "まだ",
+      "translation": "henüz değil",
+      "options": ["hala", "zaten", "henüz değil", "artık"]
+    },
+    {
+      "word": "もはや",
+      "translation": "artık",
+      "options": ["henüz", "hala", "artık", "zaten"]
+    },
+    {
+      "word": "前に",
+      "translation": "önce",
+      "options": ["sonra", "şimdi", "önce", "sırasında"]
+    },
+    {
+      "word": "後で",
+      "translation": "sonra",
+      "options": ["önce", "şimdi", "sonra", "sırasında"]
+    },
+    {
+      "word": "間",
+      "translation": "sırasında",
+      "options": ["sonra", "önce", "sırasında", "şimdi"]
+    },
+    {
+      "word": "から",
+      "translation": "beri",
+      "options": ["kadar", "için", "beri", "önce"]
+    },
+    {
+      "word": "まで",
+      "translation": "kadar",
+      "options": ["beri", "için", "kadar", "sonra"]
+    },
+    {
+      "word": "のために",
+      "translation": "için",
+      "options": ["kadar", "beri", "için", "ile"]
+    },
+    {
+      "word": "と",
+      "translation": "ile",
+      "options": ["için", "kadar", "ile", "olmadan"]
+    },
+    {
+      "word": "なしで",
+      "translation": "olmadan",
+      "options": ["ile", "için", "olmadan", "üzerine"]
+    },
+    {
+      "word": "の上に",
+      "translation": "üzerine",
+      "options": ["olmadan", "ile", "üzerine", "altına"]
+    },
+    {
+      "word": "の下に",
+      "translation": "altında",
+      "options": ["üzerine", "ile", "altında", "içinde"]
+    },
+    {
+      "word": "で",
+      "translation": "içinde",
+      "options": ["altında", "üzerine", "içinde", "dışında"]
+    },
+    {
+      "word": "外で",
+      "translation": "dışında",
+      "options": ["içinde", "altında", "dışında", "arasında"]
+    },
+    {
+      "word": "間で",
+      "translation": "arasında",
+      "options": ["dışında", "içinde", "arasında", "karşı"]
+    },
+    {
+      "word": "に対して",
+      "translation": "karşı",
+      "options": ["arasında", "dışında", "karşı", "doğru"]
+    },
+    {
+      "word": "に向かって",
+      "translation": "doğru",
+      "options": ["karşı", "arasında", "doğru", "çevresinde"]
+    },
+    {
+      "word": "周り",
+      "translation": "çevresinde",
+      "options": ["doğru", "karşı", "çevresinde", "boyunca"]
+    }
+  ],
+  "level15": [
+    {
+      "word": "沿って",
+      "translation": "boyunca",
+      "options": ["çevresinde", "doğru", "boyunca", "karşısında"]
+    },
+    {
+      "word": "向かい",
+      "translation": "karşısında",
+      "options": ["boyunca", "çevresinde", "karşısında", "içinden"]
+    },
+    {
+      "word": "通って",
+      "translation": "içinden",
+      "options": ["karşısında", "boyunca", "içinden", "ötesinde"]
+    },
+    {
+      "word": "向こう",
+      "translation": "ötesinde",
+      "options": ["içinden", "karşısında", "ötesinde", "başlangıç"]
+    },
+    {
+      "word": "始まり",
+      "translation": "başlangıç",
+      "options": ["ötesinde", "içinden", "başlangıç", "son"]
+    },
+    {
+      "word": "終わり",
+      "translation": "son",
+      "options": ["başlangıç", "ötesinde", "son", "orta"]
+    },
+    {
+      "word": "始める",
+      "translation": "başlamak",
+      "options": ["beklemek", "devam", "başlamak", "bitirmek"]
+    },
+    {
+      "word": "止める",
+      "translation": "durmak",
+      "options": ["devam etmek", "bitirmek", "durmak", "başlamak"]
+    },
+    {
+      "word": "続ける",
+      "translation": "devam etmek",
+      "options": ["bitirmek", "başlamak", "devam etmek", "durmak"]
+    },
+    {
+      "word": "待つ",
+      "translation": "beklemek",
+      "options": ["devam", "durma", "beklemek", "başlamak"]
+    },
+    {
+      "word": "終える",
+      "translation": "bitirmek",
+      "options": ["başlamak", "beklemek", "bitirmek", "devam etmek"]
+    },
+    {
+      "word": "必要",
+      "translation": "ihtiyaç",
+      "options": ["durmak", "devam etmek", "ihtiyaç", "istek"]
+    },
+    {
+      "word": "欲求",
+      "translation": "istek",
+      "options": ["ihtiyaç", "durmak", "istek", "sevgi"]
+    },
+    {
+      "word": "愛",
+      "translation": "aşk",
+      "options": ["istek", "ihtiyaç", "aşk", "nefret"]
+    },
+    {
+      "word": "憎しみ",
+      "translation": "nefret",
+      "options": ["aşk", "istek", "nefret", "sevgi"]
+    },
+    {
+      "word": "好き",
+      "translation": "beğenmek",
+      "options": ["nefret", "aşk", "beğenmek", "nefret etmek"]
+    },
+    {
+      "word": "嫌い",
+      "translation": "nefret etmek",
+      "options": ["beğenmek", "nefret", "nefret etmek", "tercih etmek"]
+    },
+    {
+      "word": "好む",
+      "translation": "tercih etmek",
+      "options": ["nefret etmek", "beğenmek", "tercih etmek", "seçmek"]
+    },
+    {
+      "word": "選ぶ",
+      "translation": "seçmek",
+      "options": ["tercih etmek", "nefret etmek", "seçmek", "reddetmek"]
+    },
+    {
+      "word": "断る",
+      "translation": "reddetmek",
+      "options": ["seçmek", "tercih etmek", "reddetmek", "kabul etmek"]
+    },
+    {
+      "word": "受け入れる",
+      "translation": "kabul etmek",
+      "options": ["reddetmek", "seçmek", "kabul etmek", "düşünmek"]
+    },
+    {
+      "word": "考える",
+      "translation": "düşünmek",
+      "options": ["kabul etmek", "reddetmek", "düşünmek", "unutmak"]
+    },
+    {
+      "word": "信じる",
+      "translation": "inanmak",
+      "options": ["düşünmek", "kabul etmek", "inanmak", "unutmak"]
+    },
+    {
+      "word": "忘れる",
+      "translation": "unutmak",
+      "options": ["inanmak", "düşünmek", "unutmak", "hatırlamak"]
+    },
+    {
+      "word": "覚える",
+      "translation": "hatırlamak",
+      "options": ["unutmak", "inanmak", "hatırlamak", "düşünmek"]
+    }
+  ],
+  "level16": [
+    {
+      "word": "感じる",
+      "translation": "hissetmek",
+      "options": ["hatırlamak", "unutmak", "hissetmek", "görmek"]
+    },
+    {
+      "word": "見つめる",
+      "translation": "bakmak",
+      "options": ["hissetmek", "hatırlamak", "bakmak", "dinlemek"]
+    },
+    {
+      "word": "聞く",
+      "translation": "dinlemek",
+      "options": ["bakmak", "hissetmek", "dinlemek", "konuşmak"]
+    },
+    {
+      "word": "話す",
+      "translation": "konuşmak",
+      "options": ["dinlemek", "bakmak", "konuşmak", "susmak"]
+    },
+    {
+      "word": "黙る",
+      "translation": "susmak",
+      "options": ["konuşmak", "dinlemek", "susmak", "bağırmak"]
+    },
+    {
+      "word": "叫ぶ",
+      "translation": "bağırmak",
+      "options": ["susmak", "konuşmak", "bağırmak", "fısıldamak"]
+    },
+    {
+      "word": "ささやく",
+      "translation": "fısıldamak",
+      "options": ["bağırmak", "susmak", "fısıldamak", "konuşmak"]
+    },
+    {
+      "word": "触る",
+      "translation": "dokunmak",
+      "options": ["fısıldamak", "bağırmak", "dokunmak", "koşmak"]
+    },
+    {
+      "word": "走る",
+      "translation": "koşmak",
+      "options": ["dokunmak", "fısıldamak", "koşmak", "yürümek"]
+    },
+    {
+      "word": "歩く",
+      "translation": "yürümek",
+      "options": ["koşmak", "dokunmak", "yürümek", "durmak"]
+    },
+    {
+      "word": "止まる",
+      "translation": "durmak",
+      "options": ["yürümek", "koşmak", "durmak", "oturmak"]
+    },
+    {
+      "word": "座る",
+      "translation": "oturmak",
+      "options": ["durmak", "yürümek", "oturmak", "ayakta durmak"]
+    },
+    {
+      "word": "立つ",
+      "translation": "kalkmak",
+      "options": ["oturmak", "durmak", "kalkmak", "uzanmak"]
+    },
+    {
+      "word": "横になる",
+      "translation": "yatmak",
+      "options": ["kalkmak", "oturmak", "yatmak", "uyumak"]
+    },
+    {
+      "word": "眠る",
+      "translation": "uyumak",
+      "options": ["yatmak", "kalkmak", "uyumak", "uyanmak"]
+    },
+    {
+      "word": "起きる",
+      "translation": "uyanmak",
+      "options": ["uyumak", "yatmak", "uyanmak", "rüya görmek"]
+    },
+    {
+      "word": "夢見る",
+      "translation": "rüya görmek",
+      "options": ["uyanmak", "uyumak", "rüya görmek", "yemek"]
+    },
+    {
+      "word": "食べる",
+      "translation": "yemek",
+      "options": ["rüya görmek", "uyanmak", "yemek", "içmek"]
+    },
+    {
+      "word": "飲む",
+      "translation": "içmek",
+      "options": ["yemek", "rüya görmek", "içmek", "nefes almak"]
+    },
+    {
+      "word": "呼吸する",
+      "translation": "nefes almak",
+      "options": ["içmek", "yemek", "nefes almak", "yaşamak"]
+    },
+    {
+      "word": "生きる",
+      "translation": "yaşamak",
+      "options": ["nefes almak", "içmek", "yaşamak", "ölmek"]
+    },
+    {
+      "word": "死ぬ",
+      "translation": "ölmek",
+      "options": ["yaşamak", "nefes almak", "ölmek", "doğmak"]
+    },
+    {
+      "word": "生まれる",
+      "translation": "doğmak",
+      "options": ["ölmek", "yaşamak", "doğmak", "büyümek"]
+    },
+    {
+      "word": "育つ",
+      "translation": "büyümek",
+      "options": ["doğmak", "ölmek", "büyümek", "küçülmek"]
+    },
+    {
+      "word": "変わる",
+      "translation": "değişmek",
+      "options": ["büyümek", "doğmak", "değişmek", "kalmak"]
+    }
+  ],
+  "level17": [
+    {
+      "word": "残る",
+      "translation": "kalmak",
+      "options": ["değişmek", "büyümek", "kalmak", "gitmek"]
+    },
+    {
+      "word": "入る",
+      "translation": "girmek",
+      "options": ["çıkmak", "kalmak", "girmek", "dönmek"]
+    },
+    {
+      "word": "戻る",
+      "translation": "geri dönmek",
+      "options": ["girmek", "çıkmak", "geri dönmek", "devam etmek"]
+    },
+    {
+      "word": "到着する",
+      "translation": "varmak",
+      "options": ["geri dönmek", "girmek", "varmak", "ayrılmak"]
+    },
+    {
+      "word": "去る",
+      "translation": "ayrılmak",
+      "options": ["varmak", "geri dönmek", "ayrılmak", "kalmak"]
+    },
+    {
+      "word": "参加する",
+      "translation": "katılmak",
+      "options": ["ayrılmak", "varmak", "katılmak", "kaçmak"]
+    },
+    {
+      "word": "逃げる",
+      "translation": "kaçmak",
+      "options": ["katılmak", "ayrılmak", "kaçmak", "takip etmek"]
+    },
+    {
+      "word": "従う",
+      "translation": "takip etmek",
+      "options": ["kaçmak", "katılmak", "takip etmek", "öncülük etmek"]
+    },
+    {
+      "word": "導く",
+      "translation": "yönetmek",
+      "options": ["takip etmek", "kaçmak", "yönetmek", "itaat etmek"]
+    },
+    {
+      "word": "従う",
+      "translation": "itaat etmek",
+      "options": ["yönetmek", "takip etmek", "itaat etmek", "isyan etmek"]
+    },
+    {
+      "word": "命令する",
+      "translation": "komuta etmek",
+      "options": ["itaat etmek", "yönetmek", "komuta etmek", "boyun eğmek"]
+    },
+    {
+      "word": "助ける",
+      "translation": "yardım etmek",
+      "options": ["komuta etmek", "itaat etmek", "yardım etmek", "engel olmak"]
+    },
+    {
+      "word": "妨げる",
+      "translation": "engellemek",
+      "options": ["yardım etmek", "komuta etmek", "engellemek", "izin vermek"]
+    },
+    {
+      "word": "許す",
+      "translation": "izin vermek",
+      "options": ["engellemek", "yardım etmek", "izin vermek", "yasaklamak"]
+    },
+    {
+      "word": "禁止する",
+      "translation": "yasaklamak",
+      "options": ["izin vermek", "engellemek", "yasaklamak", "serbest bırakmak"]
+    },
+    {
+      "word": "解放する",
+      "translation": "serbest bırakmak",
+      "options": ["yasaklamak", "izin vermek", "serbest bırakmak", "tutuklamak"]
+    },
+    {
+      "word": "逮捕する",
+      "translation": "tutuklamak",
+      "options": ["serbest bırakmak", "yasaklamak", "tutuklamak", "çalmak"]
+    },
+    {
+      "word": "盗む",
+      "translation": "çalmak",
+      "options": ["tutuklamak", "serbest bırakmak", "çalmak", "vermek"]
+    },
+    {
+      "word": "返す",
+      "translation": "geri vermek",
+      "options": ["çalmak", "tutuklamak", "geri vermek", "gizlemek"]
+    },
+    {
+      "word": "隠す",
+      "translation": "gizlemek",
+      "options": ["geri vermek", "çalmak", "gizlemek", "göstermek"]
+    },
+    {
+      "word": "示す",
+      "translation": "göstermek",
+      "options": ["gizlemek", "geri vermek", "göstermek", "kapatmak"]
+    },
+    {
+      "word": "閉める",
+      "translation": "kapatmak",
+      "options": ["göstermek", "gizlemek", "kapatmak", "açmak"]
+    },
+    {
+      "word": "開ける",
+      "translation": "açmak",
+      "options": ["kapatmak", "göstermek", "açmak", "kırmak"]
+    },
+    {
+      "word": "壊す",
+      "translation": "kırmak",
+      "options": ["açmak", "kapatmak", "kırmak", "tamir etmek"]
+    },
+    {
+      "word": "修理する",
+      "translation": "tamir etmek",
+      "options": ["kırmak", "açmak", "tamir etmek", "yıkmak"]
+    }
+  ],
+  "level18": [
+    {
+      "word": "破壊する",
+      "translation": "yıkmak",
+      "options": ["tamir etmek", "kırmak", "yıkmak", "inşa etmek"]
+    },
+    {
+      "word": "建てる",
+      "translation": "inşa etmek",
+      "options": ["yıkmak", "tamir etmek", "inşa etmek", "yaratmak"]
+    },
+    {
+      "word": "作る",
+      "translation": "yaratmak",
+      "options": ["inşa etmek", "yıkmak", "yaratmak", "kopyalamak"]
+    },
+    {
+      "word": "コピーする",
+      "translation": "kopyalamak",
+      "options": ["yaratmak", "inşa etmek", "kopyalamak", "silmek"]
+    },
+    {
+      "word": "消す",
+      "translation": "silmek",
+      "options": ["kopyalamak", "yaratmak", "silmek", "yazmak"]
+    },
+    {
+      "word": "書く",
+      "translation": "yazmak",
+      "options": ["silmek", "kopyalamak", "yazmak", "okumak"]
+    },
+    {
+      "word": "読む",
+      "translation": "okumak",
+      "options": ["yazmak", "silmek", "okumak", "anlamak"]
+    },
+    {
+      "word": "理解する",
+      "translation": "anlamak",
+      "options": ["okumak", "yazmak", "anlamak", "açıklamak"]
+    },
+    {
+      "word": "説明する",
+      "translation": "açıklamak",
+      "options": ["anlamak", "okumak", "açıklamak", "sormak"]
+    },
+    {
+      "word": "質問する",
+      "translation": "sormak",
+      "options": ["açıklamak", "anlamak", "sormak", "cevap vermek"]
+    },
+    {
+      "word": "答える",
+      "translation": "cevap vermek",
+      "options": ["sormak", "açıklamak", "cevap vermek", "tartışmak"]
+    },
+    {
+      "word": "答える",
+      "translation": "cevap vermek",
+      "options": ["sormak", "açıklamak", "cevap vermek", "tartışmak"]
+    },
+    {
+      "word": "議論する",
+      "translation": "tartışmak",
+      "options": ["cevap vermek", "sormak", "tartışmak", "anlaşmak"]
+    },
+    {
+      "word": "合意する",
+      "translation": "anlaşmak",
+      "options": ["tartışmak", "cevap vermek", "anlaşmak", "kavga etmek"]
+    },
+    {
+      "word": "喧嘩する",
+      "translation": "kavga etmek",
+      "options": ["anlaşmak", "tartışmak", "kavga etmek", "barışmak"]
+    },
+    {
+      "word": "仲直りする",
+      "translation": "barışmak",
+      "options": ["kavga etmek", "anlaşmak", "barışmak", "kızmak"]
+    },
+    {
+      "word": "怒る",
+      "translation": "kızmak",
+      "options": ["barışmak", "kavga etmek", "kızmak", "gülmek"]
+    },
+    {
+      "word": "笑う",
+      "translation": "gülmek",
+      "options": ["kızmak", "barışmak", "gülmek", "ağlamak"]
+    },
+    {
+      "word": "泣く",
+      "translation": "ağlamak",
+      "options": ["gülmek", "kızmak", "ağlamak", "şarkı söylemek"]
+    },
+    {
+      "word": "歌う",
+      "translation": "şarkı söylemek",
+      "options": ["ağlamak", "gülmek", "şarkı söylemek", "dans etmek"]
+    },
+    {
+      "word": "踊る",
+      "translation": "dans etmek",
+      "options": ["şarkı söylemek", "ağlamak", "dans etmek", "çalmak"]
+    },
+    {
+      "word": "演奏する",
+      "translation": "çalmak/oynamak",
+      "options": ["dans etmek", "şarkı söylemek", "çalmak/oynamak", "dinlenmek"]
+    }
+  ],
+  "level19": [
+    {
+      "word": "休む",
+      "translation": "dinlenmek",
+      "options": ["çalmak/oynamak", "dans etmek", "dinlenmek", "çalışmak"]
+    },
+    {
+      "word": "働く",
+      "translation": "çalışmak",
+      "options": ["dinlenmek", "çalmak/oynamak", "çalışmak", "eğlenmek"]
+    },
+    {
+      "word": "楽しむ",
+      "translation": "eğlenmek",
+      "options": ["çalışmak", "dinlenmek", "eğlenmek", "sıkılmak"]
+    },
+    {
+      "word": "退屈する",
+      "translation": "sıkılmak",
+      "options": ["eğlenmek", "çalışmak", "sıkılmak", "endişelenmek"]
+    },
+    {
+      "word": "心配する",
+      "translation": "endişelenmek",
+      "options": ["sıkılmak", "eğlenmek", "endişelenmek", "rahatlamak"]
+    },
+    {
+      "word": "リラックスする",
+      "translation": "rahatlamak",
+      "options": ["endişelenmek", "sıkılmak", "rahatlamak", "stres yapmak"]
+    },
+    {
+      "word": "ストレスを感じる",
+      "translation": "stres yapmak",
+      "options": ["rahatlamak", "endişelenmek", "stres yapmak", "sakinleşmek"]
+    },
+    {
+      "word": "落ち着く",
+      "translation": "sakinleşmek",
+      "options": ["stres yapmak", "rahatlamak", "sakinleşmek", "heyecanlanmak"]
+    },
+    {
+      "word": "興奮する",
+      "translation": "heyecanlanmak",
+      "options": ["sakinleşmek", "stres yapmak", "heyecanlanmak", "şaşırmak"]
+    },
+    {
+      "word": "驚く",
+      "translation": "şaşırmak",
+      "options": ["heyecanlanmak", "sakinleşmek", "şaşırmak", "alışmak"]
+    },
+    {
+      "word": "慣れる",
+      "translation": "alışmak",
+      "options": ["şaşırmak", "heyecanlanmak", "alışmak", "değiştirmek"]
+    },
+    {
+      "word": "変える",
+      "translation": "değiştirmek",
+      "options": ["alışmak", "şaşırmak", "değiştirmek", "korumak"]
+    },
+    {
+      "word": "守る",
+      "translation": "korumak",
+      "options": ["değiştirmek", "alışmak", "korumak", "saldırmak"]
+    },
+    {
+      "word": "攻撃する",
+      "translation": "saldırmak",
+      "options": ["korumak", "değiştirmek", "saldırmak", "savunmak"]
+    },
+    {
+      "word": "守る",
+      "translation": "savunmak",
+      "options": ["saldırmak", "korumak", "savunmak", "kaçmak"]
+    },
+    {
+      "word": "逃げる",
+      "translation": "kaçmak",
+      "options": ["savunmak", "saldırmak", "kaçmak", "yakalamak"]
+    },
+    {
+      "word": "捕まえる",
+      "translation": "yakalamak",
+      "options": ["kaçmak", "savunmak", "yakalamak", "bırakmak"]
+    },
+    {
+      "word": "放す",
+      "translation": "bırakmak",
+      "options": ["yakalamak", "kaçmak", "bırakmak", "tutmak"]
+    },
+    {
+      "word": "持つ",
+      "translation": "tutmak",
+      "options": ["bırakmak", "yakalamak", "tutmak", "atmak"]
+    },
+    {
+      "word": "投げる",
+      "translation": "atmak",
+      "options": ["tutmak", "bırakmak", "atmak", "toplamak"]
+    },
+    {
+      "word": "集める",
+      "translation": "toplamak",
+      "options": ["atmak", "tutmak", "toplamak", "dağıtmak"]
+    },
+    {
+      "word": "配る",
+      "translation": "dağıtmak",
+      "options": ["toplamak", "atmak", "dağıtmak", "paylaşmak"]
+    },
+    {
+      "word": "分ける",
+      "translation": "paylaşmak",
+      "options": ["dağıtmak", "toplamak", "paylaşmak", "saklamak"]
+    },
+    {
+      "word": "保つ",
+      "translation": "saklamak",
+      "options": ["paylaşmak", "dağıtmak", "saklamak", "kaybolmak"]
+    },
+    {
+      "word": "失う",
+      "translation": "kaybolmak",
+      "options": ["saklamak", "paylaşmak", "kaybolmak", "bulmak"]
+    }
+  ],
+  "level20": [
+    {
+      "word": "見つける",
+      "translation": "bulmak",
+      "options": ["kaybolmak", "saklamak", "bulmak", "aramak"]
+    },
+    {
+      "word": "探す",
+      "translation": "aramak",
+      "options": ["bulmak", "kaybolmak", "aramak", "keşfetmek"]
+    },
+    {
+      "word": "発見する",
+      "translation": "keşfetmek",
+      "options": ["aramak", "bulmak", "keşfetmek", "öğrenmek"]
+    },
+    {
+      "word": "学ぶ",
+      "translation": "öğrenmek",
+      "options": ["keşfetmek", "aramak", "öğrenmek", "öğretmek"]
+    },
+    {
+      "word": "教える",
+      "translation": "öğretmek",
+      "options": ["öğrenmek", "keşfetmek", "öğretmek", "ders çalışmak"]
+    },
+    {
+      "word": "勉強する",
+      "translation": "ders çalışmak",
+      "options": ["öğretmek", "öğrenmek", "ders çalışmak", "başarmak"]
+    },
+    {
+      "word": "成功する",
+      "translation": "başarmak",
+      "options": ["ders çalışmak", "öğretmek", "başarmak", "başarısız olmak"]
+    },
+    {
+      "word": "失敗する",
+      "translation": "başarısız olmak",
+      "options": ["başarmak", "ders çalışmak", "başarısız olmak", "denemek"]
+    },
+    {
+      "word": "試す",
+      "translation": "denemek",
+      "options": ["başarısız olmak", "başarmak", "denemek", "vazgeçmek"]
+    },
+    {
+      "word": "諦める",
+      "translation": "vazgeçmek",
+      "options": ["denemek", "başarısız olmak", "vazgeçmek", "ısrar etmek"]
+    },
+    {
+      "word": "続ける",
+      "translation": "ısrar etmek",
+      "options": ["vazgeçmek", "denemek", "ısrar etmek", "tereddüt etmek"]
+    },
+    {
+      "word": "迷う",
+      "translation": "tereddüt etmek",
+      "options": ["ısrar etmek", "vazgeçmek", "tereddüt etmek", "karar vermek"]
+    },
+    {
+      "word": "決める",
+      "translation": "karar vermek",
+      "options": ["tereddüt etmek", "ısrar etmek", "karar vermek", "fikir değiştirmek"]
+    },
+    {
+      "word": "気を変える",
+      "translation": "fikir değiştirmek",
+      "options": ["karar vermek", "tereddüt etmek", "fikir değiştirmek", "ısrar etmek"]
+    },
+    {
+      "word": "主張する",
+      "translation": "ısrar etmek",
+      "options": ["fikir değiştirmek", "karar vermek", "ısrar etmek", "teslim olmak"]
+    },
+    {
+      "word": "降参する",
+      "translation": "teslim olmak",
+      "options": ["ısrar etmek", "fikir değiştirmek", "teslim olmak", "direnmek"]
+    },
+    {
+      "word": "抵抗する",
+      "translation": "direnmek",
+      "options": ["teslim olmak", "ısrar etmek", "direnmek", "boyun eğmek"]
+    },
+    {
+      "word": "従う",
+      "translation": "boyun eğmek",
+      "options": ["direnmek", "teslim olmak", "boyun eğmek", "isyan etmek"]
+    },
+    {
+      "word": "反抗する",
+      "translation": "isyan etmek",
+      "options": ["boyun eğmek", "direnmek", "isyan etmek", "uyum sağlamak"]
+    },
+    {
+      "word": "適応する",
+      "translation": "uyum sağlamak",
+      "options": ["isyan etmek", "boyun eğmek", "uyum sağlamak", "gelişmek"]
+    },
+    {
+      "word": "発展する",
+      "translation": "gelişmek",
+      "options": ["uyum sağlamak", "isyan etmek", "gelişmek", "geri gitmek"]
+    },
+    {
+      "word": "後退する",
+      "translation": "geri gitmek",
+      "options": ["gelişmek", "uyum sağlamak", "geri gitmek", "ilerlemek"]
+    },
+    {
+      "word": "進む",
+      "translation": "ilerlemek",
+      "options": ["geri gitmek", "gelişmek", "ilerlemek", "durmak"]
+    },
+    {
+      "word": "止まる",
+      "translation": "durmak",
+      "options": ["ilerlemek", "geri gitmek", "durmak", "hızlanmak"]
+    },
+    {
+      "word": "加速する",
+      "translation": "hızlanmak",
+      "options": ["durmak", "ilerlemek", "hızlanmak", "yavaşlamak"]
+    }
+  ]
+}

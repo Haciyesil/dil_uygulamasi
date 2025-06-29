@@ -1,0 +1,286 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+    <TextView
+        android:id="@+id/contentTitle"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Türkmence - Renkler"
+        android:textSize="20sp"
+        android:textStyle="bold"
+        android:textColor="#FFFFFF"
+        android:background="#5E7AE9"
+        android:padding="16dp"
+        android:gravity="center" />
+
+    <!-- Renk Oluşturucu Kartı -->
+    <androidx.cardview.widget.CardView
+        android:id="@+id/colorCreatorCard"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="8dp"
+        app:cardCornerRadius="12dp"
+        app:cardElevation="4dp">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical"
+            android:padding="16dp">
+
+            <!-- Renk Adı -->
+            <TextView
+                android:id="@+id/colorCreatorName"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Mämişi (Turuncu)"
+                android:textSize="18sp"
+                android:textStyle="bold" />
+
+            <!-- Açıklama -->
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Değerleri değiştirerek yeni renkler oluşturun"
+                android:textSize="16sp" />
+
+            <!-- Renk Gösterimi -->
+            <View
+                android:id="@+id/colorCreatorPreview"
+                android:layout_width="match_parent"
+                android:layout_height="80dp"
+                android:layout_marginTop="12dp"
+                android:layout_marginBottom="12dp"
+                android:background="#FFA500" />
+
+            <!-- RGB Değerleri Bölümü -->
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="RGB Değerleri"
+                android:textStyle="bold"
+                android:layout_marginBottom="8dp" />
+
+            <!-- Kırmızı (R) Slider -->
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="horizontal"
+                android:layout_marginBottom="8dp"
+                android:gravity="center_vertical">
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="R:"
+                    android:textColor="#FF0000"
+                    android:textStyle="bold"
+                    android:layout_marginEnd="8dp" />
+
+                <SeekBar
+                    android:id="@+id/redSeekBar"
+                    android:layout_width="0dp"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1"
+                    android:max="255"
+                    android:progress="255"
+                    android:progressTint="#FF0000"
+                    android:thumbTint="#FF0000" />
+
+                <TextView
+                    android:id="@+id/redValueText"
+                    android:layout_width="40dp"
+                    android:layout_height="wrap_content"
+                    android:text="255"
+                    android:gravity="end" />
+            </LinearLayout>
+
+            <!-- Yeşil (G) Slider -->
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="horizontal"
+                android:layout_marginBottom="8dp"
+                android:gravity="center_vertical">
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="G:"
+                    android:textColor="#00FF00"
+                    android:textStyle="bold"
+                    android:layout_marginEnd="8dp" />
+
+                <SeekBar
+                    android:id="@+id/greenSeekBar"
+                    android:layout_width="0dp"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1"
+                    android:max="255"
+                    android:progress="165"
+                    android:progressTint="#00FF00"
+                    android:thumbTint="#00FF00" />
+
+                <TextView
+                    android:id="@+id/greenValueText"
+                    android:layout_width="40dp"
+                    android:layout_height="wrap_content"
+                    android:text="165"
+                    android:gravity="end" />
+            </LinearLayout>
+
+            <!-- Mavi (B) Slider -->
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="horizontal"
+                android:gravity="center_vertical">
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="B:"
+                    android:textColor="#0000FF"
+                    android:textStyle="bold"
+                    android:layout_marginEnd="8dp" />
+
+                <SeekBar
+                    android:id="@+id/blueSeekBar"
+                    android:layout_width="0dp"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1"
+                    android:max="255"
+                    android:progress="0"
+                    android:progressTint="#0000FF"
+                    android:thumbTint="#0000FF" />
+
+                <TextView
+                    android:id="@+id/blueValueText"
+                    android:layout_width="40dp"
+                    android:layout_height="wrap_content"
+                    android:text="0"
+                    android:gravity="end" />
+            </LinearLayout>
+        </LinearLayout>
+    </androidx.cardview.widget.CardView>
+
+    <!-- Hesap Makinesi Kartı -->
+    <androidx.cardview.widget.CardView
+        android:id="@+id/calculatorCard"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="8dp"
+        app:cardCornerRadius="12dp"
+        app:cardElevation="4dp"
+        android:visibility="gone">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical"
+            android:padding="16dp">
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Basit Hesap Makinesi"
+                android:textSize="18sp"
+                android:textStyle="bold"
+                android:layout_marginBottom="8dp" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Hesap yaparak Türkmence sayı isimlerini öğrenin"
+                android:textSize="14sp"
+                android:layout_marginBottom="16dp" />
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="horizontal"
+                android:layout_marginBottom="16dp">
+
+                <EditText
+                    android:id="@+id/firstNumberInput"
+                    android:layout_width="0dp"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1"
+                    android:inputType="number"
+                    android:hint="Sayı 1"
+                    android:gravity="center"
+                    android:layout_marginEnd="8dp" />
+
+                <Spinner
+                    android:id="@+id/operationSpinner"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginHorizontal="8dp" />
+
+                <EditText
+                    android:id="@+id/secondNumberInput"
+                    android:layout_width="0dp"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1"
+                    android:inputType="number"
+                    android:hint="Sayı 2"
+                    android:gravity="center"
+                    android:layout_marginStart="8dp" />
+
+            </LinearLayout>
+
+            <Button
+                android:id="@+id/calculateButton"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Hesapla"
+                android:layout_marginBottom="16dp" />
+
+            <View
+                android:layout_width="match_parent"
+                android:layout_height="1dp"
+                android:background="#CCCCCC"
+                android:layout_marginBottom="16dp" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Sonuç:"
+                android:textSize="16sp"
+                android:textStyle="bold"
+                android:layout_marginBottom="8dp" />
+
+            <TextView
+                android:id="@+id/resultNumberText"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="0"
+                android:textSize="24sp"
+                android:textStyle="bold"
+                android:gravity="center"
+                android:layout_marginBottom="8dp" />
+
+            <TextView
+                android:id="@+id/resultNumberNameText"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Sıfır (Nol)"
+                android:textSize="18sp"
+                android:gravity="center" />
+
+        </LinearLayout>
+    </androidx.cardview.widget.CardView>
+
+    <!-- Renkler Listesi -->
+    <androidx.recyclerview.widget.RecyclerView
+        android:id="@+id/contentRecyclerView"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1"
+        android:padding="8dp" />
+
+</LinearLayout>

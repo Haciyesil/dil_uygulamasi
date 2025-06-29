@@ -1,0 +1,57 @@
+{
+  "category": "numbers",
+  "language": "Türkmence",
+  "languageId": 1,
+  "items": [
+    {
+      "original": "Bir",
+      "translated": "Bir",
+      "pronunciation": "Bir"
+    },
+    {
+      "original": "Iki",
+      "translated": "İki",
+      "pronunciation": "İki"
+    },
+    {
+      "original": "Üç",
+      "translated": "Üç",
+      "pronunciation": "Üç"
+    },
+    {
+      "original": "Dört",
+      "translated": "Dört",
+      "pronunciation": "Dört"
+    },
+    {
+      "original": "Bäş",
+      "translated": "Beş",
+      "pronunciation": "Beş"
+    },
+    {
+      "original": "Alty",
+      "translated": "Altı",
+      "pronunciation": "Altı"
+    },
+    {
+      "original": "Ýedi",
+      "translated": "Yedi",
+      "pronunciation": "Yedi"
+    },
+    {
+      "original": "Sekiz",
+      "translated": "Sekiz",
+      "pronunciation": "Sekiz"
+    },
+    {
+      "original": "Dokuz",
+      "translated": "Dokuz",
+      "pronunciation": "Dokuz"
+    },
+    {
+      "original": "On",
+      "translated": "On",
+      "pronunciation": "On"
+    }
+  ]
+}

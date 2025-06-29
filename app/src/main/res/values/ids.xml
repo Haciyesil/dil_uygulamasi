@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="wordTextView" type="id" />
+    <item name="option1Button" type="id" />
+    <item name="option2Button" type="id" />
+    <item name="option3Button" type="id" />
+    <item name="option4Button" type="id" />
+    <item name="nextButton" type="id" />
+    <item name="previousButton" type="id" />
+    <item name="progressTextView" type="id" />
+</resources>

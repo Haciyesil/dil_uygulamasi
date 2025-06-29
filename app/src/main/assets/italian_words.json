@@ -1,0 +1,2537 @@
+{
+  "level1": [
+    {
+      "word": "io",
+      "translation": "ben",
+      "options": ["sen", "ben", "o", "biz"]
+    },
+    {
+      "word": "tu",
+      "translation": "sen",
+      "options": ["ben", "o", "sen", "onlar"]
+    },
+    {
+      "word": "lui",
+      "translation": "o (erkek)",
+      "options": ["ben", "sen", "o (kadın)", "o (erkek)"]
+    },
+    {
+      "word": "lei",
+      "translation": "o (kadın)",
+      "options": ["o (kadın)", "o (erkek)", "ben", "onlar"]
+    },
+    {
+      "word": "noi",
+      "translation": "biz",
+      "options": ["siz", "ben", "biz", "onlar"]
+    },
+    {
+      "word": "voi",
+      "translation": "siz",
+      "options": ["biz", "siz", "onlar", "sen"]
+    },
+    {
+      "word": "loro",
+      "translation": "onlar",
+      "options": ["biz", "onlar", "siz", "sen"]
+    },
+    {
+      "word": "essere",
+      "translation": "olmak",
+      "options": ["yapmak", "gitmek", "olmak", "gelmek"]
+    },
+    {
+      "word": "stare",
+      "translation": "bulunmak",
+      "options": ["olmak", "bulunmak", "yapmak", "vermek"]
+    },
+    {
+      "word": "avere",
+      "translation": "sahip olmak",
+      "options": ["olmak", "sahip olmak", "yapmak", "vermek"]
+    },
+    {
+      "word": "fare",
+      "translation": "yapmak",
+      "options": ["olmak", "gitmek", "almak", "yapmak"]
+    },
+    {
+      "word": "andare",
+      "translation": "gitmek",
+      "options": ["gelmek", "yapmak", "gitmek", "olmak"]
+    },
+    {
+      "word": "venire",
+      "translation": "gelmek",
+      "options": ["gitmek", "yapmak", "vermek", "gelmek"]
+    },
+    {
+      "word": "dire",
+      "translation": "söylemek",
+      "options": ["yapmak", "söylemek", "görmek", "duymak"]
+    },
+    {
+      "word": "vedere",
+      "translation": "görmek",
+      "options": ["duymak", "söylemek", "görmek", "bilmek"]
+    },
+    {
+      "word": "sapere",
+      "translation": "bilmek",
+      "options": ["görmek", "duymak", "söylemek", "bilmek"]
+    },
+    {
+      "word": "potere",
+      "translation": "yapabilmek",
+      "options": ["bilmek", "yapabilmek", "görmek", "söylemek"]
+    },
+    {
+      "word": "volere",
+      "translation": "istemek",
+      "options": ["yapabilmek", "bilmek", "istemek", "görmek"]
+    },
+    {
+      "word": "dovere",
+      "translation": "zorunda olmak",
+      "options": ["istemek", "yapabilmek", "bilmek", "zorunda olmak"]
+    },
+    {
+      "word": "prendere",
+      "translation": "almak",
+      "options": ["vermek", "almak", "yapmak", "görmek"]
+    },
+    {
+      "word": "dare",
+      "translation": "vermek",
+      "options": ["almak", "yapmak", "gelmek", "vermek"]
+    },
+    {
+      "word": "mettere",
+      "translation": "koymak",
+      "options": ["koymak", "almak", "vermek", "yapmak"]
+    },
+    {
+      "word": "passare",
+      "translation": "geçmek",
+      "options": ["gelmek", "gitmek", "geçmek", "kalmak"]
+    },
+    {
+      "word": "partire",
+      "translation": "ayrılmak",
+      "options": ["gelmek", "kalmak", "ayrılmak", "geçmek"]
+    },
+    {
+      "word": "rimanere",
+      "translation": "kalmak",
+      "options": ["gitmek", "gelmek", "ayrılmak", "kalmak"]
+    }
+  ],
+  "level2": [
+    {
+      "word": "uno",
+      "translation": "bir",
+      "options": ["iki", "üç", "bir", "dört"]
+    },
+    {
+      "word": "due",
+      "translation": "iki",
+      "options": ["bir", "üç", "iki", "dört"]
+    },
+    {
+      "word": "tre",
+      "translation": "üç",
+      "options": ["iki", "üç", "dört", "beş"]
+    },
+    {
+      "word": "quattro",
+      "translation": "dört",
+      "options": ["üç", "beş", "altı", "dört"]
+    },
+    {
+      "word": "cinque",
+      "translation": "beş",
+      "options": ["dört", "altı", "beş", "yedi"]
+    },
+    {
+      "word": "sei",
+      "translation": "altı",
+      "options": ["beş", "yedi", "sekiz", "altı"]
+    },
+    {
+      "word": "sette",
+      "translation": "yedi",
+      "options": ["altı", "yedi", "sekiz", "dokuz"]
+    },
+    {
+      "word": "otto",
+      "translation": "sekiz",
+      "options": ["yedi", "dokuz", "on", "sekiz"]
+    },
+    {
+      "word": "nove",
+      "translation": "dokuz",
+      "options": ["sekiz", "on", "yedi", "dokuz"]
+    },
+    {
+      "word": "dieci",
+      "translation": "on",
+      "options": ["dokuz", "sekiz", "on", "yedi"]
+    },
+    {
+      "word": "venti",
+      "translation": "yirmi",
+      "options": ["on", "yirmi", "otuz", "kırk"]
+    },
+    {
+      "word": "trenta",
+      "translation": "otuz",
+      "options": ["yirmi", "kırk", "elli", "otuz"]
+    },
+    {
+      "word": "cento",
+      "translation": "yüz",
+      "options": ["bin", "on", "yüz", "elli"]
+    },
+    {
+      "word": "mille",
+      "translation": "bin",
+      "options": ["yüz", "bin", "on bin", "milyon"]
+    },
+    {
+      "word": "primo",
+      "translation": "birinci",
+      "options": ["ikinci", "birinci", "üçüncü", "sonuncu"]
+    },
+    {
+      "word": "ultimo",
+      "translation": "sonuncu",
+      "options": ["birinci", "ikinci", "sonuncu", "üçüncü"]
+    },
+    {
+      "word": "tempo",
+      "translation": "zaman",
+      "options": ["saat", "gün", "zaman", "yıl"]
+    },
+    {
+      "word": "giorno",
+      "translation": "gün",
+      "options": ["gece", "saat", "gün", "hafta"]
+    },
+    {
+      "word": "notte",
+      "translation": "gece",
+      "options": ["gün", "sabah", "gece", "akşam"]
+    },
+    {
+      "word": "mattina",
+      "translation": "sabah",
+      "options": ["akşam", "öğle", "gece", "sabah"]
+    },
+    {
+      "word": "sera",
+      "translation": "akşam",
+      "options": ["sabah", "öğle", "akşam", "gece"]
+    },
+    {
+      "word": "ora",
+      "translation": "saat",
+      "options": ["dakika", "saat", "saniye", "zaman"]
+    },
+    {
+      "word": "anno",
+      "translation": "yıl",
+      "options": ["ay", "hafta", "gün", "yıl"]
+    },
+    {
+      "word": "mese",
+      "translation": "ay",
+      "options": ["yıl", "ay", "hafta", "gün"]
+    },
+    {
+      "word": "settimana",
+      "translation": "hafta",
+      "options": ["ay", "yıl", "hafta", "gün"]
+    }
+  ],
+  "level3": [
+    {
+      "word": "lunedì",
+      "translation": "pazartesi",
+      "options": ["salı", "çarşamba", "pazartesi", "perşembe"]
+    },
+    {
+      "word": "martedì",
+      "translation": "salı",
+      "options": ["pazartesi", "çarşamba", "cuma", "salı"]
+    },
+    {
+      "word": "mercoledì",
+      "translation": "çarşamba",
+      "options": ["salı", "çarşamba", "perşembe", "cumartesi"]
+    },
+    {
+      "word": "giovedì",
+      "translation": "perşembe",
+      "options": ["çarşamba", "cuma", "pazar", "perşembe"]
+    },
+    {
+      "word": "venerdì",
+      "translation": "cuma",
+      "options": ["perşembe", "cumartesi", "cuma", "pazartesi"]
+    },
+    {
+      "word": "sabato",
+      "translation": "cumartesi",
+      "options": ["cuma", "pazar", "cumartesi", "salı"]
+    },
+    {
+      "word": "domenica",
+      "translation": "pazar",
+      "options": ["cumartesi", "pazartesi", "çarşamba", "pazar"]
+    },
+    {
+      "word": "gennaio",
+      "translation": "ocak",
+      "options": ["şubat", "mart", "ocak", "nisan"]
+    },
+    {
+      "word": "febbraio",
+      "translation": "şubat",
+      "options": ["ocak", "şubat", "mart", "mayıs"]
+    },
+    {
+      "word": "marzo",
+      "translation": "mart",
+      "options": ["şubat", "nisan", "mart", "haziran"]
+    },
+    {
+      "word": "aprile",
+      "translation": "nisan",
+      "options": ["mart", "mayıs", "temmuz", "nisan"]
+    },
+    {
+      "word": "maggio",
+      "translation": "mayıs",
+      "options": ["nisan", "haziran", "mayıs", "ağustos"]
+    },
+    {
+      "word": "giugno",
+      "translation": "haziran",
+      "options": ["mayıs", "temmuz", "eylül", "haziran"]
+    },
+    {
+      "word": "luglio",
+      "translation": "temmuz",
+      "options": ["haziran", "ağustos", "temmuz", "ekim"]
+    },
+    {
+      "word": "agosto",
+      "translation": "ağustos",
+      "options": ["temmuz", "eylül", "kasım", "ağustos"]
+    },
+    {
+      "word": "settembre",
+      "translation": "eylül",
+      "options": ["ağustos", "ekim", "eylül", "aralık"]
+    },
+    {
+      "word": "ottobre",
+      "translation": "ekim",
+      "options": ["eylül", "kasım", "ocak", "ekim"]
+    },
+    {
+      "word": "novembre",
+      "translation": "kasım",
+      "options": ["ekim", "aralık", "kasım", "şubat"]
+    },
+    {
+      "word": "dicembre",
+      "translation": "aralık",
+      "options": ["kasım", "ocak", "mart", "aralık"]
+    },
+    {
+      "word": "primavera",
+      "translation": "ilkbahar",
+      "options": ["yaz", "sonbahar", "ilkbahar", "kış"]
+    },
+    {
+      "word": "estate",
+      "translation": "yaz",
+      "options": ["ilkbahar", "yaz", "sonbahar", "kış"]
+    },
+    {
+      "word": "autunno",
+      "translation": "sonbahar",
+      "options": ["yaz", "kış", "sonbahar", "ilkbahar"]
+    },
+    {
+      "word": "inverno",
+      "translation": "kış",
+      "options": ["sonbahar", "ilkbahar", "yaz", "kış"]
+    },
+    {
+      "word": "oggi",
+      "translation": "bugün",
+      "options": ["dün", "yarın", "şimdi", "bugün"]
+    },
+    {
+      "word": "ieri",
+      "translation": "dün",
+      "options": ["bugün", "dün", "yarın", "geçen hafta"]
+    }
+  ],
+  "level4": [
+    {
+      "word": "domani",
+      "translation": "yarın",
+      "options": ["bugün", "dün", "yarın", "gelecek hafta"]
+    },
+    {
+      "word": "adesso",
+      "translation": "şimdi",
+      "options": ["sonra", "önce", "şimdi", "daha sonra"]
+    },
+    {
+      "word": "presto",
+      "translation": "yakında",
+      "options": ["şimdi", "geç", "erken", "yakında"]
+    },
+    {
+      "word": "presto",
+      "translation": "erken",
+      "options": ["geç", "şimdi", "erken", "sonra"]
+    },
+    {
+      "word": "tardi",
+      "translation": "geç",
+      "options": ["erken", "şimdi", "yakında", "geç"]
+    },
+    {
+      "word": "sole",
+      "translation": "güneş",
+      "options": ["ay", "yıldız", "güneş", "gökyüzü"]
+    },
+    {
+      "word": "luna",
+      "translation": "ay",
+      "options": ["güneş", "yıldız", "bulut", "ay"]
+    },
+    {
+      "word": "stella",
+      "translation": "yıldız",
+      "options": ["güneş", "ay", "yıldız", "gökyüzü"]
+    },
+    {
+      "word": "cielo",
+      "translation": "gökyüzü",
+      "options": ["güneş", "bulut", "gökyüzü", "yağmur"]
+    },
+    {
+      "word": "nuvola",
+      "translation": "bulut",
+      "options": ["gökyüzü", "yağmur", "kar", "bulut"]
+    },
+    {
+      "word": "pioggia",
+      "translation": "yağmur",
+      "options": ["kar", "güneş", "yağmur", "bulut"]
+    },
+    {
+      "word": "neve",
+      "translation": "kar",
+      "options": ["yağmur", "güneş", "rüzgar", "kar"]
+    },
+    {
+      "word": "vento",
+      "translation": "rüzgar",
+      "options": ["kar", "yağmur", "rüzgar", "güneş"]
+    },
+    {
+      "word": "caldo",
+      "translation": "sıcak",
+      "options": ["soğuk", "ılık", "sıcak", "serin"]
+    },
+    {
+      "word": "freddo",
+      "translation": "soğuk",
+      "options": ["sıcak", "ılık", "serin", "soğuk"]
+    },
+    {
+      "word": "rosso",
+      "translation": "kırmızı",
+      "options": ["mavi", "yeşil", "kırmızı", "sarı"]
+    },
+    {
+      "word": "blu",
+      "translation": "mavi",
+      "options": ["kırmızı", "yeşil", "siyah", "mavi"]
+    },
+    {
+      "word": "verde",
+      "translation": "yeşil",
+      "options": ["mavi", "sarı", "yeşil", "beyaz"]
+    },
+    {
+      "word": "giallo",
+      "translation": "sarı",
+      "options": ["yeşil", "kırmızı", "mor", "sarı"]
+    },
+    {
+      "word": "bianco",
+      "translation": "beyaz",
+      "options": ["siyah", "gri", "beyaz", "mavi"]
+    },
+    {
+      "word": "nero",
+      "translation": "siyah",
+      "options": ["beyaz", "gri", "siyah", "kahverengi"]
+    },
+    {
+      "word": "grigio",
+      "translation": "gri",
+      "options": ["siyah", "beyaz", "gri", "mavi"]
+    },
+    {
+      "word": "marrone",
+      "translation": "kahverengi",
+      "options": ["siyah", "gri", "yeşil", "kahverengi"]
+    },
+    {
+      "word": "rosa",
+      "translation": "pembe",
+      "options": ["kırmızı", "pembe", "mor", "beyaz"]
+    },
+    {
+      "word": "viola",
+      "translation": "mor",
+      "options": ["pembe", "mavi", "mor", "kırmızı"]
+    }
+  ],
+  "level5": [
+    {
+      "word": "famiglia",
+      "translation": "aile",
+      "options": ["arkadaş", "komşu", "aile", "misafir"]
+    },
+    {
+      "word": "padre",
+      "translation": "baba",
+      "options": ["anne", "kardeş", "baba", "dede"]
+    },
+    {
+      "word": "madre",
+      "translation": "anne",
+      "options": ["baba", "teyze", "nine", "anne"]
+    },
+    {
+      "word": "genitori",
+      "translation": "ebeveynler",
+      "options": ["kardeşler", "çocuklar", "ebeveynler", "akrabalar"]
+    },
+    {
+      "word": "figlio",
+      "translation": "oğul",
+      "options": ["kız", "oğul", "kardeş", "kuzen"]
+    },
+    {
+      "word": "figlia",
+      "translation": "kız",
+      "options": ["oğul", "anne", "kız", "kardeş"]
+    },
+    {
+      "word": "bambino",
+      "translation": "çocuk",
+      "options": ["yetişkin", "bebek", "genç", "çocuk"]
+    },
+    {
+      "word": "bebè",
+      "translation": "bebek",
+      "options": ["çocuk", "yetişkin", "bebek", "genç"]
+    },
+    {
+      "word": "fratello",
+      "translation": "erkek kardeş",
+      "options": ["kız kardeş", "kuzen", "erkek kardeş", "amca"]
+    },
+    {
+      "word": "sorella",
+      "translation": "kız kardeş",
+      "options": ["erkek kardeş", "teyze", "kuzen", "kız kardeş"]
+    },
+    {
+      "word": "marito",
+      "translation": "koca",
+      "options": ["eş", "koca", "erkek arkadaş", "nişanlı"]
+    },
+    {
+      "word": "moglie",
+      "translation": "eş (kadın)",
+      "options": ["koca", "kız arkadaş", "eş (kadın)", "nişanlı"]
+    },
+    {
+      "word": "nonno",
+      "translation": "büyükbaba",
+      "options": ["büyükanne", "amca", "büyükbaba", "dayı"]
+    },
+    {
+      "word": "nonna",
+      "translation": "büyükanne",
+      "options": ["büyükbaba", "teyze", "hala", "büyükanne"]
+    },
+    {
+      "word": "zio",
+      "translation": "amca",
+      "options": ["dayı", "teyze", "amca", "hala"]
+    },
+    {
+      "word": "zia",
+      "translation": "teyze",
+      "options": ["hala", "amca", "dayı", "teyze"]
+    },
+    {
+      "word": "cugino",
+      "translation": "kuzen",
+      "options": ["kardeş", "arkadaş", "kuzen", "komşu"]
+    },
+    {
+      "word": "amico",
+      "translation": "arkadaş",
+      "options": ["düşman", "komşu", "yabancı", "arkadaş"]
+    },
+    {
+      "word": "persona",
+      "translation": "kişi",
+      "options": ["hayvan", "kişi", "nesne", "bitki"]
+    },
+    {
+      "word": "uomo",
+      "translation": "adam",
+      "options": ["kadın", "çocuk", "adam", "yaşlı"]
+    },
+    {
+      "word": "donna",
+      "translation": "kadın",
+      "options": ["adam", "kız", "yaşlı", "kadın"]
+    },
+    {
+      "word": "ragazzo",
+      "translation": "erkek çocuk",
+      "options": ["kız çocuk", "adam", "erkek çocuk", "yaşlı"]
+    },
+    {
+      "word": "ragazza",
+      "translation": "kız çocuk",
+      "options": ["erkek çocuk", "kadın", "kız çocuk", "yaşlı"]
+    },
+    {
+      "word": "nome",
+      "translation": "isim",
+      "options": ["soyisim", "lakap", "isim", "unvan"]
+    },
+    {
+      "word": "età",
+      "translation": "yaş",
+      "options": ["boy", "kilo", "yaş", "isim"]
+    }
+  ],
+  "level6": [
+    {
+      "word": "casa",
+      "translation": "ev",
+      "options": ["okul", "hastane", "ev", "market"]
+    },
+    {
+      "word": "camera",
+      "translation": "oda",
+      "options": ["salon", "mutfak", "banyo", "oda"]
+    },
+    {
+      "word": "cucina",
+      "translation": "mutfak",
+      "options": ["salon", "yatak odası", "mutfak", "banyo"]
+    },
+    {
+      "word": "salotto",
+      "translation": "salon",
+      "options": ["mutfak", "yatak odası", "salon", "banyo"]
+    },
+    {
+      "word": "bagno",
+      "translation": "banyo",
+      "options": ["mutfak", "salon", "yatak odası", "banyo"]
+    },
+    {
+      "word": "giardino",
+      "translation": "bahçe",
+      "options": ["park", "orman", "bahçe", "tarla"]
+    },
+    {
+      "word": "porta",
+      "translation": "kapı",
+      "options": ["pencere", "duvar", "kapı", "çatı"]
+    },
+    {
+      "word": "finestra",
+      "translation": "pencere",
+      "options": ["kapı", "duvar", "çatı", "pencere"]
+    },
+    {
+      "word": "muro",
+      "translation": "duvar",
+      "options": ["kapı", "pencere", "duvar", "çatı"]
+    },
+    {
+      "word": "tetto",
+      "translation": "çatı",
+      "options": ["duvar", "kapı", "çatı", "pencere"]
+    },
+    {
+      "word": "tavolo",
+      "translation": "masa",
+      "options": ["sandalye", "yatak", "masa", "dolap"]
+    },
+    {
+      "word": "sedia",
+      "translation": "sandalye",
+      "options": ["masa", "yatak", "sandalye", "dolap"]
+    },
+    {
+      "word": "letto",
+      "translation": "yatak",
+      "options": ["sandalye", "masa", "dolap", "yatak"]
+    },
+    {
+      "word": "armadio",
+      "translation": "dolap",
+      "options": ["yatak", "masa", "dolap", "sandalye"]
+    },
+    {
+      "word": "specchio",
+      "translation": "ayna",
+      "options": ["resim", "lamba", "ayna", "saat"]
+    },
+    {
+      "word": "immagine",
+      "translation": "resim",
+      "options": ["ayna", "lamba", "resim", "saat"]
+    },
+    {
+      "word": "lampada",
+      "translation": "lamba",
+      "options": ["resim", "ayna", "saat", "lamba"]
+    },
+    {
+      "word": "orologio",
+      "translation": "saat",
+      "options": ["lamba", "resim", "saat", "ayna"]
+    },
+    {
+      "word": "televisione",
+      "translation": "televizyon",
+      "options": ["radyo", "bilgisayar", "televizyon", "telefon"]
+    },
+    {
+      "word": "computer",
+      "translation": "bilgisayar",
+      "options": ["televizyon", "radyo", "telefon", "bilgisayar"]
+    },
+    {
+      "word": "telefono",
+      "translation": "telefon",
+      "options": ["bilgisayar", "televizyon", "telefon", "radyo"]
+    },
+    {
+      "word": "libro",
+      "translation": "kitap",
+      "options": ["gazete", "dergi", "kitap", "mektup"]
+    },
+    {
+      "word": "giornale",
+      "translation": "gazete",
+      "options": ["kitap", "dergi", "gazete", "mektup"]
+    },
+    {
+      "word": "lettera",
+      "translation": "mektup",
+      "options": ["gazete", "kitap", "mektup", "dergi"]
+    },
+    {
+      "word": "chiave",
+      "translation": "anahtar",
+      "options": ["kilit", "kapı", "anahtar", "pencere"]
+    }
+  ],
+  "level7": [
+    {
+      "word": "cibo",
+      "translation": "yiyecek",
+      "options": ["içecek", "su", "yiyecek", "ekmek"]
+    },
+    {
+      "word": "acqua",
+      "translation": "su",
+      "options": ["süt", "çay", "su", "kahve"]
+    },
+    {
+      "word": "pane",
+      "translation": "ekmek",
+      "options": ["peynir", "et", "ekmek", "balık"]
+    },
+    {
+      "word": "latte",
+      "translation": "süt",
+      "options": ["su", "çay", "süt", "kahve"]
+    },
+    {
+      "word": "caffè",
+      "translation": "kahve",
+      "options": ["çay", "süt", "kahve", "su"]
+    },
+    {
+      "word": "tè",
+      "translation": "çay",
+      "options": ["kahve", "süt", "su", "çay"]
+    },
+    {
+      "word": "carne",
+      "translation": "et",
+      "options": ["balık", "tavuk", "et", "peynir"]
+    },
+    {
+      "word": "pesce",
+      "translation": "balık",
+      "options": ["et", "tavuk", "balık", "peynir"]
+    },
+    {
+      "word": "pollo",
+      "translation": "tavuk",
+      "options": ["balık", "et", "peynir", "tavuk"]
+    },
+    {
+      "word": "formaggio",
+      "translation": "peynir",
+      "options": ["tavuk", "et", "peynir", "balık"]
+    },
+    {
+      "word": "uovo",
+      "translation": "yumurta",
+      "options": ["peynir", "tereyağı", "yumurta", "yogurt"]
+    },
+    {
+      "word": "burro",
+      "translation": "tereyağı",
+      "options": ["yumurta", "peynir", "tereyağı", "yogurt"]
+    },
+    {
+      "word": "zucchero",
+      "translation": "şeker",
+      "options": ["tuz", "baharat", "şeker", "sirke"]
+    },
+    {
+      "word": "sale",
+      "translation": "tuz",
+      "options": ["şeker", "baharat", "tuz", "sirke"]
+    },
+    {
+      "word": "riso",
+      "translation": "pirinç",
+      "options": ["makarna", "patates", "pirinç", "soğan"]
+    },
+    {
+      "word": "patata",
+      "translation": "patates",
+      "options": ["pirinç", "makarna", "patates", "soğan"]
+    },
+    {
+      "word": "cipolla",
+      "translation": "soğan",
+      "options": ["patates", "pirinç", "soğan", "makarna"]
+    },
+    {
+      "word": "pomodoro",
+      "translation": "domates",
+      "options": ["soğan", "havuç", "domates", "salatalık"]
+    },
+    {
+      "word": "carota",
+      "translation": "havuç",
+      "options": ["domates", "soğan", "havuç", "salatalık"]
+    },
+    {
+      "word": "insalata",
+      "translation": "salata",
+      "options": ["havuç", "domates", "salatalık", "salata"]
+    },
+    {
+      "word": "mela",
+      "translation": "elma",
+      "options": ["armut", "muz", "elma", "üzüm"]
+    },
+    {
+      "word": "banana",
+      "translation": "muz",
+      "options": ["elma", "armut", "muz", "üzüm"]
+    },
+    {
+      "word": "arancia",
+      "translation": "portakal",
+      "options": ["muz", "elma", "üzüm", "portakal"]
+    },
+    {
+      "word": "uva",
+      "translation": "üzüm",
+      "options": ["portakal", "elma", "üzüm", "muz"]
+    },
+    {
+      "word": "ristorante",
+      "translation": "restoran",
+      "options": ["kafe", "bar", "restoran", "otel"]
+    }
+  ],
+  "level8": [
+    {
+      "word": "vestiti",
+      "translation": "kıyafet",
+      "options": ["ayakkabı", "şapka", "kıyafet", "çanta"]
+    },
+    {
+      "word": "camicia",
+      "translation": "gömlek",
+      "options": ["pantolon", "etek", "gömlek", "ceket"]
+    },
+    {
+      "word": "pantaloni",
+      "translation": "pantolon",
+      "options": ["gömlek", "etek", "pantolon", "ceket"]
+    },
+    {
+      "word": "vestito",
+      "translation": "elbise",
+      "options": ["pantolon", "gömlek", "ceket", "elbise"]
+    },
+    {
+      "word": "gonna",
+      "translation": "etek",
+      "options": ["elbise", "pantolon", "etek", "gömlek"]
+    },
+    {
+      "word": "giacca",
+      "translation": "ceket",
+      "options": ["etek", "gömlek", "ceket", "pantolon"]
+    },
+    {
+      "word": "cappotto",
+      "translation": "palto",
+      "options": ["ceket", "şapka", "palto", "eldiven"]
+    },
+    {
+      "word": "cappello",
+      "translation": "şapka",
+      "options": ["palto", "eldiven", "şapka", "ayakkabı"]
+    },
+    {
+      "word": "scarpa",
+      "translation": "ayakkabı",
+      "options": ["şapka", "çorap", "ayakkabı", "eldiven"]
+    },
+    {
+      "word": "calzino",
+      "translation": "çorap",
+      "options": ["ayakkabı", "şapka", "çorap", "eldiven"]
+    },
+    {
+      "word": "guanto",
+      "translation": "eldiven",
+      "options": ["çorap", "şapka", "eldiven", "ayakkabı"]
+    },
+    {
+      "word": "corpo",
+      "translation": "vücut",
+      "options": ["baş", "el", "vücut", "ayak"]
+    },
+    {
+      "word": "testa",
+      "translation": "baş",
+      "options": ["vücut", "el", "baş", "ayak"]
+    },
+    {
+      "word": "faccia",
+      "translation": "yüz",
+      "options": ["baş", "göz", "yüz", "kulak"]
+    },
+    {
+      "word": "occhio",
+      "translation": "göz",
+      "options": ["yüz", "kulak", "göz", "burun"]
+    },
+    {
+      "word": "orecchio",
+      "translation": "kulak",
+      "options": ["göz", "burun", "ağız", "kulak"]
+    },
+    {
+      "word": "naso",
+      "translation": "burun",
+      "options": ["kulak", "göz", "burun", "ağız"]
+    },
+    {
+      "word": "bocca",
+      "translation": "ağız",
+      "options": ["burun", "kulak", "ağız", "göz"]
+    },
+    {
+      "word": "dente",
+      "translation": "diş",
+      "options": ["ağız", "dil", "diş", "dudak"]
+    },
+    {
+      "word": "capelli",
+      "translation": "saç",
+      "options": ["diş", "dil", "saç", "dudak"]
+    },
+    {
+      "word": "mano",
+      "translation": "el",
+      "options": ["saç", "kol", "el", "parmak"]
+    },
+    {
+      "word": "braccio",
+      "translation": "kol",
+      "options": ["el", "parmak", "kol", "bacak"]
+    },
+    {
+      "word": "dito",
+      "translation": "parmak",
+      "options": ["kol", "el", "parmak", "bacak"]
+    },
+    {
+      "word": "gamba",
+      "translation": "bacak",
+      "options": ["parmak", "el", "bacak", "ayak"]
+    },
+    {
+      "word": "piede",
+      "translation": "ayak",
+      "options": ["bacak", "parmak", "ayak", "kol"]
+    }
+  ],
+  "level9": [
+    {
+      "word": "cuore",
+      "translation": "kalp",
+      "options": ["akciğer", "karaciğer", "kalp", "böbrek"]
+    },
+    {
+      "word": "sangue",
+      "translation": "kan",
+      "options": ["kalp", "nefes", "kan", "kemik"]
+    },
+    {
+      "word": "osso",
+      "translation": "kemik",
+      "options": ["kan", "kalp", "kemik", "deri"]
+    },
+    {
+      "word": "pelle",
+      "translation": "deri",
+      "options": ["kemik", "kan", "deri", "kas"]
+    },
+    {
+      "word": "salute",
+      "translation": "sağlık",
+      "options": ["hastalık", "doktor", "sağlık", "hastane"]
+    },
+    {
+      "word": "malattia",
+      "translation": "hastalık",
+      "options": ["sağlık", "doktor", "hastalık", "ilaç"]
+    },
+    {
+      "word": "medico",
+      "translation": "doktor",
+      "options": ["hemşire", "hasta", "doktor", "ilaç"]
+    },
+    {
+      "word": "ospedale",
+      "translation": "hastane",
+      "options": ["doktor", "eczane", "hastane", "klinik"]
+    },
+    {
+      "word": "medicina",
+      "translation": "ilaç",
+      "options": ["hastane", "doktor", "ilaç", "hasta"]
+    },
+    {
+      "word": "sport",
+      "translation": "spor",
+      "options": ["oyun", "müzik", "spor", "film"]
+    },
+    {
+      "word": "calcio",
+      "translation": "futbol",
+      "options": ["basketbol", "voleybol", "futbol", "tenis"]
+    },
+    {
+      "word": "pallacanestro",
+      "translation": "basketbol",
+      "options": ["futbol", "voleybol", "basketbol", "tenis"]
+    },
+    {
+      "word": "tennis",
+      "translation": "tenis",
+      "options": ["basketbol", "futbol", "tenis", "voleybol"]
+    },
+    {
+      "word": "nuoto",
+      "translation": "yüzme",
+      "options": ["koşma", "yürüme", "yüzme", "bisiklet"]
+    },
+    {
+      "word": "corsa",
+      "translation": "koşma",
+      "options": ["yüzme", "yürüme", "koşma", "bisiklet"]
+    },
+    {
+      "word": "camminata",
+      "translation": "yürüme",
+      "options": ["koşma", "yüzme", "yürüme", "bisiklet"]
+    },
+    {
+      "word": "ballo",
+      "translation": "dans",
+      "options": ["müzik", "şarkı", "dans", "oyun"]
+    },
+    {
+      "word": "musica",
+      "translation": "müzik",
+      "options": ["dans", "şarkı", "müzik", "oyun"]
+    },
+    {
+      "word": "canzone",
+      "translation": "şarkı",
+      "options": ["müzik", "dans", "şarkı", "oyun"]
+    },
+    {
+      "word": "gioco",
+      "translation": "oyun",
+      "options": ["şarkı", "müzik", "oyun", "dans"]
+    },
+    {
+      "word": "vincere",
+      "translation": "kazanmak",
+      "options": ["kaybetmek", "oynamak", "kazanmak", "yarışmak"]
+    },
+    {
+      "word": "perdere",
+      "translation": "kaybetmek",
+      "options": ["kazanmak", "oynamak", "kaybetmek", "yarışmak"]
+    },
+    {
+      "word": "viaggio",
+      "translation": "seyahat",
+      "options": ["tatil", "iş", "seyahat", "okul"]
+    },
+    {
+      "word": "vacanze",
+      "translation": "tatil",
+      "options": ["seyahat", "iş", "tatil", "okul"]
+    },
+    {
+      "word": "lavoro",
+      "translation": "iş",
+      "options": ["tatil", "seyahat", "iş", "okul"]
+    }
+  ],
+  "level10": [
+    {
+      "word": "città",
+      "translation": "şehir",
+      "options": ["köy", "ülke", "şehir", "bölge"]
+    },
+    {
+      "word": "paese",
+      "translation": "ülke",
+      "options": ["şehir", "köy", "ülke", "bölge"]
+    },
+    {
+      "word": "villaggio",
+      "translation": "köy",
+      "options": ["ülke", "şehir", "köy", "bölge"]
+    },
+    {
+      "word": "strada",
+      "translation": "sokak",
+      "options": ["cadde", "yol", "sokak", "meydan"]
+    },
+    {
+      "word": "via",
+      "translation": "yol",
+      "options": ["sokak", "cadde", "yol", "meydan"]
+    },
+    {
+      "word": "viale",
+      "translation": "cadde",
+      "options": ["yol", "sokak", "cadde", "meydan"]
+    },
+    {
+      "word": "piazza",
+      "translation": "meydan",
+      "options": ["cadde", "sokak", "meydan", "yol"]
+    },
+    {
+      "word": "ponte",
+      "translation": "köprü",
+      "options": ["tünel", "bina", "köprü", "park"]
+    },
+    {
+      "word": "parco",
+      "translation": "park",
+      "options": ["köprü", "bina", "park", "bahçe"]
+    },
+    {
+      "word": "edificio",
+      "translation": "bina",
+      "options": ["park", "köprü", "bina", "ev"]
+    },
+    {
+      "word": "scuola",
+      "translation": "okul",
+      "options": ["hastane", "müze", "okul", "kütüphane"]
+    },
+    {
+      "word": "università",
+      "translation": "üniversite",
+      "options": ["okul", "hastane", "üniversite", "müze"]
+    },
+    {
+      "word": "biblioteca",
+      "translation": "kütüphane",
+      "options": ["üniversite", "okul", "kütüphane", "müze"]
+    },
+    {
+      "word": "museo",
+      "translation": "müze",
+      "options": ["kütüphane", "üniversite", "müze", "tiyatro"]
+    },
+    {
+      "word": "teatro",
+      "translation": "tiyatro",
+      "options": ["müze", "sinema", "tiyatro", "konser"]
+    },
+    {
+      "word": "cinema",
+      "translation": "sinema",
+      "options": ["tiyatro", "müze", "sinema", "konser"]
+    },
+    {
+      "word": "negozio",
+      "translation": "mağaza",
+      "options": ["market", "eczane", "mağaza", "bank"]
+    },
+    {
+      "word": "mercato",
+      "translation": "pazar",
+      "options": ["mağaza", "market", "pazar", "eczane"]
+    },
+    {
+      "word": "banca",
+      "translation": "banka",
+      "options": ["pazar", "mağaza", "banka", "postane"]
+    },
+    {
+      "word": "posta",
+      "translation": "postane",
+      "options": ["banka", "pazar", "postane", "eczane"]
+    },
+    {
+      "word": "farmacia",
+      "translation": "eczane",
+      "options": ["postane", "banka", "eczane", "market"]
+    },
+    {
+      "word": "macchina",
+      "translation": "araba",
+      "options": ["otobüs", "tren", "araba", "uçak"]
+    },
+    {
+      "word": "autobus",
+      "translation": "otobüs",
+      "options": ["araba", "tren", "otobüs", "uçak"]
+    },
+    {
+      "word": "treno",
+      "translation": "tren",
+      "options": ["otobüs", "araba", "tren", "uçak"]
+    },
+    {
+      "word": "aereo",
+      "translation": "uçak",
+      "options": ["tren", "araba", "uçak", "gemi"]
+    }
+  ],
+  "level11": [
+    {
+      "word": "nave",
+      "translation": "gemi",
+      "options": ["uçak", "tren", "gemi", "bisiklet"]
+    },
+    {
+      "word": "bicicletta",
+      "translation": "bisiklet",
+      "options": ["gemi", "uçak", "bisiklet", "motosiklet"]
+    },
+    {
+      "word": "moto",
+      "translation": "motosiklet",
+      "options": ["bisiklet", "gemi", "motosiklet", "araba"]
+    },
+    {
+      "word": "studente",
+      "translation": "öğrenci",
+      "options": ["öğretmen", "doktor", "öğrenci", "mühendis"]
+    },
+    {
+      "word": "professore",
+      "translation": "öğretmen",
+      "options": ["öğrenci", "doktor", "öğretmen", "mühendis"]
+    },
+    {
+      "word": "ingegnere",
+      "translation": "mühendis",
+      "options": ["öğretmen", "öğrenci", "mühendis", "doktor"]
+    },
+    {
+      "word": "avvocato",
+      "translation": "avukat",
+      "options": ["mühendis", "doktor", "avukat", "hemşire"]
+    },
+    {
+      "word": "infermiera",
+      "translation": "hemşire",
+      "options": ["avukat", "mühendis", "hemşire", "öğretmen"]
+    },
+    {
+      "word": "poliziotto",
+      "translation": "polis",
+      "options": ["hemşire", "avukat", "polis", "itfaiyeci"]
+    },
+    {
+      "word": "pompiere",
+      "translation": "itfaiyeci",
+      "options": ["polis", "hemşire", "itfaiyeci", "şoför"]
+    },
+    {
+      "word": "autista",
+      "translation": "şoför",
+      "options": ["itfaiyeci", "polis", "şoför", "aşçı"]
+    },
+    {
+      "word": "cuoco",
+      "translation": "aşçı",
+      "options": ["şoför", "itfaiyeci", "aşçı", "garson"]
+    },
+    {
+      "word": "cameriere",
+      "translation": "garson",
+      "options": ["aşçı", "şoför", "garson", "satıcı"]
+    },
+    {
+      "word": "venditore",
+      "translation": "satıcı",
+      "options": ["garson", "aşçı", "satıcı", "müdür"]
+    },
+    {
+      "word": "direttore",
+      "translation": "müdür",
+      "options": ["satıcı", "garson", "müdür", "sekreter"]
+    },
+    {
+      "word": "segretario",
+      "translation": "sekreter",
+      "options": ["müdür", "satıcı", "sekreter", "muhasebeci"]
+    },
+    {
+      "word": "denaro",
+      "translation": "para",
+      "options": ["altın", "gümüş", "para", "bakır"]
+    },
+    {
+      "word": "prezzo",
+      "translation": "fiyat",
+      "options": ["para", "ücret", "fiyat", "maaş"]
+    },
+    {
+      "word": "comprare",
+      "translation": "satın almak",
+      "options": ["satmak", "vermek", "satın almak", "kiralamak"]
+    },
+    {
+      "word": "vendere",
+      "translation": "satmak",
+      "options": ["satın almak", "vermek", "satmak", "kiralamak"]
+    },
+    {
+      "word": "pagare",
+      "translation": "ödemek",
+      "options": ["satmak", "almak", "ödemek", "borçlanmak"]
+    },
+    {
+      "word": "costare",
+      "translation": "mal olmak",
+      "options": ["ödemek", "almak", "mal olmak", "satmak"]
+    },
+    {
+      "word": "caro",
+      "translation": "pahalı",
+      "options": ["ucuz", "bedava", "pahalı", "değerli"]
+    },
+    {
+      "word": "economico",
+      "translation": "ucuz",
+      "options": ["pahalı", "bedava", "ucuz", "değerli"]
+    },
+    {
+      "word": "gratis",
+      "translation": "ücretsiz",
+      "options": ["ucuz", "pahalı", "ücretsiz", "değerli"]
+    }
+  ],
+  "level12": [
+    {
+      "word": "felice",
+      "translation": "mutlu",
+      "options": ["üzgün", "kızgın", "mutlu", "korkmuş"]
+    },
+    {
+      "word": "triste",
+      "translation": "üzgün",
+      "options": ["mutlu", "kızgın", "üzgün", "korkmuş"]
+    },
+    {
+      "word": "arrabbiato",
+      "translation": "kızgın",
+      "options": ["üzgün", "mutlu", "kızgın", "korkmuş"]
+    },
+    {
+      "word": "paura",
+      "translation": "korku",
+      "options": ["kızgın", "mutlu", "korku", "üzgün"]
+    },
+    {
+      "word": "sorpreso",
+      "translation": "şaşırmış",
+      "options": ["korku", "mutlu", "şaşırmış", "yorgun"]
+    },
+    {
+      "word": "stanco",
+      "translation": "yorgun",
+      "options": ["şaşırmış", "korku", "yorgun", "açık"]
+    },
+    {
+      "word": "affamato",
+      "translation": "aç",
+      "options": ["yorgun", "şaşırmış", "aç", "susuz"]
+    },
+    {
+      "word": "sete",
+      "translation": "susuzluk",
+      "options": ["aç", "yorgun", "susuzluk", "şaşırmış"]
+    },
+    {
+      "word": "grande",
+      "translation": "büyük",
+      "options": ["küçük", "orta", "büyük", "dev"]
+    },
+    {
+      "word": "piccolo",
+      "translation": "küçük",
+      "options": ["büyük", "orta", "küçük", "minik"]
+    },
+    {
+      "word": "grasso",
+      "translation": "şişman",
+      "options": ["küçük", "büyük", "şişman", "zayıf"]
+    },
+    {
+      "word": "magro",
+      "translation": "ince",
+      "options": ["şişman", "kalın", "ince", "geniş"]
+    },
+    {
+      "word": "lungo",
+      "translation": "uzun",
+      "options": ["kısa", "geniş", "uzun", "dar"]
+    },
+    {
+      "word": "corto",
+      "translation": "kısa",
+      "options": ["uzun", "geniş", "kısa", "dar"]
+    },
+    {
+      "word": "alto",
+      "translation": "yüksek",
+      "options": ["kısa", "uzun", "yüksek", "alçak"]
+    },
+    {
+      "word": "basso",
+      "translation": "alçak",
+      "options": ["yüksek", "kısa", "alçak", "uzun"]
+    },
+    {
+      "word": "veloce",
+      "translation": "hızlı",
+      "options": ["yavaş", "orta", "hızlı", "durgun"]
+    },
+    {
+      "word": "lento",
+      "translation": "yavaş",
+      "options": ["hızlı", "orta", "yavaş", "durgun"]
+    },
+    {
+      "word": "facile",
+      "translation": "kolay",
+      "options": ["zor", "orta", "kolay", "karmaşık"]
+    },
+    {
+      "word": "difficile",
+      "translation": "zor",
+      "options": ["kolay", "orta", "zor", "basit"]
+    },
+    {
+      "word": "buono",
+      "translation": "iyi",
+      "options": ["kötü", "orta", "iyi", "berbat"]
+    },
+    {
+      "word": "cattivo",
+      "translation": "kötü",
+      "options": ["iyi", "orta", "kötü", "mükemmel"]
+    },
+    {
+      "word": "bello",
+      "translation": "güzel",
+      "options": ["çirkin", "orta", "güzel", "korkunç"]
+    },
+    {
+      "word": "brutto",
+      "translation": "çirkin",
+      "options": ["güzel", "orta", "çirkin", "harika"]
+    },
+    {
+      "word": "giovane",
+      "translation": "genç",
+      "options": ["yaşlı", "orta yaş", "genç", "bebek"]
+    }
+  ],
+  "level13": [
+    {
+      "word": "vecchio",
+      "translation": "yaşlı",
+      "options": ["genç", "orta yaş", "yaşlı", "bebek"]
+    },
+    {
+      "word": "nuovo",
+      "translation": "yeni",
+      "options": ["eski", "orta", "yeni", "antika"]
+    },
+    {
+      "word": "vecchio",
+      "translation": "eski",
+      "options": ["yeni", "orta", "eski", "modern"]
+    },
+    {
+      "word": "pulito",
+      "translation": "temiz",
+      "options": ["kirli", "orta", "temiz", "pis"]
+    },
+    {
+      "word": "sporco",
+      "translation": "kirli",
+      "options": ["temiz", "orta", "kirli", "parlak"]
+    },
+    {
+      "word": "pieno",
+      "translation": "dolu",
+      "options": ["boş", "yarı", "dolu", "eksik"]
+    },
+    {
+      "word": "vuoto",
+      "translation": "boş",
+      "options": ["dolu", "yarı", "boş", "tam"]
+    },
+    {
+      "word": "aperto",
+      "translation": "açık",
+      "options": ["kapalı", "yarı açık", "açık", "kilitli"]
+    },
+    {
+      "word": "chiuso",
+      "translation": "kapalı",
+      "options": ["açık", "yarı açık", "kapalı", "aralık"]
+    },
+    {
+      "word": "davanti",
+      "translation": "önünde",
+      "options": ["arkasında", "yanında", "önünde", "altında"]
+    },
+    {
+      "word": "dietro",
+      "translation": "arkasında",
+      "options": ["önünde", "yanında", "arkasında", "üstünde"]
+    },
+    {
+      "word": "accanto",
+      "translation": "yanında",
+      "options": ["arkasında", "önünde", "yanında", "uzakta"]
+    },
+    {
+      "word": "vicino",
+      "translation": "yakın",
+      "options": ["uzak", "orta", "yakın", "çok uzak"]
+    },
+    {
+      "word": "lontano",
+      "translation": "uzak",
+      "options": ["yakın", "orta", "uzak", "çok yakın"]
+    },
+    {
+      "word": "qui",
+      "translation": "burada",
+      "options": ["orada", "şurada", "burada", "hiçbir yerde"]
+    },
+    {
+      "word": "lì",
+      "translation": "orada",
+      "options": ["burada", "şurada", "orada", "her yerde"]
+    },
+    {
+      "word": "dappertutto",
+      "translation": "her yerde",
+      "options": ["hiçbir yerde", "burada", "her yerde", "orada"]
+    },
+    {
+      "word": "da nessuna parte",
+      "translation": "hiçbir yerde",
+      "options": ["her yerde", "burada", "hiçbir yerde", "orada"]
+    },
+    {
+      "word": "fuori",
+      "translation": "dışarıda",
+      "options": ["içeride", "arada", "dışarıda", "üstte"]
+    },
+    {
+      "word": "dentro",
+      "translation": "içeride",
+      "options": ["dışarıda", "arada", "içeride", "altta"]
+    },
+    {
+      "word": "sopra",
+      "translation": "üstünde",
+      "options": ["altında", "arada", "üstünde", "içeride"]
+    },
+    {
+      "word": "sotto",
+      "translation": "altında",
+      "options": ["üstünde", "arada", "altında", "dışarıda"]
+    },
+    {
+      "word": "sinistra",
+      "translation": "sol",
+      "options": ["sağ", "orta", "sol", "arka"]
+    },
+    {
+      "word": "destra",
+      "translation": "sağ",
+      "options": ["sol", "orta", "sağ", "ön"]
+    },
+    {
+      "word": "mezzo",
+      "translation": "orta",
+      "options": ["sağ", "sol", "orta", "kenar"]
+    }
+  ],
+  "level14": [
+    {
+      "word": "sempre",
+      "translation": "her zaman",
+      "options": ["hiçbir zaman", "bazen", "her zaman", "nadiren"]
+    },
+    {
+      "word": "mai",
+      "translation": "hiçbir zaman",
+      "options": ["her zaman", "bazen", "hiçbir zaman", "sık sık"]
+    },
+    {
+      "word": "spesso",
+      "translation": "sık sık",
+      "options": ["hiçbir zaman", "nadiren", "sık sık", "bazen"]
+    },
+    {
+      "word": "qualche volta",
+      "translation": "bazen",
+      "options": ["her zaman", "hiçbir zaman", "bazen", "sık sık"]
+    },
+    {
+      "word": "raramente",
+      "translation": "nadiren",
+      "options": ["sık sık", "her zaman", "nadiren", "bazen"]
+    },
+    {
+      "word": "già",
+      "translation": "zaten",
+      "options": ["henüz", "artık", "zaten", "şimdi"]
+    },
+    {
+      "word": "ancora",
+      "translation": "hala",
+      "options": ["artık", "zaten", "hala", "henüz"]
+    },
+    {
+      "word": "non ancora",
+      "translation": "henüz değil",
+      "options": ["hala", "zaten", "henüz değil", "artık"]
+    },
+    {
+      "word": "non più",
+      "translation": "artık",
+      "options": ["henüz", "hala", "artık", "zaten"]
+    },
+    {
+      "word": "prima",
+      "translation": "önce",
+      "options": ["sonra", "şimdi", "önce", "sırasında"]
+    },
+    {
+      "word": "dopo",
+      "translation": "sonra",
+      "options": ["önce", "şimdi", "sonra", "sırasında"]
+    },
+    {
+      "word": "durante",
+      "translation": "sırasında",
+      "options": ["sonra", "önce", "sırasında", "şimdi"]
+    },
+    {
+      "word": "da",
+      "translation": "beri",
+      "options": ["kadar", "için", "beri", "önce"]
+    },
+    {
+      "word": "fino a",
+      "translation": "kadar",
+      "options": ["beri", "için", "kadar", "sonra"]
+    },
+    {
+      "word": "per",
+      "translation": "için",
+      "options": ["kadar", "beri", "için", "ile"]
+    },
+    {
+      "word": "con",
+      "translation": "ile",
+      "options": ["için", "kadar", "ile", "olmadan"]
+    },
+    {
+      "word": "senza",
+      "translation": "olmadan",
+      "options": ["ile", "için", "olmadan", "üzerine"]
+    },
+    {
+      "word": "su",
+      "translation": "üzerine",
+      "options": ["olmadan", "ile", "üzerine", "altına"]
+    },
+    {
+      "word": "sotto",
+      "translation": "altında",
+      "options": ["üzerine", "ile", "altında", "içinde"]
+    },
+    {
+      "word": "in",
+      "translation": "içinde",
+      "options": ["altında", "üzerine", "içinde", "dışında"]
+    },
+    {
+      "word": "fuori di",
+      "translation": "dışında",
+      "options": ["içinde", "altında", "dışında", "arasında"]
+    },
+    {
+      "word": "tra",
+      "translation": "arasında",
+      "options": ["dışında", "içinde", "arasında", "karşı"]
+    },
+    {
+      "word": "contro",
+      "translation": "karşı",
+      "options": ["arasında", "dışında", "karşı", "doğru"]
+    },
+    {
+      "word": "verso",
+      "translation": "doğru",
+      "options": ["karşı", "arasında", "doğru", "çevresinde"]
+    },
+    {
+      "word": "intorno",
+      "translation": "çevresinde",
+      "options": ["doğru", "karşı", "çevresinde", "boyunca"]
+    }
+  ],
+  "level15": [
+    {
+      "word": "lungo",
+      "translation": "boyunca",
+      "options": ["çevresinde", "doğru", "boyunca", "karşısında"]
+    },
+    {
+      "word": "di fronte",
+      "translation": "karşısında",
+      "options": ["boyunca", "çevresinde", "karşısında", "içinden"]
+    },
+    {
+      "word": "attraverso",
+      "translation": "içinden",
+      "options": ["karşısında", "boyunca", "içinden", "ötesinde"]
+    },
+    {
+      "word": "oltre",
+      "translation": "ötesinde",
+      "options": ["içinden", "karşısında", "ötesinde", "başlangıç"]
+    },
+    {
+      "word": "inizio",
+      "translation": "başlangıç",
+      "options": ["ötesinde", "içinden", "başlangıç", "son"]
+    },
+    {
+      "word": "fine",
+      "translation": "son",
+      "options": ["başlangıç", "ötesinde", "son", "orta"]
+    },
+    {
+      "word": "inizio",
+      "translation": "başlama",
+      "options": ["son", "başlangıç", "başlama", "bitirme"]
+    },
+    {
+      "word": "fermata",
+      "translation": "durma",
+      "options": ["başlama", "son", "durma", "devam"]
+    },
+    {
+      "word": "continuazione",
+      "translation": "devam",
+      "options": ["durma", "başlama", "devam", "bitiş"]
+    },
+    {
+      "word": "aspettare",
+      "translation": "beklemek",
+      "options": ["devam", "durma", "beklemek", "başlamak"]
+    },
+    {
+      "word": "iniziare",
+      "translation": "başlamak",
+      "options": ["beklemek", "devam", "başlamak", "bitirmek"]
+    },
+    {
+      "word": "finire",
+      "translation": "bitirmek",
+      "options": ["başlamak", "beklemek", "bitirmek", "devam etmek"]
+    },
+    {
+      "word": "continuare",
+      "translation": "devam etmek",
+      "options": ["bitirmek", "başlamak", "devam etmek", "durmak"]
+    },
+    {
+      "word": "fermare",
+      "translation": "durmak",
+      "options": ["devam etmek", "bitirmek", "durmak", "başlamak"]
+    },
+    {
+      "word": "bisogno",
+      "translation": "ihtiyaç",
+      "options": ["durmak", "devam etmek", "ihtiyaç", "istek"]
+    },
+    {
+      "word": "voglia",
+      "translation": "istek",
+      "options": ["ihtiyaç", "durmak", "istek", "sevgi"]
+    },
+    {
+      "word": "amore",
+      "translation": "aşk",
+      "options": ["istek", "ihtiyaç", "aşk", "nefret"]
+    },
+    {
+      "word": "odio",
+      "translation": "nefret",
+      "options": ["aşk", "istek", "nefret", "sevgi"]
+    },
+    {
+      "word": "piacere",
+      "translation": "beğenmek",
+      "options": ["nefret", "aşk", "beğenmek", "nefret etmek"]
+    },
+    {
+      "word": "odiare",
+      "translation": "nefret etmek",
+      "options": ["beğenmek", "nefret", "nefret etmek", "tercih etmek"]
+    },
+    {
+      "word": "preferire",
+      "translation": "tercih etmek",
+      "options": ["nefret etmek", "beğenmek", "tercih etmek", "seçmek"]
+    },
+    {
+      "word": "scegliere",
+      "translation": "seçmek",
+      "options": ["tercih etmek", "nefret etmek", "seçmek", "reddetmek"]
+    },
+    {
+      "word": "rifiutare",
+      "translation": "reddetmek",
+      "options": ["seçmek", "tercih etmek", "reddetmek", "kabul etmek"]
+    },
+    {
+      "word": "accettare",
+      "translation": "kabul etmek",
+      "options": ["reddetmek", "seçmek", "kabul etmek", "düşünmek"]
+    },
+    {
+      "word": "pensare",
+      "translation": "düşünmek",
+      "options": ["kabul etmek", "reddetmek", "düşünmek", "unutmak"]
+    }
+  ],
+  "level16": [
+    {
+      "word": "credere",
+      "translation": "inanmak",
+      "options": ["düşünmek", "kabul etmek", "inanmak", "unutmak"]
+    },
+    {
+      "word": "dimenticare",
+      "translation": "unutmak",
+      "options": ["inanmak", "düşünmek", "unutmak", "hatırlamak"]
+    },
+    {
+      "word": "ricordare",
+      "translation": "hatırlamak",
+      "options": ["unutmak", "inanmak", "hatırlamak", "düşünmek"]
+    },
+    {
+      "word": "sentire",
+      "translation": "hissetmek",
+      "options": ["hatırlamak", "unutmak", "hissetmek", "görmek"]
+    },
+    {
+      "word": "guardare",
+      "translation": "bakmak",
+      "options": ["hissetmek", "hatırlamak", "bakmak", "dinlemek"]
+    },
+    {
+      "word": "ascoltare",
+      "translation": "dinlemek",
+      "options": ["bakmak", "hissetmek", "dinlemek", "konuşmak"]
+    },
+    {
+      "word": "parlare",
+      "translation": "konuşmak",
+      "options": ["dinlemek", "bakmak", "konuşmak", "susmak"]
+    },
+    {
+      "word": "tacere",
+      "translation": "susmak",
+      "options": ["konuşmak", "dinlemek", "susmak", "bağırmak"]
+    },
+    {
+      "word": "gridare",
+      "translation": "bağırmak",
+      "options": ["susmak", "konuşmak", "bağırmak", "fısıldamak"]
+    },
+    {
+      "word": "sussurrare",
+      "translation": "fısıldamak",
+      "options": ["bağırmak", "susmak", "fısıldamak", "konuşmak"]
+    },
+    {
+      "word": "toccare",
+      "translation": "dokunmak",
+      "options": ["fısıldamak", "bağırmak", "dokunmak", "koşmak"]
+    },
+    {
+      "word": "correre",
+      "translation": "koşmak",
+      "options": ["dokunmak", "fısıldamak", "koşmak", "yürümek"]
+    },
+    {
+      "word": "camminare",
+      "translation": "yürümek",
+      "options": ["koşmak", "dokunmak", "yürümek", "durmak"]
+    },
+    {
+      "word": "fermarsi",
+      "translation": "durmak",
+      "options": ["yürümek", "koşmak", "durmak", "oturmak"]
+    },
+    {
+      "word": "sedersi",
+      "translation": "oturmak",
+      "options": ["durmak", "yürümek", "oturmak", "ayakta durmak"]
+    },
+    {
+      "word": "alzarsi",
+      "translation": "kalkmak",
+      "options": ["oturmak", "durmak", "kalkmak", "uzanmak"]
+    },
+    {
+      "word": "sdraiarsi",
+      "translation": "yatmak",
+      "options": ["kalkmak", "oturmak", "yatmak", "uyumak"]
+    },
+    {
+      "word": "dormire",
+      "translation": "uyumak",
+      "options": ["yatmak", "kalkmak", "uyumak", "uyanmak"]
+    },
+    {
+      "word": "svegliarsi",
+      "translation": "uyanmak",
+      "options": ["uyumak", "yatmak", "uyanmak", "rüya görmek"]
+    },
+    {
+      "word": "sognare",
+      "translation": "rüya görmek",
+      "options": ["uyanmak", "uyumak", "rüya görmek", "yemek"]
+    },
+    {
+      "word": "mangiare",
+      "translation": "yemek",
+      "options": ["rüya görmek", "uyanmak", "yemek", "içmek"]
+    },
+    {
+      "word": "bere",
+      "translation": "içmek",
+      "options": ["yemek", "rüya görmek", "içmek", "nefes almak"]
+    },
+    {
+      "word": "respirare",
+      "translation": "nefes almak",
+      "options": ["içmek", "yemek", "nefes almak", "yaşamak"]
+    },
+    {
+      "word": "vivere",
+      "translation": "yaşamak",
+      "options": ["nefes almak", "içmek", "yaşamak", "ölmek"]
+    },
+    {
+      "word": "morire",
+      "translation": "ölmek",
+      "options": ["yaşamak", "nefes almak", "ölmek", "doğmak"]
+    }
+  ],
+  "level17": [
+    {
+      "word": "nascere",
+      "translation": "doğmak",
+      "options": ["ölmek", "yaşamak", "doğmak", "büyümek"]
+    },
+    {
+      "word": "crescere",
+      "translation": "büyümek",
+      "options": ["doğmak", "ölmek", "büyümek", "küçülmek"]
+    },
+    {
+      "word": "cambiare",
+      "translation": "değişmek",
+      "options": ["büyümek", "doğmak", "değişmek", "kalmak"]
+    },
+    {
+      "word": "restare",
+      "translation": "kalmak",
+      "options": ["değişmek", "büyümek", "kalmak", "gitmek"]
+    },
+    {
+      "word": "entrare",
+      "translation": "girmek",
+      "options": ["çıkmak", "kalmak", "girmek", "dönmek"]
+    },
+    {
+      "word": "tornare",
+      "translation": "geri dönmek",
+      "options": ["girmek", "çıkmak", "geri dönmek", "devam etmek"]
+    },
+    {
+      "word": "arrivare",
+      "translation": "varmak",
+      "options": ["geri dönmek", "girmek", "varmak", "ayrılmak"]
+    },
+    {
+      "word": "lasciare",
+      "translation": "ayrılmak",
+      "options": ["varmak", "geri dönmek", "ayrılmak", "kalmak"]
+    },
+    {
+      "word": "unirsi",
+      "translation": "katılmak",
+      "options": ["ayrılmak", "varmak", "katılmak", "kaçmak"]
+    },
+    {
+      "word": "fuggire",
+      "translation": "kaçmak",
+      "options": ["katılmak", "ayrılmak", "kaçmak", "takip etmek"]
+    },
+    {
+      "word": "seguire",
+      "translation": "takip etmek",
+      "options": ["kaçmak", "katılmak", "takip etmek", "öncülük etmek"]
+    },
+    {
+      "word": "guidare",
+      "translation": "yönetmek",
+      "options": ["takip etmek", "kaçmak", "yönetmek", "itaat etmek"]
+    },
+    {
+      "word": "obbedire",
+      "translation": "itaat etmek",
+      "options": ["yönetmek", "takip etmek", "itaat etmek", "isyan etmek"]
+    },
+    {
+      "word": "comandare",
+      "translation": "komuta etmek",
+      "options": ["itaat etmek", "yönetmek", "komuta etmek", "boyun eğmek"]
+    },
+    {
+      "word": "aiutare",
+      "translation": "yardım etmek",
+      "options": ["komuta etmek", "itaat etmek", "yardım etmek", "engel olmak"]
+    },
+    {
+      "word": "impedire",
+      "translation": "engellemek",
+      "options": ["yardım etmek", "komuta etmek", "engellemek", "izin vermek"]
+    },
+    {
+      "word": "permettere",
+      "translation": "izin vermek",
+      "options": ["engellemek", "yardım etmek", "izin vermek", "yasaklamak"]
+    },
+    {
+      "word": "proibire",
+      "translation": "yasaklamak",
+      "options": ["izin vermek", "engellemek", "yasaklamak", "serbest bırakmak"]
+    },
+    {
+      "word": "liberare",
+      "translation": "serbest bırakmak",
+      "options": ["yasaklamak", "izin vermek", "serbest bırakmak", "tutuklamak"]
+    },
+    {
+      "word": "arrestare",
+      "translation": "tutuklamak",
+      "options": ["serbest bırakmak", "yasaklamak", "tutuklamak", "çalmak"]
+    },
+    {
+      "word": "rubare",
+      "translation": "çalmak",
+      "options": ["tutuklamak", "serbest bırakmak", "çalmak", "vermek"]
+    },
+    {
+      "word": "restituire",
+      "translation": "geri vermek",
+      "options": ["çalmak", "tutuklamak", "geri vermek", "gizlemek"]
+    },
+    {
+      "word": "nascondere",
+      "translation": "gizlemek",
+      "options": ["geri vermek", "çalmak", "gizlemek", "göstermek"]
+    },
+    {
+      "word": "mostrare",
+      "translation": "göstermek",
+      "options": ["gizlemek", "geri vermek", "göstermek", "kapatmak"]
+    },
+    {
+      "word": "chiudere",
+      "translation": "kapatmak",
+      "options": ["göstermek", "gizlemek", "kapatmak", "açmak"]
+    }
+  ],
+  "level18": [
+    {
+      "word": "aprire",
+      "translation": "açmak",
+      "options": ["kapatmak", "göstermek", "açmak", "kırmak"]
+    },
+    {
+      "word": "rompere",
+      "translation": "kırmak",
+      "options": ["açmak", "kapatmak", "kırmak", "tamir etmek"]
+    },
+    {
+      "word": "riparare",
+      "translation": "tamir etmek",
+      "options": ["kırmak", "açmak", "tamir etmek", "yıkmak"]
+    },
+    {
+      "word": "distruggere",
+      "translation": "yıkmak",
+      "options": ["tamir etmek", "kırmak", "yıkmak", "inşa etmek"]
+    },
+    {
+      "word": "costruire",
+      "translation": "inşa etmek",
+      "options": ["yıkmak", "tamir etmek", "inşa etmek", "yaratmak"]
+    },
+    {
+      "word": "creare",
+      "translation": "yaratmak",
+      "options": ["inşa etmek", "yıkmak", "yaratmak", "kopyalamak"]
+    },
+    {
+      "word": "copiare",
+      "translation": "kopyalamak",
+      "options": ["yaratmak", "inşa etmek", "kopyalamak", "silmek"]
+    },
+    {
+      "word": "cancellare",
+      "translation": "silmek",
+      "options": ["kopyalamak", "yaratmak", "silmek", "yazmak"]
+    },
+    {
+      "word": "scrivere",
+      "translation": "yazmak",
+      "options": ["silmek", "kopyalamak", "yazmak", "okumak"]
+    },
+    {
+      "word": "leggere",
+      "translation": "okumak",
+      "options": ["yazmak", "silmek", "okumak", "anlamak"]
+    },
+    {
+      "word": "capire",
+      "translation": "anlamak",
+      "options": ["okumak", "yazmak", "anlamak", "açıklamak"]
+    },
+    {
+      "word": "spiegare",
+      "translation": "açıklamak",
+      "options": ["anlamak", "okumak", "açıklamak", "sormak"]
+    },
+    {
+      "word": "chiedere",
+      "translation": "sormak",
+      "options": ["açıklamak", "anlamak", "sormak", "cevap vermek"]
+    },
+    {
+      "word": "rispondere",
+      "translation": "cevap vermek",
+      "options": ["sormak", "açıklamak", "cevap vermek", "tartışmak"]
+    },
+    {
+      "word": "discutere",
+      "translation": "tartışmak",
+      "options": ["cevap vermek", "sormak", "tartışmak", "anlaşmak"]
+    },
+    {
+      "word": "accordarsi",
+      "translation": "anlaşmak",
+      "options": ["tartışmak", "cevap vermek", "anlaşmak", "kavga etmek"]
+    },
+    {
+      "word": "litigare",
+      "translation": "kavga etmek",
+      "options": ["anlaşmak", "tartışmak", "kavga etmek", "barışmak"]
+    },
+    {
+      "word": "riconciliarsi",
+      "translation": "barışmak",
+      "options": ["kavga etmek", "anlaşmak", "barışmak", "kızmak"]
+    },
+    {
+      "word": "arrabbiarsi",
+      "translation": "kızmak",
+      "options": ["barışmak", "kavga etmek", "kızmak", "gülmek"]
+    },
+    {
+      "word": "ridere",
+      "translation": "gülmek",
+      "options": ["kızmak", "barışmak", "gülmek", "ağlamak"]
+    },
+    {
+      "word": "piangere",
+      "translation": "ağlamak",
+      "options": ["gülmek", "kızmak", "ağlamak", "şarkı söylemek"]
+    },
+    {
+      "word": "cantare",
+      "translation": "şarkı söylemek",
+      "options": ["ağlamak", "gülmek", "şarkı söylemek", "dans etmek"]
+    },
+    {
+      "word": "ballare",
+      "translation": "dans etmek",
+      "options": ["şarkı söylemek", "ağlamak", "dans etmek", "çalmak"]
+    },
+    {
+      "word": "suonare",
+      "translation": "çalmak/oynamak",
+      "options": ["dans etmek", "şarkı söylemek", "çalmak/oynamak", "dinlenmek"]
+    }
+  ],
+  "level19": [
+    {
+      "word": "riposare",
+      "translation": "dinlenmek",
+      "options": ["çalmak/oynamak", "dans etmek", "dinlenmek", "çalışmak"]
+    },
+    {
+      "word": "lavorare",
+      "translation": "çalışmak",
+      "options": ["dinlenmek", "çalmak/oynamak", "çalışmak", "eğlenmek"]
+    },
+    {
+      "word": "divertirsi",
+      "translation": "eğlenmek",
+      "options": ["çalışmak", "dinlenmek", "eğlenmek", "sıkılmak"]
+    },
+    {
+      "word": "annoiarsi",
+      "translation": "sıkılmak",
+      "options": ["eğlenmek", "çalışmak", "sıkılmak", "endişelenmek"]
+    },
+    {
+      "word": "preoccuparsi",
+      "translation": "endişelenmek",
+      "options": ["sıkılmak", "eğlenmek", "endişelenmek", "rahatlamak"]
+    },
+    {
+      "word": "rilassarsi",
+      "translation": "rahatlamak",
+      "options": ["endişelenmek", "sıkılmak", "rahatlamak", "stres yapmak"]
+    },
+    {
+      "word": "stressarsi",
+      "translation": "stres yapmak",
+      "options": ["rahatlamak", "endişelenmek", "stres yapmak", "sakinleşmek"]
+    },
+    {
+      "word": "calmarsi",
+      "translation": "sakinleşmek",
+      "options": ["stres yapmak", "rahatlamak", "sakinleşmek", "heyecanlanmak"]
+    },
+    {
+      "word": "emozionarsi",
+      "translation": "heyecanlanmak",
+      "options": ["sakinleşmek", "stres yapmak", "heyecanlanmak", "şaşırmak"]
+    },
+    {
+      "word": "stupirsi",
+      "translation": "şaşırmak",
+      "options": ["heyecanlanmak", "sakinleşmek", "şaşırmak", "alışmak"]
+    },
+    {
+      "word": "abituarsi",
+      "translation": "alışmak",
+      "options": ["şaşırmak", "heyecanlanmak", "alışmak", "değiştirmek"]
+    },
+    {
+      "word": "modificare",
+      "translation": "değiştirmek",
+      "options": ["alışmak", "şaşırmak", "değiştirmek", "korumak"]
+    },
+    {
+      "word": "proteggere",
+      "translation": "korumak",
+      "options": ["değiştirmek", "alışmak", "korumak", "saldırmak"]
+    },
+    {
+      "word": "attaccare",
+      "translation": "saldırmak",
+      "options": ["korumak", "değiştirmek", "saldırmak", "savunmak"]
+    },
+    {
+      "word": "difendere",
+      "translation": "savunmak",
+      "options": ["saldırmak", "korumak", "savunmak", "kaçmak"]
+    },
+    {
+      "word": "scappare",
+      "translation": "kaçmak",
+      "options": ["savunmak", "saldırmak", "kaçmak", "yakalamak"]
+    },
+    {
+      "word": "catturare",
+      "translation": "yakalamak",
+      "options": ["kaçmak", "savunmak", "yakalamak", "bırakmak"]
+    },
+    {
+      "word": "lasciare",
+      "translation": "bırakmak",
+      "options": ["yakalamak", "kaçmak", "bırakmak", "tutmak"]
+    },
+    {
+      "word": "tenere",
+      "translation": "tutmak",
+      "options": ["bırakmak", "yakalamak", "tutmak", "atmak"]
+    },
+    {
+      "word": "buttare",
+      "translation": "atmak",
+      "options": ["tutmak", "bırakmak", "atmak", "toplamak"]
+    },
+    {
+      "word": "raccogliere",
+      "translation": "toplamak",
+      "options": ["atmak", "tutmak", "toplamak", "dağıtmak"]
+    },
+    {
+      "word": "distribuire",
+      "translation": "dağıtmak",
+      "options": ["toplamak", "atmak", "dağıtmak", "paylaşmak"]
+    },
+    {
+      "word": "condividere",
+      "translation": "paylaşmak",
+      "options": ["dağıtmak", "toplamak", "paylaşmak", "saklamak"]
+    },
+    {
+      "word": "conservare",
+      "translation": "saklamak",
+      "options": ["paylaşmak", "dağıtmak", "saklamak", "kaybolmak"]
+    },
+    {
+      "word": "perdere",
+      "translation": "kaybolmak",
+      "options": ["saklamak", "paylaşmak", "kaybolmak", "bulmak"]
+    }
+  ],
+  "level20": [
+    {
+      "word": "trovare",
+      "translation": "bulmak",
+      "options": ["kaybolmak", "saklamak", "bulmak", "aramak"]
+    },
+    {
+      "word": "cercare",
+      "translation": "aramak",
+      "options": ["bulmak", "kaybolmak", "aramak", "keşfetmek"]
+    },
+    {
+      "word": "scoprire",
+      "translation": "keşfetmek",
+      "options": ["aramak", "bulmak", "keşfetmek", "öğrenmek"]
+    },
+    {
+      "word": "imparare",
+      "translation": "öğrenmek",
+      "options": ["keşfetmek", "aramak", "öğrenmek", "öğretmek"]
+    },
+    {
+      "word": "insegnare",
+      "translation": "öğretmek",
+      "options": ["öğrenmek", "keşfetmek", "öğretmek", "ders çalışmak"]
+    },
+    {
+      "word": "studiare",
+      "translation": "ders çalışmak",
+      "options": ["öğretmek", "öğrenmek", "ders çalışmak", "başarmak"]
+    },
+    {
+      "word": "riuscire",
+      "translation": "başarmak",
+      "options": ["ders çalışmak", "öğretmek", "başarmak", "başarısız olmak"]
+    },
+    {
+      "word": "fallire",
+      "translation": "başarısız olmak",
+      "options": ["başarmak", "ders çalışmak", "başarısız olmak", "denemek"]
+    },
+    {
+      "word": "provare",
+      "translation": "denemek",
+      "options": ["başarısız olmak", "başarmak", "denemek", "vazgeçmek"]
+    },
+    {
+      "word": "abbandonare",
+      "translation": "vazgeçmek",
+      "options": ["denemek", "başarısız olmak", "vazgeçmek", "ısrar etmek"]
+    },
+    {
+      "word": "perseverare",
+      "translation": "ısrar etmek",
+      "options": ["vazgeçmek", "denemek", "ısrar etmek", "tereddüt etmek"]
+    },
+    {
+      "word": "esitare",
+      "translation": "tereddüt etmek",
+      "options": ["ısrar etmek", "vazgeçmek", "tereddüt etmek", "karar vermek"]
+    },
+    {
+      "word": "decidere",
+      "translation": "karar vermek",
+      "options": ["tereddüt etmek", "ısrar etmek", "karar vermek", "fikir değiştirmek"]
+    },
+    {
+      "word": "cambiare idea",
+      "translation": "fikir değiştirmek",
+      "options": ["karar vermek", "tereddüt etmek", "fikir değiştirmek", "ısrar etmek"]
+    },
+    {
+      "word": "insistere",
+      "translation": "ısrar etmek",
+      "options": ["fikir değiştirmek", "karar vermek", "ısrar etmek", "teslim olmak"]
+    },
+    {
+      "word": "arrendersi",
+      "translation": "teslim olmak",
+      "options": ["ısrar etmek", "fikir değiştirmek", "teslim olmak", "direnmek"]
+    },
+    {
+      "word": "resistere",
+      "translation": "direnmek",
+      "options": ["teslim olmak", "ısrar etmek", "direnmek", "boyun eğmek"]
+    },
+    {
+      "word": "sottomettersi",
+      "translation": "boyun eğmek",
+      "options": ["direnmek", "teslim olmak", "boyun eğmek", "isyan etmek"]
+    },
+    {
+      "word": "ribellarsi",
+      "translation": "isyan etmek",
+      "options": ["boyun eğmek", "direnmek", "isyan etmek", "uyum sağlamak"]
+    },
+    {
+      "word": "adattarsi",
+      "translation": "uyum sağlamak",
+      "options": ["isyan etmek", "boyun eğmek", "uyum sağlamak", "gelişmek"]
+    },
+    {
+      "word": "evolvere",
+      "translation": "gelişmek",
+      "options": ["uyum sağlamak", "isyan etmek", "gelişmek", "geri gitmek"]
+    },
+    {
+      "word": "retrocedere",
+      "translation": "geri gitmek",
+      "options": ["gelişmek", "uyum sağlamak", "geri gitmek", "ilerlemek"]
+    },
+    {
+      "word": "avanzare",
+      "translation": "ilerlemek",
+      "options": ["geri gitmek", "gelişmek", "ilerlemek", "durmak"]
+    },
+    {
+      "word": "fermarsi",
+      "translation": "durmak",
+      "options": ["ilerlemek", "geri gitmek", "durmak", "hızlanmak"]
+    },
+    {
+      "word": "accelerare",
+      "translation": "hızlanmak",
+      "options": ["durmak", "ilerlemek", "hızlanmak", "yavaşlamak"]
+    }
+  ]
+}
