@@ -1,4 +1,7 @@
-// Top-level build file where you can add configuration options common to all sub-projects/modules.
-plugins {
-    alias(libs.plugins.android.application) apply false
-}
+*.kt linguist-language=Kotlin
+*.gradle linguist-vendored=true
+*.gradle.kts linguist-vendored=true
+gradle/* linguist-vendored=true
+gradlew linguist-vendored=true
+gradlew.bat linguist-vendored=true
+*.properties linguist-vendored=true
